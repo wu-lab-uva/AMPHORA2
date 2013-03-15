@@ -1,0 +1,798 @@
+>REF-YP_003247267-NC_013407 nusG transcription antitermination protein NusG {Methanocaldococcus vulcanius M7} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTMVGQEKNIAGLM---ASR-
+AEK-----EQLD--VHSILASESLKGYVLVEAETK-GDVEELIKGMPRIRGIV----P--
+---G------TISIEEIEPLLTP-KKIIENIEKGDVVEIIAGPFKGERAKVIRVDKHKEE
+-VTLELENAAVPIPITLPVEGVKIV------SK---HK----D
+>REF-YP_001325200-NC_009635 nusG transcription antitermination protein NusG {Methanococcus aeolicus Nankai-3} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IYAIRTTTGQELNVAEFL---AAK-
+AEK-----EDIE--IYSILATEDLKGYILVEAPNM-GALEDLIRKTFKVKGIV----Q--
+---G------ETSVDELEHLLTP-TKIIETIDKGDTVELVAGPFKGERARVIRVDKHKEE
+-ITLELMDAAVPIPITVGIEQVKII------SK---T-----Q
+>REF-YP_183832-NC_006624 nusG transcription antitermination protein NusG {Thermococcus kodakarensis KOD1} [Chromosome ]
+----M-----A----------------EG-------------------------------
+------------------------------------------------------------
+----------------------------------KIFTVSVTVGQETTTANLI---YSK-
+AKT-----YNLP--LYAILSPSKVKGYIFIEAPNK-SAVEEAIRGIRHAKRVL----P--
+---G------EIPFSEIEHFLEE-KPAVSGFEPGDIVELIAGPFKGEKAKVVRVDESKDE
+-IVVELVSSVVPIPVTVRGEYVRLI------SK---RQ--K-E
+>REF-NP_247346-NC_000909 nusG transcription antitermination protein NusG {Methanocaldococcus jannaschii DSM 2661} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTMVGQEKNIAGLM---ASR-
+AEK-----EQLD--VYSILASESLKGYVLVEAETK-GDVEELIKGMPRVRGIV----P--
+---G------TIAIEEIEPLLTP-KKIIENIEKGDVVEIIAGPFKGERAKVIRVDKHKEE
+-VTLELENAAVPIPITLPVEGVKIV------SK---HK----D
+>REF-YP_003357189-NC_013665 putative ribosomal protein L26e {Methanocella paludicola SANAE} [Chromosome ]
+----M-----A----------------QE-------------------------------
+------------------------------------------------------------
+------------------------QQMQAETPTASVFAVKTTANQERSVANLI---AMV-
+ARK-----EGYD--IRSILVPEELKGYVLVESPMH-EIVEHTIQNIPHAKAVV----K--
+---G------ASSIAEVQHFLAP-KPVVTGISEGDIVELISGPFKGERARVKRVDETKEE
+-ITVELSEAMVPIPVTVRGDIVRVL------SK---EE---TR
+>REF-YP_004458475-NC_015518 NusG antitermination factor {Acidianus hospitalis W1} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+------------------------------SKIRNYYAVKVTGGQEVSVGLML---EER-
+AKT-----NNIPE-IYSIIVPPGLKGYVIVEASGP-HVVKLLIAGIRHVRGIA----Q--
+---G------LVPKDDIIKMVSK-KVTGPTIKEGDLVEVVSGPFRGMQAQVVKVTEGKGE
+-VVLNILESAFPLQVTIPVDQVKPV------KK---------T
+>REF-YP_001405420-NC_009712 ribosomal protein L24 {Methanoregula boonei 6A8} [Chromosome]
+----M-----A----------------MTAEPTPV-------------------------
+------------------------------------------------------------
+---------------------SPAVPTVPEVFSNRIFAIKTTSKQERTVADNILK-AIE-
+TKA-----TDIK--VTSIIVPNELQGYVLVETPEERNRIEQLVEMIAHARAVA----K--
+---G------QTTLAEVGHFLIP-KPVVSGIDEGTIVELIAGPFKGEKAVVKRVDSAKEE
+-ITVELYESVVPIPITVRGDNVRVV------DK---VS--D-R
+>REF-YP_023223-NC_005877 nusG transcription antitermination protein NusG {Picrophilus torridus DSM 9790} [Chromosome ]
+----M-----E----------------SYEWIRTSDEHAIKSGCNQNVMISLKLKNIGNS
+KRKFTLRLNTDFEQSDSMIEWLIEIDNDYKVSPSDNKEIDINYDLSQNEERNISLRILTP
+RGGYQNDKIILDVDLSSEDGVYKFHDKYTIELVPVIVIAKCTIGKELDTAVDLSAKAETD
+LKERLISNKNARNEILSIMSPYEIKGYIFIETMHV-DRVEYLARTLRNFKGII----S--
+---G------TVSMDEIEHYLTP-KPAVSGLSLGDLVEIVGGPFKGERAKIMSIDASKEE
+-VTVQLTESMVPIPVTVKAESIRPL------DS---------K
+>REF-YP_003178750-NC_013202 NusG antitermination factor {Halomicrobium mukohataei DSM 12286} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIYAVKTTASQERTVADMI---IS--
+--R-----EEES--IHAALAPDSLTSYVMVEADDA-SVFERILDEIPHANGVV----P--
+---G------ESSMSEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_001191712-NC_009440 nusG transcription antitermination protein NusG {Metallosphaera sedula DSM 5348} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------APKVRNFYAVKVTGGQEISVAIML---EER-
+IKT-----NGIGD-VYSIIVPPGLKGYVIVESSGP-HVVKFIIAGIRHVRGVA----P--
+---G------LVPKDDIMKMVSK-KQTGPSIKTGDMVEVVSGPFRGMQAQVMSYNADRGE
+-VVLNILESAFPLQVTIPVDQIRPV------KK---------T
+>REF-YP_004037498-NC_014729 LSU ribosomal protein l24a {Halogeometricum borinquense DSM 11551} [Chromosome ]
+----M-----S----------------E--------------------------------
+------------------------------------------------------------
+---------------------------------VPIFAVKTTARQEQTVADMI---AT--
+--R-----EEAE--IHAVLAPDSLTSYVMVEADNN-AVINRVLEEIPHARGLV----GDG
+Q--A------TSSMAEVEHFLSP-TPDVEGIAEGDIVELVAGPFKGEKARVQRIDETKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_003400616-NC_013741 NusG antitermination factor {Archaeoglobus profundus DSM 5631} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+---------------------------------GKFFAVKTTVNQERIVANLM---ELA-
+VKK-----YNLE--VYSILAPKELRGYVLVEAKDI-QNVRRAITGIPHARGIL----S--
+---G------EIPFKEVEHFLTP-KRAVEQIKEGYKVEIIAGPFKGEQAIVRRVDPSKNE
+-ITVELVEAVVPIPITVKADHVRVI------ER---GE-----
+>REF-YP_003727733-NC_014253 NusG antitermination factor {Methanohalobium evestigatum Z-7303} [Chromosome ]
+----M-----S----------------EE-------------------------------
+------------------------------------------------------------
+------------------------SEDE-----SAIFVVKTTANQERSVANMV---AQV-
+TRK-----DKLD--IRAVIAPDELKGYVLVEALDS-ATVEQAIQRVPHAKALV----K--
+---G------QSSIDEITHFLTP-KPTVTGITEGTIIEITSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVIPIPITIRGDTVRVL------KK---EE---KV
+>REF-NP_633034-NC_003901 nusG transcription antitermination protein NusG {Methanosarcina mazei Go1} [Chromosome ]
+MGGQM-----S----------------ED-------------------------------
+------------------------------------------------------------
+---------------------------------SQIFVIKTTANQERSVAMTL---ARV-
+AKK-----EKLD--IRAILAPDELKGYVLVEAPKS-GIVELAIQTIPHARALV----K--
+---G------SSSISEIEHFLKP-KPVVTGIKEGAIIEVTSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRIL------KK---EN----E
+>REF-YP_004484457-NC_015562 NusG antitermination factor {Methanotorris igneus Kol 5} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTAGQEKNVAEML---ASK-
+AER-----ENLD--VYSILATENLKGYILVEAENR-GVVEELVRGAFKVKGIV----P--
+---G------TTSIDELEHLLTP-RKLVEDIEKGDLVELVAGPFKGERARVIRVDKHKEE
+-ITIELEQAAVPIPITVNVEHVKIV------SK---N-----K
+>REF-YP_003650162-NC_014160 50S ribosomal protein L24A {Thermosphaera aggregans DSM 11486} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+------------------------SGAEEAAGVGRIFAVRTTMGRELDVALVI---ARR-
+AEELIAKGEDPG--ISSIVIPPNVRGYVFFEVEKL-ASLYRLASEVKYVKASR----P--
+---V------KVSPEELEKLIMP-KPVVESISVGDVVEIIRGPFRGMKAQVTGIDRNKNM
+-LTVNILEAAFAIPISIPSDYVKQV------KK--------GE
+>REF-YP_001688544-NC_010364 nusG transcription antitermination protein NusG {Halobacterium salinarum R1} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------SVFAVKTTASQEQTVASMI---AN--
+--R-----EEDT--IHAVLAPDALTSYVMVEAEDT-AAIERTMDEIPHARSLV----P--
+---G------ESGISEVEHFLSP-KPDVEGIAENDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-NP_276789-NC_000916 nusG transcription antitermination protein NusG {Methanothermobacter thermautotrophicus str. Delta H} [Chromosome ]
+----M-----N----------------YI-------------------------------
+------------------------------------------------------------
+----------------------YEVVFLMEDSKNSIYALKTSVGQEKNVARML---ARK-
+VRD-----SGIE--INAILVPESLRGYILVESSSK-IDMRNPAIRVPHLRGVV----E--
+---SKTEGEAEIDFEEVKRFLKP-EPIISSIKKGSIVELISGPFKGERAKVIRIDESREE
+-VVLELIEAAVPIPVTVKGDQIRII------QK---EA----D
+>REF-YP_003129809-NC_013158 nusG transcription antitermination protein NusG {Halorhabdus utahensis DSM 12940} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIFAVKTTASQERTVADMI---MN--
+--R-----EEDS--VHAALAPDSLTSYVMVEAEDA-SVFERILDEIPHANGVV----Q--
+---G------KSSIKEVEHFLSP-TPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_004409185-NC_015435 transcription antitermination protein NusG {Metallosphaera cuprina Ar-4} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------ASKVRNFYAIKVTGGQEMSVAIML---EER-
+IKT-----NGINE-VFSIIVPPALKGYLIVESSGP-HVVKLIISGIRHVRGIA----P--
+---G------LVPKTDIMNMVSK-KPTGPAIKTGDMVEVVSGPFRGMQAQVMGYNAERGE
+-VVLNILESAFPLQVTIPVDQVRTV------KK---------S
+>REF-YP_326067-NC_007426 nusG transcription antitermination protein NusG {Natronomonas pharaonis DSM 2160} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------AIYSVKTTASQERTVADML---IS--
+--R-----EEEG--IHATLAPDALTSYVMVEADDT-AAISRALEDIPHARTLV----SE-
+---Q------PSPFSEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_003404190-NC_013743 NusG antitermination factor {Haloterrigena turkmenica DSM 5511} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIYAVKTTASQERTVADMI---IN--
+--R-----EEPE--IHAALAPDSLTSYVMVESEGD-AVLNRVLEDIPHARSIV----P--
+---G------KSDISEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_004385092-NC_015416 rplX 50S ribosomal protein L24 {Methanosaeta concilii GP6} [Chromosome ]
+----M-----S----------------E--------------------------------
+------------------------------------------------------------
+---------------------------------TSIYVVKTTANQERSVANMI---AQI-
+ARK-----EKYD--IRALLVPDVLKGYVLVESPAP-EIVDQAIQGIPHARSVI----K--
+---G------ASNIGEVEHFLTP-KPAVIGINEGAIVELISGPFKGEKARVKRVDLAKEE
+-ITVELFEAMVPIPITVRGDHVRVL------SK---DE----T
+>REF-YP_004762326-NC_015865 nusG transcription antitermination protein NusG {Thermococcus sp. 4557} [Chromosome ]
+----M-----S----------------DG-------------------------------
+------------------------------------------------------------
+----------------------------------KIFTVRVTVGQEETTAKLI---YSK-
+IKT-----YNLP--VYAILAPSKVKGYIFIEAPSK-SAVDEAIKGIRHAKGTL----P--
+---G------EVKFEEIEHFLEE-KPAVSGFEPGDIVELISGPFKGEKAKVVRVDEAKDE
+-IVVELIGSIVPIPVTVRGEYVRLI------SK---RQ--K-E
+>REF-YP_003816382-NC_014374 Putative transcription antitermination protein nusG {Acidilobus saccharovorans 345-15} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+----------------SQAGSGAPQQGGGAAQGSRFYAIYVTGGYEERVVAVL---GER-
+ART-----LQLD--VRSIVYSPDLKGVVFVEVGDV-KDLYYLIRGVRNIKRRR----P--
+---T------MVSVDDILKLVKP-PAAAEPIAKGDVIQVIGGPFKGMRGRIIEV--RKGE
+-VDVNLLEGDSKIIVTIPIDQVKPV------GKEREGQEEQGG
+>REF-NP_963820-NC_005213 nusG transcription antitermination protein NusG {Nanoarchaeum equitans Kin4-M} [Chromosome ]
+----M-----L-------------------------------------------------
+------------------------------------------------------------
+---------------------SNKYLKDFIFNNQMIWIVKTAGGKEEIVADLIEAKAKKL
+GAN-----------VYSIVIAPGIKGYIFVEADKY-DTVNELVHDIKHVRKVL----P--
+---K------PIEVKDIEKFIKA-EPLVTKVNVGDIVEVIAGPLKGSRGKVVAFNENTGE
+-VTIETLDSVIPLPVTVSIHDIKLVEPSKEEKKEEVEEFLFFE
+>REF-YP_003479285-NC_013922 NusG antitermination factor {Natrialba magadii ATCC 43099} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIFAVKTTASQERTVADMI---IN--
+--R-----EEPE--IHAALAPDSLTSYVMVEAEGN-AVLNRVLEDIPHARSIV----P--
+---G------ESDISEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_304176-NC_007355 nusG transcription antitermination protein NusG {Methanosarcina barkeri str. Fusaro} [Chromosome 1]
+----M-----S----------------ED-------------------------------
+------------------------------------------------------------
+---------------------------------SQIFVIKTTANQERSVATAL---ARV-
+SKK-----EKLD--IRAILAPDELKGYVLVEAPKS-GIVELAIQTIPHARALV----K--
+---G------SSSIAEIEHFLKP-KPTVTGIKEGAIIEVTSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRIL------KK---EN----E
+>REF-YP_004617038-NC_015676 NusG antitermination factor {Methanosalsum zhilinae DSM 4017} [Chromosome ]
+----M-----A----------------SE-------------------------------
+------------------------------------------------------------
+------------------------DEE------SAIFVVKTTANQERSVAVML---TQI-
+AKK-----DRLD--IRSILAPDELKGYILIESPRA-SIVEQAIQTVPHARSIV----K--
+---G------QSSLDEIMHFLTP-KPTVTGITEGAIIEITSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRVL------KK---EE---QS
+>REF-NP_148437-NC_000854 nusG transcription antitermination protein NusG {Aeropyrum pernix K1} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------GGVDARFYAILVTSGAEVNVATII---AER-
+ARA-----LGLD--IRSIIVPPRIKGYVILEAHDP-GDVYDATRGLRHVKRRR----P--
+---L------ILKFEEVMKLVKP-EVEIPALKPGQVVEIVAGAFKGMKARVIDVNQSKGQ
+-VTVSLLEPLFRATATIPIDEVRPV------EE----------
+>REF-YP_001153809-NC_009376 nusG transcription antitermination protein NusG {Pyrobaculum arsenaticum DSM 13514} [Chromosome]
+----M-----A-------------------------------------------------
+------------------------------------------------------------
+------------------------------QERCPVYTISVVARQEYNVVITL---KMR-
+VES-----SKIP--VYSIVVPPESFGVMFVEGESL-PAVNRAVYGVKHVKGVM----R--
+---G------VSNVEEVMKILKPARPMVE-LDVNDEVEIVADVLKGSRGRVTYVDKEKGI
+-VRVELLDSAFPMPLDLKISEVKLV------KK-------GSQ
+>REF-YP_003420042-NC_013769 ribosomal protein L24 {Sulfolobus islandicus L.D.8.5} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEVLKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-NP_142025-NC_000961 nusG transcription antitermination protein NusG {Pyrococcus horikoshii OT3} [Chromosome ]
+MKK-M-----G-----------------G-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTQGQEENTARLI---YSK-
+VKT-----YNLP--IYAILAPSKVKGYIFIEAPEK-SVVDEAIRGIRHARGVL----P--
+---G------EIPFSEIEHFLEE-KPAVSGLEPGDIVELISGPFKGEKAKVVRVDESKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---RQ--KEE
+>REF-YP_004795950-NC_015948 nusG transcription antitermination protein NusG {Haloarcula hispanica ATCC 33960} [Chromosome I]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIYAVKTTASQERTVADMI---IS--
+--R-----EEDE--IHAALAPDSLTSYVMVEADDH-NVFDRILDEIPHANGVV----Q--
+---G------ESSMAEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_002915078-NC_012726 nusG transcription antitermination protein NusG {Sulfolobus islandicus M.16.4} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEILKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-NP_560491-NC_003364 nusG transcription antitermination protein NusG {Pyrobaculum aerophilum str. IM2} [Chromosome ]
+----M-----A-------------------------------------------------
+------------------------------------------------------------
+------------------------------QERCPVYTVSVVSRQEYNVVIVL---KLR-
+AES-----AKIP--VYSIVVPPESFGVMYIEGESL-PAVNRAVYGVKHVKGVM----R--
+---G------ITNVEEVMRILRPTKPVVE-IDVNDEVEIVADVLKGSRARVTYVDKEKGI
+-VRVELLDSAFPMPLDLKISEVKLV------KK-------SSQ
+>REF-NP_341886-NC_002754 nusG transcription antitermination protein NusG {Sulfolobus solfataricus P2} [Chromosome ]
+----MGCNFVE-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAIKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEILKIVSR-KTVGPTVKPGDVVEVISGPFRGTQAQVIRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_002306560-NC_011529 nusG transcription antitermination protein NusG {Thermococcus onnurineus NA1} [Chromosome]
+----M-----S----------------DG-------------------------------
+------------------------------------------------------------
+----------------------------------RIFTVRVTVGQEETTAKLI---YSK-
+IKT-----YNLP--VYAILAPSKVKGYIFVEAPSK-SAVDEAIKGIRHAKGTL----P--
+---G------EVRFEEIEHFLEE-KPAVSGFEPGDIVELIAGPFKGEKAKVVRVDEAKDE
+-IVVELIGSIVPIPVTVRGEYVRLI------SK---RQ--K-E
+>REF-YP_003483235-NC_013926 NusG antitermination factor {Aciduliprofundum boonei T469} [Chromosome ]
+----M-----I----------------DVSLNTELFRIPAGRIAEIVIVISNKGEKKEKV
+TFKVLSQLNMKDPSLEWSVNIIGVEKDEVKLLVTKEENKELEYELQVQPNKRKEIYVNIT
+APRAAEIGDYGIFKFEVIHSEGLWSKDVRINIEAAIVAVKTTIGQEVKVARDI---GMKA
+KIH-----GWKE--IFSVLAPYNLKGYVFVETSRP-DKVLSLIRGIKDAKGVV----R--
+---G------EMHLEEIKHYLTP-TPTIHRISVGDIVELVEGPFKGEHAKVIQIDEAKDE
+-ITVELFEAMVPIPITVKAEAVRLL------EK---EG----E
+>REF-YP_002428798-NC_011766 Putative transcription antitermination protein nusG {Desulfurococcus kamchatkensis 1221n} [Chromosome]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+------------------------ESQESSGGAAKIYAVKTTLGRELDTALII---GMR-
+IDEMRARGEETS--IGSIIIPPNVRGYVFIEVERL-GELYKVISDIRYIKAGR----P--
+---I------KVSYEEFEKLLKP-KPVIEELNVGDEVEITRGPFRGMRARIAGIDRNKNM
+-LTVNILEAAFTIPITIPGDYVKKI------SK--------GV
+>REF-NP_988554-NC_005791 nusG transcription antitermination protein NusG {Methanococcus maripaludis S2} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEKNVAESL---ASR-
+AEK-----ENLE--VFSILATEDLKGYILIEAANK-GALDELVRKSFKVKGIV----P--
+---G------ETSVNELDHLLTP-TKIIEHIDKGDVVELVGGPFKGERARVTRVDKHKEE
+-ITLELIDAAVPIPITVGIEQVKII------SK---Q-----D
+>REF-YP_002993796-NC_012883 nusG transcription antitermination protein NusG {Thermococcus sibiricus MM 739} [Chromosome]
+MVK-M-----S----------------ES-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTVGQEENTAKLI---YSK-
+AKT-----YSLP--IMAILSPSKVRGYIFVEATEK-AAVDEVIRGIRHAKGTL----P--
+---G------PISFIEIEHFLEE-KPAVSGFEPGDIVELIAGPFKGEKAKVVRVDESKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---RS--E-E
+>REF-YP_004338459-NC_015315 transcription antitermination protein NusG {Thermoproteus uzoniensis 768-20} [Chromosome ]
+----M-----A-------------------------------------------------
+------------------------------------------------------------
+------------------------------SQQCPIYSVSVVGRQEYNVTMVL---KLR-
+SES-----GKQP--VYSILVPKEPFGVIFIEAESL-AVVYRVVSGVKHVKGVL----K--
+---G------KTSLEEIVKYVEPKKPVID-IDVNDEVEILADVLKGSRGRVISVDKEKGL
+-VRVELLDSPFPMPLDLKASEVKVT------KK-------AGR
+>REF-YP_002958851-NC_012804 nusG transcription antitermination protein NusG {Thermococcus gammatolerans EJ3} [Chromosome]
+----M-----S----------------EG-------------------------------
+------------------------------------------------------------
+----------------------------------KIFTVRVTVGQEETTAKLI---YSK-
+VKT-----YNLP--VYAILAPSKVKGYIFVEAPSK-SAVDEAIKGIRHARGTL----P--
+---G------EVKFEEIEHFLEE-KPAVSGFEPGDIVELISGPFKGEKAKVVRVDESKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---HQ--K-E
+>REF-NP_111962-NC_002689 nusG transcription antitermination protein NusG {Thermoplasma volcanium GSS1} [Chromosome ]
+----M-----E-----------SGKEYEWITFNADSLMERSSGEKIDFPLRIKNIQNVKR
+KFSFGIVYHIMEKDPTVDWKAVVTINKSEDISMMGDGEYSDDFDIEGNKEKVIGLTVYAP
+KGASANDTLDLNIEIESEDNVHHFTKDVKIVLKPVIVALKTTVGSEVQVATDLNNKAERD
+RDERSQGGEKQPSEVFAIMAPYEIKGYIFVETMHP-DRISYLAKDIRGYKGMV----S--
+---G------KIDLEEIAHYLTP-KPAVSGLELGSLVELVEGPFKGEKAKIISIDSVKEE
+-VTVQLVESMVPIPVTVKAESIRLL-----------------K
+>REF-YP_001046326-NC_009051 ribosomal protein L24 {Methanoculleus marisnigri JR1} [Chromosome ]
+----M-----V-------------------------------------------------
+------------------------------------------------------------
+------------------------------ESPNRIYAIKTTAKQERTVADNIEKVSRE-
+--Q-----KDIH--VMAVMVPEELKGYVLVESPDSIARIEQLVELIPHARAVV----Q--
+---G------STALSEVEHFLVP-KPVVSGITEGTIVEIIAGPFKGEKAVVKRIDTGKEE
+-ITVELYESMVPIPITVRGDSVRVV------ER---SE--DAS
+>REF-NP_125694-NC_000868 nusG transcription antitermination protein NusG {Pyrococcus abyssi GE5} [Chromosome ]
+----M-----G-----------------G-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTQGQEENTARLI---YSK-
+VRT-----YNLP--IYAILAPSKVKGYIFIEAPEK-SVVDEAIRGIRHARGVL----P--
+---R------EIPFSEIEHFLEE-KPAVSGLEPGDIVELISGPFKGEKAKVVRVDESKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---RQ--KEE
+>REF-YP_001435763-NC_009776 nusG transcription antitermination protein NusG {Ignicoccus hospitalis KIN4/I} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+--------------------------------GVPFFPVRTVSGREIDVALLI---EER-
+ARA-----KNLD--VKSVIVPPRIKGFVIVESPAH-FVVAEAVRGIKYVRGGP-------
+---GK-----KISLEEVLKMIKP-VPIIETVEVGDIVELVAGVFKGVKARVEAKIPEKNE
+-LVLSIVEAAYPLQITVPADYVRPV------RR----------
+>REF-YP_003534779-NC_013967 nusG transcription antitermination protein NusG-like protein {Haloferax volcanii DS2} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------PIFAVKTTARQEQTVADMI---AT--
+--K-----EFEQ--IHAVLAPDSLTSYVMVEADDD-GIVTRVLEEIPHARGLV----ESG
+GAVG------TSSMAEVEHFLSP-TPDVEGIAEGDIVELIAGPFKGEKARVQRIDETKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_657021-NC_008212 nusG transcription antitermination protein NusG {Haloquadratum walsbyi DSM 16790} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------SIFAVKTTASQERTVADMI---AT--
+--R-----EEPD--IHAVLAPDSLTSYVMVESDSN-AAISRVLEEIPHARGLV----KSG
+GQAG------KSTIAEVEHFLSP-TPDVEGIAEGDIVELIAGPFKGEKARVQRIDETKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_003423226-NC_013790 ribosomal protein L24 family {Methanobrevibacter ruminantium M1} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------EDDKNSIFALKTSAGQERTVARLL---GMK-
+ADK-----PGVD--IKAIVVPESLKGYIIVESATN-LDMKNPDMKVRHLRGIVGAKRD--
+---GTIDPSSQITLEEVKKFLKP-QPIISSIQKGSIVELVSGPFKGEKSKVVRLDESREE
+-VVLELIEAAVPIPVTVKADQIRII------KK---EA----D
+>REF-YP_001041097-NC_009033 50S ribosomal protein L24A {Staphylothermus marinus F1} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+-----------------------------IRRKTSFYAIRTTMGREIDVALVI---ESR-
+IMDLVKQNRDPG--VKAVFVPPGVRGYVFLETSRL-ASIYRLISELKYVKSGQ----P--
+---I------KVSLDEVGRLVKP-KPVIEMIKEGDIVEIVRGPFRGMKAQVISIDRNKNM
+-VVLSILEAAFNVPITVPGDYVKPS------RK-------SGV
+>REF-YP_001031014-NC_008942 50S ribosomal protein L24A {Methanocorpusculum labreanum Z} [Chromosome ]
+----M-----T----------------ES-------------------------------
+------------------------------------------------------------
+------------------------------KFGNHYYILKTTSKHERTVADNIRE-AIE-
+NNM-----TDVV--VTAVVVPEDIKGYVFVESPEEHARIEELVESIAHARIVL----K--
+---N------ETSLEEIKHFLVP-KPAVSGIDEGTIVELIAGPFKGEKAVVKRVDHTKEE
+-ITVELYESIVPIPITIRGDNVRVI------DR---NQ--D--
+>REF-YP_003435778-NC_013849 NusG antitermination factor {Ferroglobus placidus DSM 10642} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+---------------------------------SRFFVVKTTANQERLVANMM---SMV-
+AKK-----NKAN--VYSILAPKELKGYVIVEAEST-EDLVKSIRGVPHVKGLV----R--
+---G------EVSFNEIEHFLTP-RKAAEQIKEGYTVEIISGPFKGELAVVKRVDEARNE
+-ITVELIEAVVSIPITVKADHVRVV------DK---KE--EVE
+>REF-YP_004576299-NC_015636 NusG antitermination factor {Methanothermococcus okinawensis IH1} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAIRTTTGQEKNVAEFL---ASR-
+AEK-----EKID--IYSILATEDLKGYILVEAPNK-GAVEDLVRKTFKVKGIV----P--
+---G------EISIDELEHLLSP-TKIIESIDKGDVVELVAGPFKGEKAIVTRVDKHKEE
+-ITLELMEAAVPIPITVGIEQVKIV------SK---N-----Q
+>REF-YP_001096676-NC_009135 nusG transcription antitermination protein NusG {Methanococcus maripaludis C5} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEKNVAESL---ASK-
+AEK-----ENLE--VFSILATEDLKGYILIEAANK-GALDDLVRKSFKVKGIV----P--
+---G------ETSVSELDHLLTP-TKIIEHIDKGDIVELVGGPFKGERARVTRVDKHKEE
+-ITLELIDAAVPIPITVGVEQVKIV------SK---Q-----D
+>REF-YP_003541360-NC_014002 50S ribosomal protein L24A {Methanohalophilus mahii DSM 5219} [Chromosome ]
+----M-----S----------------ED-------------------------------
+------------------------------------------------------------
+---------------------------------SAIFVIKTTANQERSVAGML---AKV-
+AKK-----ENLD--IRALLAPDELKGYVLAESSNP-GEVEQAIQTVPHARALV----K--
+---G------QSSMEEIMHFLTP-KPTVTGITEGAIIEVTSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRIL------RK---EE----E
+>REF-YP_001273197-NC_009515 nusG transcription antitermination protein NusG {Methanobrevibacter smithii ATCC 35061} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------EDANSSIYALKTSAGQERNVARLL---AHKA
+ISV-----EGIG--ISAILVPESLKGYILVESSTK-IDLRNPDLKVPHLRGVV----E--
+---GKH----GITFEEAKRFLKP-EPIISSIQKGSVVELISGPFKGERAKVVRIDESREE
+-VVLELIEAAVPIPVTVKADQIRII------QK---EA----D
+>REF-YP_002565567-NC_012029 nusG transcription antitermination protein NusG {Halorubrum lacusprofundi ATCC 49239} [Chromosome 1]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------PIFSVKTTARQERTVADML---AE--
+--K-----EMPE--IQAVIAPDQLTSYVMVEATDG-SVFARILDEIPHARGVI----QGS
+EGPA------ESPFSEVEHFLSP-TPDVEGIAEGDIVELIAGPFKGEKARVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_875283-NC_014820 ribosomal protein L24A {Cenarchaeum symbiosum A} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------VMNIL---EAK-
+ARM-----NKID--IQSVFVVDNLKGYVVVEANDP-NAAYQATDGVRHIKGQL----R--
+---G------ELDFKDIEGYLVK-KSTVTSLEKDQTVEITGGPFKGMKASITRIDHEKEE
+-ATVVLLDASYQLPVTVDANYLQVS------SS----------
+>REF-YP_002829803-NC_012588 nusG transcription antitermination protein NusG {Sulfolobus islandicus M.14.25} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEILKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_002838054-NC_012622 nusG transcription antitermination protein NusG {Sulfolobus islandicus Y.G.57.14} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEVLKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_003900487-NC_014537 NusG antitermination factor {Vulcanisaeta distributa DSM 14429} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+--------------------------STEQAMSCRVYALRAVGNQEYNVAFML---KART
+EHK---GLDKVK--VTAIVVLPALKGFVFVEGSLP-YEIQDLATGIKHYRGMV----R--
+---G------VMSVDEIVSSLA--KPV--EINVGDVVEIIVEPFKGYRGKVVDIDRQRGQ
+-VYLELLDSSSTMPIIVNIRGVRKI------ES--------KQ
+>REF-YP_004743198-NC_015847 nusG transcription antitermination protein NusG {Methanococcus maripaludis X1} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEKNVAESL---ASR-
+AEK-----ENLE--VFSILATEDLKGYILIEAANK-GALDELVRKSFKVKGIV----P--
+---G------ETSVNELDHLLTP-TKIIEHIDKGDVVELVGGPFKGERARVTRVDKHKEE
+-ITLELIDAAVPIPITVGIEQVKII------SK---Q-----D
+>REF-YP_004781107-NC_015931 NusG antitermination factor {Pyrolobus fumarii 1A} [Chromosome]
+----M-----K-------------------------------------------------
+------------------------------------------------------------
+-------------------GVTEETKERGPQRPVRFYAVRTIAGREIDVALLI---ESR-
+ARE-----NNLD--IRSIIVPPKVKGIVLVEAPAA-FIVSEAIRGIRYARSVA----P--
+---G------YIPPEEIAKVMK--EEVAIRIKEGDVVEIISGPFRGFRGRVERADLEKGQ
+-IELTLLDASYNLRIIVSPDMVRPV------RE-----ETHGA
+>REF-YP_843838-NC_008553 nusG transcription antitermination protein NusG {Methanosaeta thermophila PT} [Chromosome ]
+----M-----S----------------E--------------------------------
+------------------------------------------------------------
+---------------------------------TSIYVVKTTANQERAVANLV---AQV-
+ARK-----EKLD--IRAILVPDVLKGYVLVEASAP-EIVEQAIQGVPHARSVI----K--
+---G------ASSFAEIEHFLTP-KPAVVGISEGAIVELISGPFKGEMARVKRVDIAKEE
+-ITVELFEAMVPIPITVRGDHVRVL------SK---EE--TQR
+>REF-NP_377322-NC_003106 nusG transcription antitermination protein NusG {Sulfolobus tokodaii str. 7} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------RPRFSNYYAVRVTGGQEINVALMI---EER-
+IKT-----NNIKE-VYSIIVPPNVKGYVILEATGP-HVVKLVSQGIRHVRGFA----Q--
+---G------LVQKDDIIKFISK-TTIAPAYKVGDMVEVTSGPFRGMQAQVVRIDSAKNE
+-VVLNILESSFPLQVTVPIDQVKPV------KK----------
+>REF-YP_003860100-NC_014471 NusG antitermination factor {Ignisphaera aggregans DSM 17230} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+----------------VADKGSESNTSLMKTSKNMFFAIRTTAGQETNVALMI---EVR-
+AKT-----SNLP--IYSILSLPNLKGYIVLETPGL-HIVYEAIRGLKHVKGKT----S--
+---G------TLRWEDLEALIKP-RSLIELIQVGEEVEVVAGPFRGMKAKIIAIDKTRNE
+-VSLNVLEASYPLTITVPVDYIRPS------KR--------EM
+>REF-YP_004598598-NC_015666 NusG antitermination factor {Halopiger xanaduensis SH-6} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIYAVKTTASQERTVADMI---IN--
+--R-----EESE--IHAALAPDSLTSYVMVEADGN-AVLNRVLEDIPHARSIV----P--
+---G------ESDISEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_003669372-NC_014205 NusG antitermination factor {Staphylothermus hellenicus DSM 12710} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+-----------------------------IRRKTSFYALRTTMGREIDVALVI---ESR-
+IKDLKKQNRDPG--VKAIFVPPGVRGYVFLETSRL-ASIYRLISEVKYVKSGQ----P--
+---I------KVSLEEVERLVKP-KPVIEMIKEGDIVEIVRGPFRGMKAQVISIDRNKNM
+-VVLSILEAAFNVPITVPGDYVKPT------RK-------SGV
+>REF-YP_256074-NC_007181 nusG transcription antitermination protein NusG {Sulfolobus acidocaldarius DSM 639} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------DFKYRNYYVLRVTGGQEINVALIL---EER-
+IKT-----NNINE-IFSVVVPPNIKGYVILEATGP-HVVKLISSGIRHVKGVA----H--
+---G------LIQKEDVTKFVSK-SVALPAVKEGDLVEVISGPFRGMQAQVVRVESTKNE
+-VVLNILESSYPVQVTVPLEQVKPV------KR----------
+>REF-NP_069373-NC_000917 nusG transcription antitermination protein NusG {Archaeoglobus fulgidus DSM 4304} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+---------------------------------SRFFAVKTTANQERVVANLM---DMA-
+ARK-----HNLK--VYSILAPKELKGYIIVEAETP-DDLLKAIRGLPHVKGVV----K--
+---G------EISFSEIEHFLTP-KKAAEQIREGDKVEIVSGPFKGEMAIVKRVDEAKNE
+-ITVELLEAVVPIPVTVKADHVRVI------DK---KE---EV
+>REF-YP_135401-NC_006396 nusG transcription antitermination protein NusG {Haloarcula marismortui ATCC 43049} [Chromosome I]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------GIYAVKTTASQERTVADMI---IS--
+--R-----EEDE--IHAALAPDSLTSYVMVEADDH-NVFDRILDEIPHANGVV----Q--
+---G------ESSMAEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_004070392-NC_014804 NusG-like transcription antitermination protein {Thermococcus barophilus MP} [Chromosome ]
+----M-----S----------------DS-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTVGQEETTARLV---YSK-
+AKT-----YNLP--IYAILTPSKVKGYIFIEAPSK-SAVDEAIRGIRHARGTL----P--
+---G------EVAFSEIEHFLEE-KPAVSGFEPGDIVELIAGPFKGEKAKVIRVDEAKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---RS--K-E
+>REF-NP_279455-NC_002607 nusG transcription antitermination protein NusG {Halobacterium sp. NRC-1} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------SVFAVKTTASQEQTVASMI---AN--
+--R-----EEDT--IHAVLAPDALTSYVMVEAEDT-AAIERTMDEIPHARSLV----P--
+---G------ESGISEVEHFLSP-KPDVEGIAENDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_004423732-NC_015474 transcription antitermination protein NusG {Pyrococcus sp. NA2} [Chromosome ]
+----M-----G-----------------G-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTQGQEENTARLI---YSK-
+VRT-----YNLP--VYAILAPSKVKGYIFVEAPEK-SVVDEAIRGIRHARGVL----P--
+---R------EVPFSEIEHFLEE-KPAVSGLEPGDIVELISGPFKGEKAKVVRVDEAKDE
+-IVVELIGAIVPIPVTVKGEYVRLI------SK---RQ--KEE
+>REF-YP_929984-NC_008701 nusG transcription antitermination protein NusG {Pyrobaculum islandicum DSM 4184} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+------------------------------QERCPVYSVSAVSRQEYNIVIVL---KMR-
+IES-----NKIP--IYSIVVPPEPFGILFIEGESL-PAVSRAIYGVKHIKGIM----R--
+---G------VTNVEEVLRVVRPTKPAVE-IDINDEVEIIADVLKGSRGRVTFVDREKGI
+-VRVELLDSAFPMPLDLRINEVKLV------KK------ASQG
+>REF-YP_002843794-NC_012632 nusG transcription antitermination protein NusG {Sulfolobus islandicus M.16.27} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEILKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_004291435-NC_015216 NusG antitermination factor {Methanobacterium sp. AL-21} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IYAIRTLVGQEKNVARII---GRN-
+VKN-----SGIE--VHSILVPESLRGYILVESSTK-IDMQNPAFKVPHMKGAI----E--
+---G------EIPYEEVKSFLNP-EPILASVQKGSIVELISGPFKGEKAKVVRIDESKED
+-VVLELIEAAVPIPVTVKGDQIRLI------QK---EA----D
+>REF-YP_004519238-NC_015574 NusG antitermination factor {Methanobacterium sp. SWAN-1} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IYAIRTLVGQEKNVARII---ARN-
+VKN-----SGIE--VNSILVPESLRGYILVESSTK-IDMQNPAFKVPHMKGVI----D--
+---G------EIPFEEVKTFLNP-EPILASIQKGSIVELISGPFKGEKAKVVRIDESKEN
+-VVLELIEAAVPIPVTVKGDQIRLI------QK---EA----D
+>REF-YP_004244620-NC_015151 NusG antitermination factor {Vulcanisaeta moutnovskia 768-28} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+--------------------------------SCRAYALRAVGNQEYNVAFML---KARA
+EHK---GLDKVR--ISAIVVLPTLKGFVFVEGSMP-YEIQDLATGIKHYRGMV----R--
+---G------VMSIDEIVSSLA--KPV--EINVGDVVEIIVEPFKGYRGKVVDIDRQRGQ
+-VYLELLDSSSTMPIIVNIKGVRKV------ES---------K
+>REF-YP_003849178-NC_014408 nusG transcription antitermination protein NusG {Methanothermobacter marburgensis str. Marburg} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------EDSKNSIYALKTSVGQEKNVARML---ARK-
+VRD-----SGIE--INAILVPESLRGYILVESSSK-IDMRNPAIRVPHLRGVV----E--
+---GKTEGESKIEFEEVKRFLKP-EPIISSIKKGSIVELISGPFKGERAKVIRIDESREE
+-VVLELIEAAVPIPVTVKGDQIRII------QK---EA----D
+>REF-YP_919817-NC_008698 NusG antitermination factor {Thermofilum pendens Hrk 5} [Chromosome ]
+----M-----A-------------------------------------------------
+------------------------------------------------------------
+---------------------------EKPPSPLRFYALRVTSGQEYNVAQLLYRRAASG
+KYK-----------VYSILVVPGLKGMVFVESDAL-YEAQRLAYGLKHVRGVV----R--
+---G------AVSLQEMEGLLKP-KPLVDQLNVGDFVEIIRGPFTGMRGRIVGIDKSRNE
+-VKVELAEAVFVLPVTINADDIKVI------KR------GGEA
+>REF-YP_001737773-NC_010482 NusG antitermination factor {Candidatus Korarchaeum cryptofilum OPF8} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+------------------------------QRQSLFFPVRVISGKEINIMRLLVSRVSST
+GAK-----------VRSIIFVPKFKNYLFVEAERE-YEVRKLIAGLSKLRLAS----S--
+---S------PVPPQEIEDILSS-ETAGMEIEPGDIVKIIKGNFKGYRAVVIATPEGKSK
+MLTLKLLDIDRDWEVKMPVINVKLL------ER--GKGGGEVA
+>REF-YP_004003707-NC_014658 LSU ribosomal protein l24a {Methanothermus fervidus DSM 2088} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KSKIYALKTSAGQEKNVARML---TKK-
+VKN-----SDID--ISAILVSESLKGYILVESSSK-LDMRNPIFRMPHLRGIV----E--
+---G------SVKFKEIEKFLKP-EPIVTSIKRGSIVELIAGPFKGERAKVIRVDESKEE
+-VVLELIEAAVPIPVTVKADQVRIV------QK---EA----D
+>REF-YP_004807444-NC_015954 NusG antitermination factor {halophilic archaeon DL31} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------PIFAVKTTARQEETVADMI---AS--
+--K-----EMAE--IHAVLAPDSLTSYVMVEADDD-SIIERILEEIPHARGMV----P--
+---G------TSSMTEVEHFLSP-TPDVEGIAEGDIVELIAGPFKGEKARVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---DE----R
+>REF-YP_001549284-NC_009975 nusG transcription antitermination protein NusG {Methanococcus maripaludis C6} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEKNVAESL---ASK-
+AEK-----ENLE--VFSILATEDLKGYILIEAANK-GALDELVRKSFKVKGIV----P--
+---G------ETSVSELDHLLTP-TKIIEHIDKGDIVELVGGPFKGERARVTRVDKHKEE
+-ITLELIDAAVPIPITVGVEQVKIV------SK---Q-----D
+>REF-YP_001581720-NC_010085 NusG antitermination factor {Nitrosopumilus maritimus SCM1} [Chromosome]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+-----------------------------EEVKSHLFAIRTTGGQEKVVMRLL---EAK-
+ANA-----NQIN--IQSVFWVNDLKGYVVIEAINP-SDAYMAVEGVRHIRGQL----R--
+---G------ELEFKDIEGYLVK-KSTVSTLAVDNVVEITGGPFKGMKATITRIDSDKEE
+-ATVVLLDASYQLPVTVDANYLKLS------TE---------G
+>REF-NP_619137-NC_003552 nusG transcription antitermination protein NusG {Methanosarcina acetivorans C2A} [Chromosome ]
+MGVPM-----S----------------ED-------------------------------
+------------------------------------------------------------
+---------------------------------SQIFVIKTTANQERSVAMAL---ARI-
+AKK-----EKLD--IRAILAPDELKGYVLVEAPKS-GIVELAIQTIPHARALV----K--
+---G------SSSIAEIEHFLKP-KPIVTGIKEGAIIEVTSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRIL------KK---EN----E
+>REF-YP_002832540-NC_012589 nusG transcription antitermination protein NusG {Sulfolobus islandicus L.S.2.15} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEVLKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_687571-NC_009464 nusG transcription antitermination protein NusG {uncultured methanogenic archaeon RC-I} [Chromosome]
+----M-----A----------------DE-------------------------------
+------------------------------------------------------------
+------------------------AAQQA-IPKSAIFAVKTTANQERSVANLI---AMV-
+TRK-----ENLD--IRSVLVPEELKGYVLVESPMA-EIVEDCIKNIPHAKAVV----R--
+---G------ASSITEVQHFLAP-KPTVTGISEGDIVELTAGPFKGEKARVKRIDEAKEE
+-ITVELSEAMVPIPVTVRGDIVRVL------SK---EETGAKK
+>REF-YP_003128751-NC_013156 nusG transcription antitermination protein NusG {Methanocaldococcus fervens AG86} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTMVGQEKNIAGLM---ASR-
+AEK-----EQLD--VYSILASESLKGYVLVEAESK-GDVEELIKGMPRVRGIV----P--
+---G------TVAIEEIEPLLTP-KKIIENIEKGDVVEIIAGPFKGERAKVIRVDKNKEE
+-VTLELENATVPIPITLSVEGVKII------SK---HK----D
+>REF-YP_001540774-NC_009954 transcription termination antitermination factor {Caldivirga maquilingensis IC-167} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------QEDKCVFIGVRVIAGQEYNVAAII---RTRL
+ELMEKDKRKYYN--VPSIVVPPNVQGQVYLETPHS-YVAIDLSTGIKQYRGLM----M--
+---G------KVPLTELMKMIK--REI--KVQINDVVEIITEPFRGFKAKVVDVDEKNNT
+-VKLLLFDTATNIPVTLPIKSIRVI------EE--------KK
+>REF-YP_003737700-NC_014297 NusG antitermination factor {Halalkalicoccus jeotgali B3} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+----------------------------------PIYAVKTTASQERTVADMI---MN--
+--R-----EEPA--IHAALAPDSLTSYVMVESDDH-AIIERVLDEIPHARSIV----P--
+---G------QSSITEVEHFLSP-KPDVEGIAEGDIVELIAGPFKGEKAQVQRIDEGKDQ
+-VTVELYEATVPIPVTVRGDQIRVL------DS---EE----R
+>REF-YP_448287-NC_007681 nusG transcription antitermination protein NusG {Methanosphaera stadtmanae DSM 3091} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------FYAMRVLIGQEKNVASLL---AQS-
+VKH-----EDTG--ISAILSPESMKGYIFVESDKT-LDMRHPALKVPNLRGLV----E--
+---G------DVDFDELKSFLSP-DQSIVNIEKGSIVELTSGPFKDEKAKVVRIDEAKED
+-VVLELIEAAVPIPVTVKGDQIRLI------QK---EA----E
+>REF-YP_003708112-NC_014222 NusG antitermination factor {Methanococcus voltae A3} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEQNVAEAL---ASR-
+AER-----ENLE--VFSILATEDLKGYILVEATNK-GAIEELVRQNFKVKGIV----P--
+---G------ESSVKELEHLLTP-TKIIESIDKGDVVELVGGPFKGEKARVTRVDKNKEE
+-ITLELMEAAVAIPITVGIEQVKII------AK---DA----P
+>REF-YP_004624744-NC_015680 transcription antitermination protein NusG {Pyrococcus yayanosii CH1} [Chromosome ]
+----M-----A-----------------G-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTQGQEENTARLI---YSK-
+ART-----YNLP--LYAILAPSKVKGYIFVEAPHK-SAVDEAIRGIRHARGVL----P--
+---K------DIPFKEIEHFLEE-KPAVSGLEPGDIVELISGPFKGEKAKVVRVDEGKDE
+-IVVELIGAIVPIPVTVRGEYVRLI------SK---RQ--K-E
+>REF-YP_001056714-NC_009073 nusG transcription antitermination protein NusG {Pyrobaculum calidifontis JCM 11548} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+------------------------------SERCPVFTVSVVSRQEYNIVMLL---KMR-
+VES-----GKLP--IYAIVVPPESFGVLFIEGESL-PVVSRAVYGVKHVKGVM----R--
+---G------ITNVEEVMRVLKPPKPTVE-IDVNDEVEITADVLKGSRARVTFVDREKGI
+-VRVELLDSAFPMPLDLKITEVKLV------KK------AGQQ
+>REF-NP_614106-NC_003551 nusG transcription antitermination protein NusG {Methanopyrus kandleri AV19} [Chromosome ]
+----M-----A-------------------------------------------------
+------------------------------------------------------------
+-----------------------------ETDSTKLYAVRVQAGREEATADMLVMRARRK
+VKE-----EGIETGLKAVIAPEELRGYVIIEVEELTDELRDLIHDLPDTRGIV----E--
+---K------PMDFEEIEHYFAP-KPEAVEISEGDVVEILSGPFKGEKARVVSVDESRRE
+-ITVELLEAPVPIPVTVKMDALRLL------RE---EE--YEG
+>REF-YP_502133-NC_007796 NusG antitermination factor {Methanospirillum hungatei JF-1} [Chromosome ]
+----M-----E----------------NE-------------------------------
+------------------------------------------------------------
+------------------------------HRLTRIFAVKTTNRAERSVADNIDK-AVR-
+DAD-----NDIR--VMSVIVPDELKGYVLVETDEPIARVQELMEHVPSARTVL----P--
+---G------VTTLEEVGHYLIP-KPAVSGIDEGTIVELINGPFKGEKAVVKRVDASKEE
+-ITVELYESVLPIPITVRGDHVRVI------DR---GE--DDS
+>REF-YP_566575-NC_007955 nusG transcription antitermination protein NusG {Methanococcoides burtonii DSM 6242} [Chromosome ]
+----M-----G----------------ED-------------------------------
+------------------------------------------------------------
+---------------------------------AAIFVVKTTANQERSVAAML---AQV-
+AKK-----ENLD--IRSIIAPDELKGYVLLESSDS-GAVEQAIQTVPHARTVV----K--
+---G------QSTIAEIEHFLTP-KPTVTGIVEGAIIEVTSGPFKGEKARVKRVDEGHEE
+-ITVELFDAVVPIPITIRGDTVRIL------RK---EE--TKS
+>REF-NP_394879-NC_002578 nusG transcription antitermination protein NusG {Thermoplasma acidophilum DSM 1728} [Chromosome ]
+----M-----FISRYLKVESMENSKEYEWISSDVPDRIEVGAGETINLRFSIKNIQNVKR
+KFRVSIGYSVEENDSTVDWKAVLNISKKNEVSLLGQGSLEDDIDIDPLKSKNIDMAINAP
+KGAYPNDKMTLNFSIESEDGVHRFTKSVTIVLKPVIVALKTTVGSEVQVAIDLNNRAEKD
+REDRSGDGKKLPSEVYAIMAPYEIKGYIFVETMHP-DRISYLARDIRGYKGMV----S--
+---G------KIDLEEIAHYLTP-KPAVSGLELGSLVELVEGPFKGEKAKIISIDSVKEE
+-VTVQLVESMVPIPVTVKAESIRQL-----------------K
+>REF-YP_001795025-NC_010525 nusG transcription antitermination protein NusG {Thermoproteus neutrophilus V24Sta} [Chromosome]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+------------------------------QERCPVYTVSTVTRQEYNVVIVL---KMR-
+AES-----SKIP--IYSVVVPPESFGVLFIEGESL-PAVQRAVYGVKHVKGVM----R--
+---G------VTNVEEVMNVIKPAKPAVE-IDVNDEVEIVADVLKGSRGRVTFVDREKGV
+-VRVELLDSAFPMPLDLKISEVKLV------KK------SSQG
+>REF-NP_579719-NC_003413 nusG transcription antitermination protein NusG {Pyrococcus furiosus DSM 3638} [Chromosome ]
+----M-----A-----------------G-------------------------------
+------------------------------------------------------------
+----------------------------------KIFAVRVTHGQEETTAKLI---YSK-
+VRT-----YNLP--IYAILAPSRVKGYIFVEAPNK-GVVDEAIRGIRHARGVL----P--
+---G------EVPFKEIEHFLEE-KPAVSGLEPGDLVEVIAGPFKGQKAKVVKIDESKDE
+-VVVQFIDAIVPIPVTIKGDYVRLI------SK---LQ--KEE
+>REF-YP_003616972-NC_014122 NusG antitermination factor {Methanocaldococcus infernus ME} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTMGRQEKNVALLL---SAK-
+AEK-----ENLN--VSSILASDQLKGYIFVEADNE-EELKTLIKGVPKVKGYV----R--
+---G------VIPLEEIEPLLSP-KKIVEEIEKGDVVEIVAGPFKGERAKVIRVDKNKEE
+-ITLELINATVPIPITLPVESIRVV------SK---K-----K
+>REF-YP_002465277-NC_011832 NusG antitermination factor {Methanosphaerula palustris E1-9c} [Chromosome]
+----M-----T----------------ES-------------------------------
+------------------------------------------------------------
+-------------------------EGAEEETTLHYFAIKTTSKQERTVADNIKK-AVD-
+--Q-----TDIK--VYSVMAPKELQGYVLVETPEKLNRMEQLIERVPHARAIL----R--
+---G------ETALAEVAHFLVP-KPVVSGIVEGTIIELIAGPFKGEKAIVKRVDSGKEE
+-ITVELYESMVPIPITVRGDNVRVI------DR---GE--D-R
+>REF-YP_001013768-NC_008818 nusG transcription antitermination protein NusG {Hyperthermus butylicus DSM 5456} [Chromosome ]
+----M-----S-------------------------------------------------
+------------------------------------------------------------
+-------------QPAEEIPGEARSEEQERRLQPRLYAVRTVAGREIDVALIM---EQR-
+ARD-----QNMP--IYAIIVPPQIKGYVIVETPAA-FYATNAIQGIRYAKGVV----P--
+---G------VLRYEDVERLLKP-KAVIETLKPGDIVEIISGPFRGMKGQVVRVSPSKNE
+-VVLNVLEVEYPLQITVPGDSVRPS------KE-----ERGSR
+>REF-YP_003895315-NC_014507 NusG antitermination factor {Methanoplanus petrolearius DSM 11571} [Chromosome ]
+----M-----T----------------EE-------------------------------
+------------------------------------------------------------
+------------------------------AVKNKIYAIKTTAKQERTVVDNIIK-ALE-
+-DH-----DEIN--VVAVMAPDELKGYVLVESPDPIARIEQLREMVPNARTVV----K--
+---G------ETSFHEVEHFLEP-KPVVSGIDEGTIVELIAGPFKGEKAIVKRVDTSKEE
+-ITVELYESMVPIPITVRGDNVRVI------DK---MA--E-D
+>REF-YP_004176895-NC_014961 50S ribosomal protein L24A {Desulfurococcus mucosus DSM 2162} [Chromosome ]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+------------------------DQQSSGEEQARIYAVKTTVGRELDVAFII---SMR-
+VEEKKAKGEETS--VRSIIIPPDIKGYVFLEVEKL-SELYRVVSDIRYVKAGR----P--
+---M------KIAYEELEKLLKP-KPVIEELDVGDIVEITRGPFKGMRAKITGVDRNKNM
+-LTVNILEATFTIPITIPGDYVKKM------SK--------GA
+>REF-YP_001323263-NC_009634 nusG transcription antitermination protein NusG {Methanococcus vannielii SB} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTNGQEKNVAEAL---ATK-
+AEK-----ENLE--VFSILATEDLKGYILVEAANK-GALDELVRKSFKVKGIV----P--
+---G------ETTVNELDHLLTP-TKIIENIDKGDVVELVGGPFKGERARVTRVDKNKEE
+-ITLELIDAAVPIPITVGVEQVKIV------AK---Q-----K
+>REF-YP_003458574-NC_013887 NusG antitermination factor {Methanocaldococcus sp. FS406-22} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTMVGQEKNIAGLM---ASR-
+AEK-----EQLN--VYSILASESLKGYVLVEAETK-GDVEELIKGMPRVRGIV----P--
+---G------TIAIEEIEPLLTP-KKIIENIEKGDVVEIIAGPFKGERAKVIRVDKNKEE
+-VTLELENAAVPIPITLPVEGVKIV------SK---HK----D
+>REF-YP_001329897-NC_009637 nusG transcription antitermination protein NusG {Methanococcus maripaludis C7} [Chromosome]
+----M-------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------IFAVRTTTGQEKNVAESL---ASK-
+AEK-----ENLE--VFSILATEDLKGYILIEAANK-GALDDLVRKSFKVKGIV----P--
+---G------ETSVSELDHLLTP-TKIIEHIDKGDIVELVGGPFKGERARVTRVDKHKEE
+-VTLELIDAAVPIPITVGVEQVKIV------SK---Q-----D
+>REF-YP_002840078-NC_012623 nusG transcription antitermination protein NusG {Sulfolobus islandicus Y.N.15.51} [Chromosome]
+----M-----E-------------------------------------------------
+------------------------------------------------------------
+-----------------------------KPNMRNYYAVKVVGGQEINVALML---EER-
+IKT-----NNIKG-IYAIIVPPNLKGYVVLEAEGL-HIVKPLIAGIRNARGLA----Q--
+---G------LLPRDEVLKIVSK-KTIGPTVKPGDVVEVISGPFRGTQAQVVRVEEAKGE
+-VVLNILESAFPLQVTVPLDQIKVS------KR----------
+>REF-YP_004342383-NC_015320 NusG antitermination factor {Archaeoglobus veneficus SNP6} [Chromosome ]
+----M-------------------------------------------------------
+------------------------------------------------------------
+---------------------------------NRFFAIKTTANQERVVANLM---EMA-
+VKK-----YELG--VYSILAPKELKGYVIVEAEKM-EDLLKAIRGLPHVKGVV----K--
+---G------EVNFSEIEHFLTP-RKAAEQIKEGFTVEIISGPFKGELAVVKRVDEAKNE
+-ITVELIEAVVPIPVTVKADHVRVV------DK---KE--EEV

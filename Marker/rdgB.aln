@@ -1,0 +1,791 @@
+>REF-YP_003177009-NC_013202 Ham1 family protein {Halomicrobium mukohataei DSM 12286} [Chromosome]
+M-------------------------------------------L-KFVTTNPGKVHEAR
+EYLG-----A-ETVEQFDFDYTEVQGDDLAAVAAHGAREAYRAV----------G--EPV
+IVDDSGLFVDALDGFPGPYSSYVEDRLGIERVWRLTEP--ED----D--HSAAFETVVAY
+C-DGDGFEAA--PSSVDHDDR-----RGHD--LAADERGGATTDAQV-DG------ETLP
+VKLFRGRVPGTIV-APRGDG-GFGFDPIF---EHDGATF--AEMDTERKNAVSHRGRALS
+TFAEWVETTGRIDD---------------
+>REF-YP_003541681-NC_014002 dITPase {Methanohalophilus mahii DSM 5219} [Chromosome ]
+M-----------------------------------------RKI-VFVTGNSGKFREIK
+AILEKR---GIE-VLQNTDGYPELQEDDLEPIAADGARLSCEKL----------G--LSV
+MVDDSGLFIDALNGFPGPYSAFVEDHLGNPKVLKLMED--EE----N--RRAYFKSVIGY
+CEPGK------------------------------------------------------E
+PLTFTGIVEGNIGYEEKGKG-GFGYDPIFLY---GDRTF--GEMGDEEKNKVSHRKRAVD
+KFVEWIDSNL-------------------
+>REF-YP_004624270-NC_015680 HAM1 {Pyrococcus yayanosii CH1} [Chromosome ]
+M------------------------------------------RI-FFITSNPGKVREAA
+TYLQPL---GIE-IVQRKVPYPEVQAESLEEVVKFGLEWLSERI----------E--GPF
+FIEDSGLFIEALRGFPGVYSAYVFKTIGNEGILKLMEG--IE----E--RDAHFKSVIGY
+W-DG-------------------------------------------------------K
+AYIFTGIVKGSIATEARGGG-GFGFDPIFIP-NGFSKTF--AEMTTKEKNAISHRGKALK
+AFSEWLKENLK------------------
+>REF-YP_002995257-NC_012883 putative deoxyribonucleotide triphosphate pyrophosphatase {Thermococcus sibiricus MM 739} [Chromosome]
+M------------------------------------------RV-LFITSNKGKVKEAK
+TYLSPL---GVK-VLQRQIDYPEIQANTLEEVVGFGVMWLKDYL----------D--EPF
+FIDDSGLFIEALNGFPGVYSAYIYKTLGNEGILKLMNE--VK----N--RRAYFKSVIGY
+Y-DG-------------------------------------------------------R
+IHIFTGITRGHIINEKRGKY-GFGFDPIFLP-ENSKKTF--AEMQTEEKNRISHRGRALA
+EFARWLKENFKKE----------------
+>REF-YP_002308003-NC_011529 putative deoxyribonucleotide triphosphate pyrophosphatase {Thermococcus onnurineus NA1} [Chromosome]
+M------------------------------------------RL-AFITSNPGKVEEAR
+KYFEPL---GVE-VYQLKVEYPEIQADTLEEVALFGLEWLSRKI----------D--EPF
+FLDDSGLFVEALKGFPGVYSAYVYKTLGVDGLLKLMEG--VE----N--RRAYFKSVIAY
+W-DG-------------------------------------------------------E
+AHIFTGIVEGEIIHEKRGNM-GFGFDPVFKP-SGFDRTF--AEMTTTEKNKISHRGLALK
+AFSEWLKENLK------------------
+>REF-NP_280722-NC_002607 ham1 HAM1 protein {Halobacterium sp. NRC-1} [Chromosome ]
+M-----------------------------------------STL-RFVTTNSGKVQEAA
+SYLD-----GLRRVEQLDYDYAELQSDDLAAIATHGAREAYRET----------DDDTPV
+IVDDAGLFVRGLSGFPGPYSAYVEDTLGIERVWELASD--LD----D--RHAAFRCVVAY
+T-DGD------------------------------------------------------T
+VETFTGAVQGTMV-APRGDG-GFGYDPIF---EHDGTTF--AEMPTDRKNALSHRGRALA
+TFADWLA-----ERAD-------------
+>REF-NP_111796-NC_002689 xanthosine triphosphate pyrophosphatase-like protein {Thermoplasma volcanium GSS1} [Chromosome ]
+M-------------------------------------------F-KFVTSNKHKFEEIK
+ELGTRY---GID-IEWVNMKYEEIQEESTEKISYDSCKKLINLV----------D--SPF
+FIDDTGLYIESLNGFPGPYSSYVSKTIGNYGILKLMNG--IE----K--RSAYFVTVISL
+N-EGG------------------------------------------------------K
+ITQFTGKVIGEISKEIRGKN-GFGYDPIFIP-NGSERTF--AEMETSEKNMVSHRSMAFK
+GLFSYIKENYNK-----------------
+>REF-YP_004177106-NC_014961 dITPase {Desulfurococcus mucosus DSM 2162} [Chromosome ]
+M-----------------------------------------IEL-LLLSGNKHKYAEIA
+EVAGRY---GVK-VTPLEGFKVEIQDDDLSRIALTAALIGYSIL----------G--KPV
+LVEDAGLFIKALNGFPGPYSSYVFKTLGVHGILKLMEG--VA----E--RDACFKSVAVA
+V-VDG------------------------------------------------------N
+VVKGYGEVCGYITVEPKGSR-GFGFDPIFTPRDQPGRTF--AEMDVAEKNKYSHRAKAVA
+AVFEKVGSL-------------LGVSMHG
+>REF-YP_004245474-NC_015151 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Vulcanisaeta moutnovskia 768-28} [Chromosome ]
+M------------------------------------------RV-FFVTSNKAKFREAS
+LVLKEF---GIDLLIDTNHRKVEIQSDNLEDIVSNALKEICNG-----------NTGDYF
+VVEDDGLFINKLNGFPGPYSSYVYKTIGLTGILKLMSG--VD----D--RTAYFKSVVGL
+CGPKA------------------------------------------------------I
+IKLFTGVVYGNIAMEPRGSE-GFGFDPIFIP-SDYDKTF--AELGIDIKNRLSHRAKAFR
+ALGDWLLSIF-------------------
+>REF-YP_876562-NC_014820 xanthosine triphosphate pyrophosphatase {Cenarchaeum symbiosum A} [Chromosome]
+M-----------------------------------------------------------
+------------------------------------------------------------
+LAEDDGLYIDCLGGFPGPYSAYVQGTIGNEGILRLVGS--------E--RGAAFRSAVAY
+R-DDT------------------------------------------------------G
+GAVFAGEVRGEIAGDQRGK--GWGYDPVFVP-EGGATTF--AEM--DGKDAVSHRYRALS
+SFAAWFGERGAAAGPAS------------
+>REF-YP_002840163-NC_012623 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus Y.N.15.51} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-YP_004763043-NC_015865 putative deoxyribonucleotide triphosphate pyrophosphatase {Thermococcus sp. 4557} [Chromosome ]
+M------------------------------------------RL-AFITSNPGKVEEAR
+KYFRPL---GVE-VYQLKFEYPEIQADTLEEVAEYGLRWLAERI----------D--GPF
+FLDDSGLFIDALKGFPGVYSAYVYRTLGIDGILRLMAG--VE----D--RKAHFRSVIAY
+W-DG-------------------------------------------------------E
+VHLFTGRVDGEITREKRGTG-GFGFDPIFMP-QGFDRTF--AEMTTKEKNDISHRGRALK
+AFSEWLKENLK------------------
+>REF-YP_001012643-NC_008818 putative deoxyribonucleotide triphosphate pyrophosphatase {Hyperthermus butylicus DSM 5456} [Chromosome ]
+M---------------------------------------EARVI-LIATTNKHKIEEIN
+EVLQSC---GYR-VEPAAASKLEVQSNRLEDVAAYAAIQAYLAL----------Q--RPV
+IVEDAGLFVEALGGFPGPYSSYVFKTIGIRGLLKLLED--VE----N--RRAYFKSVIAL
+AHSG-------------------------------------------------------G
+VEVFTGTVHGVIAEKPRGDR-GFGYDPVFIP-EGSSKTF--AEMETQEKNKFSHRGKAAR
+ELCRWLRQYGPPR----------------
+>REF-YP_002958534-NC_012804 putative deoxyribonucleotide triphosphate pyrophosphatase {Thermococcus gammatolerans EJ3} [Chromosome]
+M------------------------------------------RL-AFITSNPGKVEEAK
+RYFEPL---GVE-VYQLHMSYPEIQADTLEEVAEYGARWLAGRI----------D--GPF
+FLDDSGLFVEALKGFPGVYSAYVYKTLGYWGILKLLEG--ES----N--RKAYFKSVIAY
+W-DG-------------------------------------------------------E
+LHIFRGKVDGKITEEPRGSG-GFGFDPVFIP-EGFDRTF--AEMTTEEKNAISHRGRALK
+AFATWLKENLK------------------
+>REF-YP_004072027-NC_014804 xanthosine/inosine triphosphate pyrophosphatase {Thermococcus barophilus MP} [Chromosome ]
+M------------------------------------------KI-VFITSNKGKVKEAQ
+KYFDSI---GVN-IVQQKIEYPEIQAKELEEVVKFAIEWLKDKI----------D--KPF
+FIDDSGLFIEALNGFPGVYSAYVFKTLGNEGILKLMEG--VK----N--RKAYFKSVIGY
+Y-DG-------------------------------------------------------E
+IHIFKGIVNGRIGYTKRGNL-GFGFDPIFIP-EGFTKTF--AEMTTEEKNKISHRGRALE
+AFSKWLKENLI------------------
+>REF-NP_071062-NC_000917 HAM1 protein {Archaeoglobus fulgidus DSM 4304} [Chromosome ]
+M---------------------------------------------YFITSNEGKFREVR
+EMASKY---GIE-IEWLKMEYIEPQGSSLEEIARLSAEMLAEKV----------E--GEF
+VIEDSGLFVEALKGFPGPYSSYVFKTIGNEGILKLMEG--VE----N--RKAYFMAVVAY
+F-DGK------------------------------------------------------E
+VRTFTGKVEGEISREMRGTQ-GFGYDPIFLY-GN--KTF--AEMATEEKNQVSHRRKAFE
+EFFRWLKENK---------------I---
+>REF-YP_004596603-NC_015666 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Halopiger xanaduensis SH-6} [Chromosome ]
+M-------------------------------------------LVRFVTGNEGKAREAR
+EYLE-----GITAVNQVEYDYTEVQSDSLSEIAARGAREAYEEL----------GGTEPV
+VVDDTGLFVDALEGFPGPYSAYVEDTVGVERLWNLVSE--EE----N--RRAQFRTVVAF
+A-DGE------------------------------------------------------R
+TETFEGSVRGTIV-APRGEG-GFGYDPIF---EYDGRTF--AEMSAEEKNAISHRGRALE
+AFSAWLAEYH-------------------
+>REF-YP_003736073-NC_014297 Ham1 family protein {Halalkalicoccus jeotgali B3} [Chromosome ]
+M-------------------------------------------L-RFVTSNAGKAREAS
+QYLP-----E-A-VERVDYDYPEIQSDSLEAIATAGARDAYREI----------G--EPV
+FVDDSGLFIDALGGFPGPYSSYVDEKLGIERVQALAAR--EE----N--DRARFRTVVAY
+A-DDD------------------------------------------------------G
+VETFEGTVRGRIV-APRGSG-GFGYDPIF---EHRGQTF--AEMSPEEKNAVSHRGRALA
+AFGDWLAER--------------------
+>REF-YP_004338895-NC_015315 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Thermoproteus uzoniensis 768-20} [Chromosome ]
+M------------------------------------------RI-YLATSNPHKVAEAR
+HVLGEY---SIE-VEQKDVEKLEIQADDVEAVAEVAARRLCE------------LGEELV
+AVEDAGLYIDALNGFPGPYSEYVYRTLGIAGILKLMTG--VE----N--RSARFKSAVAI
+C-VEG------------------------------------------------------S
+VKVFAGIAEGFIIGEPRGSG-GFGFDPIFVP-AGHTKTF--AEMSLEEKSAFSHRGKAFR
+ALAEWLLAR----------SP-ERQPPIG
+>REF-YP_002829722-NC_012588 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus M.14.25} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-YP_003901363-NC_014537 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Vulcanisaeta distributa DSM 14429} [Chromosome ]
+M------------------------------------------RI-FFVTGNEAKFHEAS
+LVLKEF---GIELMIDRGHRKVEIQSDNLEDIVSNALQGICSD-----------NPSDYF
+VVEDDGLFINKLNGFPGPYSSYVYKTIGLTGILKLMSG--VD----D--KTAYFKSVVGL
+CGPRV------------------------------------------------------G
+IKLFSGVVYGRIAMEPRGTE-GFGFDPIFIP-DGYDKTF--AELGIDIKNKLSHRARAFR
+ALGNWILSNL-------------------
+>REF-NP_618581-NC_003552 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanosarcina acetivorans C2A} [Chromosome ]
+M-----------------------------------------HKI-VFVTGNKGKFAEIR
+DILKTF---GIE-VIQEKNGYPELQEDELEPIAAHGAQYVANKL----------N--MPV
+MVDDSGIFINALNGFPGPYSRFVEDKLGNLKVLKMMEG--EE----D--RTAYFKTVIGY
+CEPGK------------------------------------------------------E
+PLVFPGVVEGKIAYEERGTG-GFGYDPIFEY-QG--LTF--GELGDTEKNKVSHRRRAVD
+EFLEWFTSKA-------------------
+>REF-YP_004808736-NC_015954 Nucleoside-triphosphatase {halophilic archaeon DL31} [Chromosome ]
+M-------------------------------------------L-RYVTTNPGKVHEAE
+EYLG-----E-G-IEQLDYDYTEIQSDDMGEIAARGAREAYRHA----------G--EPT
+LVDDAGLFVRALDGFPGPYSSYVEDTIGVERTWALASE--ES----D--RRGSFRCVLAY
+C-DGEGFEASPDP--IDSDDRVAAAAAGPD----AD-E-------DA---------EALP
+VKLFAGRVRGELV-EPRGEG-GFGFDPIF---EHDGTTF--AEMSADEKNAISHRGRALA
+KFAEWHA-----ER---------------
+>REF-YP_004340920-NC_015320 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Archaeoglobus veneficus SNP6} [Chromosome ]
+M------------------------------------------EL-TFITSNEGKFREAE
+QIAAKY---GIS-LKWKKMSYLEPQGSSLEEIASLSAEMLSKEL----------K--ETF
+FIEDSGLFIEALKGFPGPYSSYVFKTIGNEGILRLMDG--VE----D--RRAYFLAVIAY
+F-DGS------------------------------------------------------E
+VQTFTGRVDGEISTEMRGSG-GFGFDPIFLY-NG--RTF--AEMG-EEKNAVSHRRRALE
+GFFTCLSDR--------------------
+>REF-YP_001541780-NC_009954 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Caldivirga maquilingensis IC-167} [Chromosome]
+M-----------------------------------------VTL-RFVTRNQHKLKEAT
+SILSQY---GISIVMENSINKVEIQSDSLEEIVNYALRLNCV---------------DWL
+VVEDDGLFVDSLNGFPGPYSEYVYRTIGLRGLLRLLQG--SR----D--RGAYFKSVVGL
+CINN-------------------------------------------------------E
+VKLFTGIVKGRLSEEPRGSS-GFGYDPVFIP-EGYDLTF--AEMGEDLKNKLSHRSRAFN
+NLATYLTRIN-------------------
+>REF-YP_001582864-NC_010085 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Nitrosopumilus maritimus SCM1} [Chromosome]
+M------------------------------------HK--SFDL-YFVSSNSHKYKEAK
+NILDSF---GIK-LGFLKLTLEEIQSNSLKEIAENKAKDAFSKC----------K--KPI
+IIEDDGLFIDSLNGFPGPYSSYVFRTIGNNGILKLLSS--------K--RNAKFVSLITY
+C-DKK------------------------------------------------------N
+LKTFDAKLDGTISKSQKGK--GWGYDPIFIP-KNSRKTF--AEI--NHKNELSHRFKALK
+KFSNWYLHKLESNDR--------------
+>REF-YP_003708085-NC_014222 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanococcus voltae A3} [Chromosome ]
+M------------------------------------------KL-LFGTGNINKVKEAK
+LILKNS---KYE-VEQLKIPYPELQG-TLEEVAKYGAKYVYDEYMSKNEKISNEN--VSI
+IVEDSGLFIESLREFPGTYSKYVQMTLGNEGILKLLGT--CK----K--RNAYFKTVIGY
+Y-DGK------------------------------------------------------E
+IKTFSGTVEGTISYKMKSNGYGFAYDSIFVP-KGCEKTF--AEMLPAEKSDISHRKNAFM
+EFKRYIDSLSNE-----------------
+>REF-YP_504280-NC_007796 Ham1-like protein {Methanospirillum hungatei JF-1} [Chromosome ]
+M------------------------------------------RI-TFVTSNEHKAREAA
+GILA-----GLAEIEHVPLEIPELRYESVAEIAAGKAAYAYSVL----------Q--RPV
+ITDDTGLFIHALNGFPGTCAAYVQKTIGNTGILALMAG--YA----N--RSATFETGIAY
+H-DGD------------------------------------------------------C
+QRSFTGAIKGTIV-LPRGCG-GFGYDPVF---EVDGKTL--AEMTEEEKNRISHRAIGLH
+ALRRWLAEEKQ------------------
+>REF-YP_447074-NC_007681 putative xanthosine triphosphate pyrophosphatase {Methanosphaera stadtmanae DSM 3091} [Chromosome ]
+M------------------------------------------RV-TFITGNKHKVKEAR
+GIFEKF---GIE-VDHENPGYPEVQG-SIEEVAAFGAKYVADLL----------Q--KPV
+IVDDTGLFIRALNDFPGTYSSYVQDTITNKGILKLMKD--EP----D--RYAEFRSCIGY
+CAPNC------------------------------------------------------E
+PKTFLGVVSGEILSEEKGNN-GFAYDPLFYV-EKYDKTY--GELTTDEKNECSHRRLSME
+KFANWYSNL--------------------
+>REF-YP_004383512-NC_015416 nucleoside-triphosphatase {Methanosaeta concilii GP6} [Chromosome ]
+M-------------------------------------------I-SFITSNKGKYVEAR
+AIIDG--------LEQKDLGYTEIQADTLEEVAVYGINEIMARL----------K--EPA
+MLEDAGLFIEALGGFPGVYSAYVQKTIGNEGILRLMDG--IS----N--RKAFFKSVVVY
+SEPGL------------------------------------------------------E
+PRMFQGIVEGQIGHEARGSS-GFGYDPIFYV-GE--KSL--AEMELAEKNRISHRAASMR
+ALDEWLEGR--------------------
+>REF-YP_002914994-NC_012726 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus M.16.4} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-YP_002465691-NC_011832 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Methanosphaerula palustris E1-9c} [Chromosome]
+M------------------------------------------KL-IVVTSNVHKAGEVA
+AFFS-----GIAEVEHVSLEIPEYRFPKVREIAEEKARYAYRTL----------Q--RPL
+IVDDTGFFIDALNGFPGPNAAYVFETIGNRGILKLMAG--VT----D--RRAHFETVIAY
+A-SAE------------------------------------------------------G
+VKSFPGIIEGTVV-SPRGRD-GFGYDPIF---LYEGRTL--AEIPLNEKSMISHRARALD
+AFRTWIIRTEEPAGD--------------
+>REF-YP_003483029-NC_013926 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Aciduliprofundum boonei T469} [Chromosome ]
+M-------------------------------------------F-KIITHNKHKFEEMQ
+KVVPD--------LEMLSMEYPEIQANSLEEVVDFSLDYLAERI----------E--GNF
+IIDDSGLFIHSLNNFPGVYSAYVFDTIGNMGILKLMEG--IE----D--RRAIFKTVIGV
+RLEG-------------------------------------------------------Q
+NFKFVGLCHGHIAKEPRGTN-GFGYDPIFVP-EGDDRTF--AEMSTEEKNKVSHRGKAIR
+KVSSFLHRFGFI-----------------
+>REF-YP_004457882-NC_015518 rdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Acidianus hospitalis W1} [Chromosome ]
+M---------------------------------------KKEEV-KVVTGNKRKFEEMN
+QIALQY---GIK-LSMINLPKFEIQADRLEDVVRHAASVFYSIL----------N--EPI
+ILEDSGLFIEALNGFPGPYTKFVKKTLDINGILKLMKG--EK----N--RNAYFKTALAY
+V-NEN------------------------------------------------------E
+IRIFTGEVYGKIAEEARGNK-GFGFDPIFIP-EGSEKTF--AEMEIEEKNKYSHRSKAFK
+KFLDYYIHL--------------------
+>REF-NP_393805-NC_002578 HAM1 protein related {Thermoplasma acidophilum DSM 1728} [Chromosome ]
+M-------------------------------------------Y-RFVTSNRHKFEEVS
+EMAALY---GIE-IEWVRMKYEEIQDDSTERISYDSCNKLSRIV----------E--APY
+FVDDSGLFINALRGFPGPYSNYVSSTIGNEGILKIMDD--VD----D--RTAYFLTVVSM
+N-EGH------------------------------------------------------S
+ITQFIGKVMGKIARSIRGSN-GFGYDPIFIP-EGSDRTF--AEMDIKAKNAISHRSIAFR
+GLFEYIKMNQTAKK---------------
+>REF-YP_003816026-NC_014374 Nucleoside-triphosphatase {Acidilobus saccharovorans 345-15} [Chromosome ]
+M-----------------------------------------RRL-YMVTHNDRKFLEAS
+LILKPY---GIE-LQQIKAEKLEVQDEDVVRIAEVAARHAYEQF----------R--VPL
+IVDDSGLYIDALNGFPGPYSSFFLEKVGLGGVLKLLSG--VT----N--RRACFRTGLAY
+A-DEG------------------------------------------------------G
+VRTFAGEVCGSIAESPRGSG-GFGYDPLFVP-EGHSRTF--AEMGVEEKDSMSHRGRALR
+AFAEWYLKRS-------------------
+>REF-YP_001192288-NC_009440 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Metallosphaera sedula DSM 5348} [Chromosome]
+M----------------------------------------KGEI-KLVTGNNYKFMEFR
+DLAKD----KIS-LIKVDAPKIEIQADSLEEIVRYSAVTFFSLF----------K--SPL
+IVEDSGLFVEALKGFPGPYTNYVKRTLDCEGILKLMEG--ES----N--RRAFFKSVIAY
+I-DQE------------------------------------------------------R
+LALFKGEIFGKIAENVRGNK-GFGFDPIFVP-DGYGITF--GEMELSEKNVISHRGRAFS
+NFLKYYESIQN------------------
+>REF-YP_003479419-NC_013922 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Natrialba magadii ATCC 43099} [Chromosome ]
+MSGTVRAIWAASPDSWSRTRNSSPLPRTATDGYIPAAAAASNMAI-RFVTGNDGKAREAR
+AYLD-----GIEAVEQVPYDYTEIQSDSLEEIAIQGAEEAHAEL----------EGEDPI
+LVGDTGLFVDALGGFPGPYSAYVEDTVGVERLWRLVEP--ED----N--HRARFKTVLGF
+T-DGE------------------------------------------------------R
+TETFEGTLAGTIV-SPRGDD-GFGYDPIF---EFNGQTL--AEMDIEEKNAISHRGRALA
+TFSDWYADQ--------------------
+>REF-YP_001056579-NC_009073 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Pyrobaculum calidifontis JCM 11548} [Chromosome ]
+M------------------------------------------RI-RVATSNLHKLAEIS
+QILKPF---GIE-VERLDAEKVEVQHDDVAVVAEKAAEPLCA------------RYGDYV
+VVEDTGLYIESLGGFPGPYAEYVYRTIGLAGVLKLLEG--VV----N--RAAVFKCAAAI
+C-VGG------------------------------------------------------G
+VKVFIGETRGRIAHTPRGTG-GFGYDPIFIP-EGEERTY--AELGAEVKNAISHRAKAFK
+AMALWLVNTFK------------------
+>REF-NP_559959-NC_003364 nucleoside-triphosphatase (NTPase) {Pyrobaculum aerophilum str. IM2} [Chromosome ]
+M------------------------------------------RI-RLATNNPYKLAEVS
+HILAPF---CIE-VERLDAEKVEIQHDDVVVIARKAAEFLCS------------RYGDFV
+VVDDTGLYIEALGGFPGPYAEYVYRTIGLKGVLKLLEG--AA----D--RRATFKCAAAI
+C-IGG------------------------------------------------------R
+VEVFVGEVRGYIAHEPRGRG-GFGYDPIFIP-EGMTATY--AELGEEVKNKISHRAKAFS
+QLGAWLTNRNLFK----------------
+>REF-YP_003424841-NC_013790 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanobrevibacter ruminantium M1} [Chromosome ]
+M-------------------------------------------I-TFITGNEHKVIEAE
+NIFQIF---GVK-LEHIDLGYMEPQG-TLEDVSKFGAKYACQEL----------N--RPV
+IVEDAGLFIRALNGFPGTYSSYVQDSLGNENILKLMDG--ID----D--RYAEFRSVIGY
+CAPNS------------------------------------------------------E
+PKVFLGRVKGQIAHEERGNL-GFAFDPIFLV-PEEGKTF--GELTTEEKNQFSHRRNSLE
+KFINWYVSQDDE-----------------
+>REF-YP_001434770-NC_009776 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Ignicoccus hospitalis KIN4/I} [Chromosome]
+M---------------------------------------VSKKV-YFLTSNPHKAKEVS
+DVLSQF---SIE-VVPLKGEKLEIQADSVEEVARFAAEEAKKRF----------KE-RPL
+LLEDSGLFVDALKGFPGPYSNYVYRTLGLEGLLKLMEG--VE----D--RRARFVCAAAL
+VKEDD------------------------------------------------------K
+IVIEVGEVEGEIAYEPRGDK-GFGFDPIFVP-LGYEKTF--AELGEEVKKRISHRARAFM
+KIAKHLSGE--------------------
+>REF-YP_001153774-NC_009376 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Pyrobaculum arsenaticum DSM 13514} [Chromosome]
+M------------------------------------------RI-RLVTNNPHKLAEVS
+QILAPY---GIE-VERLGAEKVEIQHDDVAEIAKKAAENLCV------------RYGDYV
+VVEDTGLYIEALGGFPGPYAEYVYRTIGLSGVLKLLEG--VA----N--RRAVFRCAAAL
+C-LGG------------------------------------------------------R
+VEVFLGEVRGTIAQVPRGTG-GFGYDPIFVP-EGLGRTY--AELGDDVKNKISHRAQAFS
+KLATWLTTTASKRA---------------
+>REF-YP_001097971-NC_009135 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus maripaludis C5} [Chromosome ]
+M------------------------------------------KI-YFATGNQNKVDEAK
+IILKDV---DCE-IEQIEVPYAEVQG-RIEEVSAFGVLEVFEKF----------N--RPV
+IVEDSGFFIEKLNDFPGTYSKFVQESLGNEGILKLLEN--ES----N--RNAYFKTVIGY
+Y-DGD------------------------------------------------------N
+IKLFTGIVKGTVSNEIKDGGFGFAYDSIFIP-EGETKTF--AEMTTEEKSEISHRKRAFY
+ELKNYLETNL-------------------
+>REF-NP_276540-NC_000916 hypothetical protein {Methanothermobacter thermautotrophicus str. Delta H} [Chromosome ]
+M------------------------------------------KV-TFITGNKHKLSEAE
+KIFHGT---GIE-LMHADLGYPELQG-TLEEVARYGAEHAARIM----------D--GPV
+IVEDAGLFIRALKWFPGPYSAYVQDTIGNRGILKLMEN--VE----D--RYAEFRSAVGF
+CTPNS------------------------------------------------------E
+PEVFLGVVKGRIGTEERGTM-GFAFDPLFYP-EGMDKSF--GELSTSEKNRFSHRSRALK
+KFAEWYIENYEVI----------------
+>REF-YP_003459237-NC_013887 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Methanocaldococcus sp. FS406-22} [Chromosome ]
+M------------------------------------------KI-YFATGNPNKIKEAN
+IILKDL--KDVE-IEQIKIEYPEIQG-TLEEVAEFGAKWVYEKI----------K--KPV
+IVEDSGFFVEALNGFPGTYSRFVQETVGNEGILKLLED--KD----N--RNAYFKTVIGY
+C-DEN------------------------------------------------------G
+VRLFKGIVKGRVSNEIRSKGYGFAYDSIFIP-EGEERTF--AEMTTEEKSQISHRKRAFE
+EFKKFLLERI-------------------
+>REF-YP_002837970-NC_012622 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus Y.G.57.14} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-NP_247195-NC_000909 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanocaldococcus jannaschii DSM 2661} [Chromosome ]
+M----------------------------------QRTLGEIMKI-YFATGNPNKIKEAN
+IILKDL--KDVE-IEQIKISYPEIQG-TLEEVAEFGAKWVYNIL----------K--KPV
+IVEDSGFFVEALNGFPGTYSKFVQETIGNEGILKLLEG--KD----N--RNAYFKTVIGY
+C-DEN------------------------------------------------------G
+VRLFKGIVKGRVSEEIRSKGYGFAYDSIFIP-EEEERTF--AEMTTEEKSQISHRKKAFE
+EFKKFLLDRI-------------------
+>REF-YP_004408676-NC_015435 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Metallosphaera cuprina Ar-4} [Chromosome ]
+M----------------------------------------KGEV-RVVTSNEHKFAELK
+DLSGH----KVR-LVRIDSPKLEIQADSLEEIVRYSAVTFFSLF----------R--FPL
+IVEDSGLFIEALNGFPGPYTNYVKRTLDNEGILKLMNG--IE----N--RRAIFRSVIGY
+I-DVE------------------------------------------------------R
+LELFKGEINGHIGDKAEGDK-GFGFDPIFIP-NGYNISF--AQMDLKEKNLISHRSQAFR
+EFLRFYEKI--------------------
+>REF-NP_577978-NC_003413 putative deoxyribonucleotide triphosphate pyrophosphatase {Pyrococcus furiosus DSM 3638} [Chromosome ]
+M------------------------------------------EL-FFITSNDGKVREAK
+KFLEPL---GIN-VIKKPLEYPEIQADTLEDVVVFGLNWLKDKV----------D--KPF
+IIEDSGLFIEALNGFPGVYSAYVYKTIGLDGILKLMEG--IE----N--RKAYFKSVIGF
+Y-DG-------------------------------------------------------E
+IHLFVGEVRGRISNEKRGLH-GFGYDPIFVP-DGFDKTF--AEMSTEEKNSVSHRGKALK
+EFYRWMKENLKK-----------------
+>REF-YP_002832444-NC_012589 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus L.S.2.15} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-YP_004741848-NC_015847 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus maripaludis X1} [Chromosome ]
+M------------------------------------------KI-YFATGNQNKVDEAK
+IILKEA---NCE-IEQIEIPYAEVQG-RLEEVSAFGVLEVFEKF----------N--RPV
+IVEDSGFFVEKLNDFPGTYSRFVQESIGNEGILKLLEN--ET----N--RNAYFKTVIGY
+Y-DGD------------------------------------------------------N
+IKLFTGIVKGTISTEIKDGGFGFAYDSIFIP-EGKTKTF--AEMTTEEKSEISHRKRAFY
+ELKNYLE-NL-------------------
+>REF-YP_137003-NC_006396 ham1 Ham1 protein {Haloarcula marismortui ATCC 43049} [Chromosome I]
+M-------------------------------------------L-NFVTTNPGKVREAT
+EYLD-----D-D-VQQFDFDYPEVQADDLRTVAAKGARAAYRAA----------D--GPV
+IVDDAGLFIDAFDGFPGPYSSYVEDTVGVERVWRMTEP--ED----D--RGAAFKTVIAY
+C-DGEGFEATPDPGGIDREDR-----RGQD--LSADDRGTATTDEQVHDGSAAQSSETVP
+VKLFEGRVNGEIV-APRGEG-GFGFDPIF---EHDGTTF--AEMSTEQKNAISHRGRALA
+KFAEWYG-----ER---------------
+>REF-YP_003848937-NC_014408 xanthosine triphosphate pyrophosphatase {Methanothermobacter marburgensis str. Marburg} [Chromosome ]
+M------------------------------------------KV-TFITGNKHKLSEAE
+KIFHDT---GIE-LEHADLGYPELQG-TLEEVARYGAEHAARIM----------D--GPV
+IVEDAGLFIRALKWFPGPYSAYVQDTIGNRGILKLMEN--VE----D--RYAEFRSAVGF
+CAPKS------------------------------------------------------E
+PEVFLGVVKGRIGTEERGTR-GFAFDPLFYP-EGMDRSF--GELSTIEKNRFSHRSRALK
+KFAQWYTENYEVI----------------
+>REF-YP_565867-NC_007955 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcoides burtonii DSM 6242} [Chromosome ]
+M-----------------------------------------REM-VFVTGNKGKFGEAK
+EILAAK---DIE-LIQNKDGYPELQEDELEPIAAYGAKYCAEKL----------K--HPV
+MVDDSGLFINALNGFPGPYSAFVEEYLGNQKVLKLMGD--ES----D--RAAVFKSVIGY
+CEPGG------------------------------------------------------E
+PVTFTGTVEGEIAHEERGSG-GFGYDPIFEY-NG--NTF--GELGAEEKNKMSHRKRALD
+KFFDWLD----------------------
+>REF-YP_003130418-NC_013158 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Halorhabdus utahensis DSM 12940} [Chromosome]
+M-------------------------------------------L-RFVTGNDGKLREAR
+AALD-----D-D-VTQFSFDYTEIQSHDLGAIAAHGAREAYREV----------G--EAV
+MVEDSGLFVDALDGFPGPYSAYVEDTLGIERIWRLTEP--EA----D--HAAAFRSLIAY
+C-DGSAFGSAPTIRDGDP-----------------------------------------P
+VAIFEGRVDGQIV-APRGEG-GFGYDPIF---EYDDRTF--AERDPDEKNEYSHRGRALD
+AFAEWYDGEGDADS---------------
+>REF-NP_614877-NC_003551 xanthosine triphosphate pyrophosphatase {Methanopyrus kandleri AV19} [Chromosome ]
+M------------------------------------------KV-LFATGNIGKYHEAK
+QILARY---GIE-VERVDLDYPELQSDSLEEIAAYGARYCAESL----------G--QPV
+IVEDSGLFIEALNGFPGPYSAYVFDTIGNEGILKLLEG--EE----N--RKAEFISVVGY
+CEPGG------------------------------------------------------R
+PVTFTGEIRGRIAEEPRGEE-GFGYDPIFIP-EGEDSTF--AELGVEEKCKISHRTKALE
+RFAEWYKNNVAGR----------------
+>REF-YP_001403404-NC_009712 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanoregula boonei 6A8} [Chromosome]
+M----------------------------------------SQTL-TMVTSNANKAREVA
+AFFG-----GAIEVSHVALEIPELRSEDVRVIAREKARYAYDHI----------H--RPL
+IVDDTAFSINALKGFPGPYAAYVLSTIGNTGVLRLMDG--VQ----D--RTARFTTAIAF
+S-DES------------------------------------------------------G
+IEVFSGTIEGRIIHGTRGTG-GFGYDPIF---EVGEKTL--AEIPLEEKSAISHRAKALS
+AFSTWFMNRQDPGLRDTNR----------
+>REF-NP_127368-NC_000868 putative deoxyribonucleotide triphosphate pyrophosphatase {Pyrococcus abyssi GE5} [Chromosome ]
+M------------------------------------------KL-FFITSNPGKVREAA
+KFFEPL---KIE-VIQLKREYPEIQADSLEEVVKFGIEWLKKEI----------D--SPF
+FIEDSGLFIESLNGFPGVYSSYVYKTIGLDGILKLMEG--IE----D--RKAYFKSVIGY
+Y-DG-------------------------------------------------------D
+VHIFSGVTWGRIANEKRGEG-GFGYDPIFIP-EGSEKTF--AEMTTEEKNSLSHRGKALK
+AFFDWLKENI-------------------
+>REF-YP_003404588-NC_013743 Ham1 family protein {Haloterrigena turkmenica DSM 5511} [Chromosome]
+M------------------------------------------AI-RFVTGNEGKVREAR
+DYLA-----DLEPVEQIDYDYTEVQSDSLAEIAAHGAREAFEEL----------GSDEPV
+LVDDAGLFVDALEGFPGPYSSYVEDTVGVERLWRLASE--EE----N--RRARFKTVLAY
+A-DGEVPRTSDETASEADSGS-----------------------------------RAVR
+VETFEGSVAGTLV-APRGEG-GFGYDPIF---EYNGQTM--AEMSTEEKNAISHRGRALA
+EFAEWYA-----GRDQ-------------
+>REF-YP_930136-NC_008701 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Pyrobaculum islandicum DSM 4184} [Chromosome ]
+M------------------------------------------KI-RVVTGNPHKLLEIS
+KILAPF---GIS-VERLDVKKIEIQDDDVINIAKNAAEILCP------------IYGDFI
+VVEDTGLYIGALGGFPGPYAEYVYRTIGLKGLLKLMEG--IV----D--RRAVFKCAAAI
+C-VEG------------------------------------------------------T
+VHIFIGETQGYITREPRGNR-GFGYDPVFVP-EGETLTY--AEMDEETKNKVSHRAKAFT
+ALGNWLISKFK------------------
+>REF-YP_657118-NC_008212 ham1 nucleoside-triphosphatase {Haloquadratum walsbyi DSM 16790} [Chromosome]
+M---------------EVHANSIPSEITAVTNQHTVALFVSADIL-RYVTTNSGKVREAR
+QYL------DPDAIKSLSYDYTEIQATSLRPIAATGAHEAYHYT----------D--SPV
+LVDDAGLFIDDFDGFPGPYSAFVENTLGVKTVQRVVES--ES----EISRDATFRCVLAY
+C-DGEAIEPSDDEYLNTNTDT-----------------------------------ETPP
+VKLFTGEVSGRIV-PPRGNG-GFGYDPIF---EYDGMTL--AERDAAEKNEISHRGRALT
+AFAEWFQ-----AR---------------
+>REF-YP_001689843-NC_010364 ham1 6-N-hydroxylaminopurine sensitivity-controlling protein {Halobacterium salinarum R1} [Chromosome]
+M-----------------------------------------STL-RFVTTNSGKVQEAA
+SYLD-----GLRRVEQLDYDYAELQSDDLAAIATHGAREAYRET----------DDDTPV
+IVDDAGLFVRGLSGFPGPYSAYVEDTLGIERVWELASD--LD----D--RHAAFRCVVAY
+T-DGD------------------------------------------------------T
+VETFTGAVQGTMV-APRGDG-GFGYDPIF---EHDGTTF--AEMPTDRKNALSHRGRALA
+TFADWLA-----ERAD-------------
+>REF-YP_002566847-NC_012029 Ham1 family protein {Halorubrum lacusprofundi ATCC 49239} [Chromosome 1]
+M-------------------------------------------L-RYVTTNPGKVREAE
+RYLP-----DGS-VERLDFDYPEIQAAELGPIAAQGAREAYRHA----------G--EPV
+LVDDAGMFVEGLDGFPGPYSSYVEETLGIERVHDIAAD--LA----D--RRAAFRCVLGY
+C-DGDGFAASPDP--VDRGDRDAAAAAGPDGEGGRDGEDGGVERGDV---------ETLP
+VKLFEGYVPGRIV-APRGEG-GFGYDPIF---EHDGETF--AEMDTDRKNAVSHRGRALE
+KFAEWYA-----DR---------------
+>REF-YP_003650580-NC_014160 dITPase {Thermosphaera aggregans DSM 11486} [Chromosome ]
+M----------------------------------------YREI-CFATGNRHKYAEAE
+AIAREH---GVI-LKQCPGVKREIQSDSLEEVAKHAALTAYMEL----------G--VPV
+LVEDAGLFVKALNGFPGPYSSYVYKTIGYAGLLKLMEG--VE----D--RSACFKSVAVL
+V-YEP------------------------------------------------------F
+LITGVGEVCGAVAYEARGVG-GFGFDPIFIP-DGYDKTF--AEMSVEEKNRVSHRARALR
+SVFKTLGEY---------------LRAPE
+>REF-YP_255509-NC_007181 nucleoside-triphosphatase {Sulfolobus acidocaldarius DSM 639} [Chromosome ]
+M------------------------------------KKEEKREI-ILVTSNENKFKEMN
+SIAQNF---NVS-LIWFNIPKVEIQADSLEEIVKFSAIIAYNQI----------N--RPL
+IVEDSGLFIEALNGFPGPYSNYVRRKIGMEGIIRLLEG--EK----N--RKAYFSTVLAY
+V-DST------------------------------------------------------Q
+LKLFEGRVYGSISTEIRGTK-GFGYDPIFIP-DGVNLTF--GEMSTEEKNKYSHRAIAFR
+KFLEYLATYTV------------------
+>REF-YP_001040849-NC_009033 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Staphylothermus marinus F1} [Chromosome ]
+M-------------------------------------NKQLEPI-YFITGNKHKLLEVK
+PIAEKY---GFI-LVQSNYPKQEIQDSNILNIARHAALNAYMNL----------K--KPV
+LVEDAGLFIDALKGFPGPYSSYVFKTIGITGILKLMEN--IV----D--RKACFKSAVVL
+I-YEP------------------------------------------------------F
+MISVLEKTCGIITRNPRGEQ-GFGFDPIFIP-KGSSRTF--AEMSIDEKNKYSHRAKAVE
+KAFSTLKQYFEKRN---------------
+>REF-YP_003859791-NC_014471 dITPase {Ignisphaera aggregans DSM 17230} [Chromosome ]
+M--------------------------------------ATDMKI-MFVTNNMNKVIEAN
+EIVKSF---GIE-LIPIDVKKIEIQSDSLREIAIYAAKHAYEVI----------R--KPV
+VVEDSGLFIDALNGFPGPYSSYVYRTIGLKGILKLMEG--VR----N--RNARFIAIVAL
+AISDS------------------------------------------------------E
+IYVFEGITEGYIANEIRGDK-GFGYDPIFIP-SNHSKTF--AEMDRSEKNMYSHRGKAFR
+ALGEWVYANRDRLIFSQ------------
+>REF-YP_001794876-NC_010525 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Thermoproteus neutrophilus V24Sta} [Chromosome]
+M------------------------------------------RI-RVATGNPHKISEIS
+QILKPL---GIA-VERLEARKIEVQDDDVVNVAKHAAEALCR------------DYGDNV
+VVEDTGLYVDALGGFPGPYAEYVYRTIGLRGLLKLLEG--VE----N--RSAVFRCAAAL
+C-VGG------------------------------------------------------D
+VKVFLGETRGRISEEPRGSG-GFGFDPVFIP-EGFDKTY--AELGDEVKNRVSHRAKAFI
+SLGNWLLTRRSL-----------------
+>REF-YP_001323739-NC_009634 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus vannielii SB} [Chromosome]
+M------------------------------------------KI-YFATGNQNKVNEAN
+IILKGL--EGYE-LEHLKIPYAEIQG-TLEEVSKVGVKEIYNKI----------K--KPV
+IVEDSGFFIESLNGFPGTYSKYVQETLGNEKILKLLKD--EE----N--RKAYFKTIIGY
+F-DGI------------------------------------------------------D
+LKLFRGEIFGSVSKEIKTSGFGFAYDSIFIP-EGQNKTF--AEMTTKEKSDISHRKLAFY
+KFKSYLESKVK------------------
+>REF-YP_330941-NC_007426 ham1 nucleoside-triphosphatase {Natronomonas pharaonis DSM 2160} [Chromosome ]
+M-------------------------------------------L-RYVTTNDGKVREAE
+AYLD-----D-D-VAAFEYDYQEIQADSLEAVAADGARKAYRHV----------G--EPV
+IVDDAGLYLEGFDGFPGPYSAYVENTLGVECVGRLARR--EE----A--TQAKFRCVIAY
+C-DGDSFEASPEP--VDTDDR-----RGTD--IDADERATAATDETV-------AGEELP
+VKLFPAAVPGHIV-EPRGDG-GFGYDPIF---EHDGTTF--AEMTPEEKNAVSHRGRALS
+TFAEWYA-----GR---------------
+>REF-YP_003616388-NC_014122 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Methanocaldococcus infernus ME} [Chromosome ]
+M------------------------------------------EI-YFITGNINKVREAE
+TILK-----DIK-IKNIKIEYPELQG-TLEEVAEFGAKYCYERL----------K--KPL
+IVEDSGFFVEALKGFPGTYSRFVYETIGNEGILKLLKG--VS----D--RRAYFKSVIGY
+C-DEN------------------------------------------------------G
+VQLFSGVVKGYVSSEIRGDK-GFGYDPIFIP-EGYDKTF--GELGIEEKSKVSHRRKAFE
+KLREFLLKKI-------------------
+>REF-YP_001273768-NC_009515 xanthosine triphosphate pyrophosphatase {Methanobrevibacter smithii ATCC 35061} [Chromosome]
+M-------------------------------------------I-TFITGNKHKVIEAE
+NIFKDY---DIN-LEHIDLGYCEPQG-TLEEVAISGAKYASRKL----------N--KPV
+IVEDAGLFIKALKGFPGTYSSYVQETLGNQGILKLLDG--VN----D--RYAEFRSVIGY
+CAPNS------------------------------------------------------E
+PKIFLGKVIGEIAVEEKGDL-GFAFDPIFYV-PAEGKTF--GELTTEEKNQFSHRKNSLE
+KFIKWYSIQ--------------------
+>REF-YP_004797487-NC_015948 ham1 Ham1 protein {Haloarcula hispanica ATCC 33960} [Chromosome I]
+M-------------------------------------------L-NFVTTNPGKVREAT
+EYLD-----D-E-VEQFDFDYPEVQADDLKTVAAEGARAAYRAA----------D--GPV
+IVDDAGLFIDAFDGFPGPYSSYVEDTVGVERVWRMTEP--ED----D--RGAAFKTVIAY
+C-DGEGFEATPDPGGIDREDR-----RGQD--LAADDRGAATTDEQVHDGSAGRSSETVP
+VKLFEGRVNGEIV-APRGEG-GFGFDPIF---EHDGTTF--AEMSTEQKNAISHRGRALS
+KFAEWYG-----ER---------------
+>REF-YP_003127781-NC_013156 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanocaldococcus fervens AG86} [Chromosome]
+M------------------------------------------KI-YFATGNINKIKEAN
+IILKDL--KNVE-IEQIKIEYPEIQG-TLEEVAEFGAKWVYNIL----------K--KPV
+IVEDSGFFVEALNGFPGTYSRFVQETIGNEGILKLLED--KD----N--RNAYFKTVIGY
+C-DEN------------------------------------------------------G
+VKLFKGIVRGRVSEEIRSKGYGFAYDSIFIP-EGEERTF--AEMTTEEKSEISHRKKAFE
+EFKKFLLTLVKA-----------------
+>REF-YP_001330430-NC_009637 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus maripaludis C7} [Chromosome]
+M------------------------------------------KI-YFATGNQNKVDEAK
+IILKEV---DCE-IEQIEIPYAEVQG-KLEEVSAFGVLEVFEKF----------N--RPV
+IVEDSGFFIEKLNDFPGTYSKFVQETLGNEGILKLLEN--ES----N--RNAYFKTVIGY
+Y-DGD------------------------------------------------------N
+IKLFTGIVKGVVSTEIKDGGFGFAYDSIFIP-EGKTKTF--GEMTTEEKSKISHRKRAFY
+ELKNYLENRQ-------------------
+>REF-NP_147736-NC_000854 ntpA putative deoxyribonucleotide triphosphate pyrophosphatase {Aeropyrum pernix K1} [Chromosome ]
+M----------------------------------------ARRI-LLVTGNRGKLEEAR
+EVLREY---GVE-VEQAQAWKLEVQSESLEEIALRAARVAYAQL----------R--RPL
+AVEDAGLFINALNGFPGPYSSYAYKTIGIPGVLRLLEG--AA----D--RGACFKAAVAY
+V-APL------------------------------------------------------V
+ERVFTGEVCGSIAREPRGSQ-GFGFDPIFVP-EGYSSTF--AELGPGVKNRISHRARAFR
+RLGEWLSRR----------DP-L------
+>REF-YP_002843711-NC_012632 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus M.16.27} [Chromosome]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-NP_987334-NC_005791 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus maripaludis S2} [Chromosome ]
+M------------------------------------------KI-YFATGNQNKVDEAE
+IILKEA---NCE-IEQIEIPYAEVQG-RLEEVSAFGVLEVFEKF----------N--RPV
+IVEDSGFFIEKLNDFPGTYSRFVQETIGNEGILKLLEN--ET----N--RNAYFKTVIGY
+Y-DGD------------------------------------------------------N
+IKLFTGIVKGTISTEIKDGGFGFAYDSIFIP-EGKTKTF--AEMTTEEKSEISHRKRAFY
+ELKNYLE-NL-------------------
+>REF-YP_001325031-NC_009635 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus aeolicus Nankai-3} [Chromosome]
+M------------------------------------------KI-YFATGNQHKIKEAN
+IILQDLKNKNIS-IEQITMPYPEIQG-TLEEVSIFGAKYIYDTI----------K--KPI
+IVEDSGFFVDSLNGFPSTYSKFVQETIGNKGILKLLEDKNNEKNENN--RSAYFKTVIGY
+C-DEN------------------------------------------------------G
+IKLFRGIVKGKVSNEIKSKGYGFAYDSIFIP-DGENRTF--AEMKTEEKSNISHRKKAFE
+EFKKFLNDVF-------------------
+>REF-YP_003399802-NC_013741 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Archaeoglobus profundus DSM 5631} [Chromosome]
+M------------------------------------------KV-YFVTSNEGKFREVR
+EIGKKY---GIE-IDWIRRKYLEPQGSDLEEIARISAQLLAEEI----------K--EPF
+FLEDSGLFIEALKGFPGPYSSYVFKTIGNEGILKLMEG--VE----D--RRAYFLAVIAF
+W-DGE------------------------------------------------------K
+VLTFKGRVDGKIAREMRGDK-GFGFDPIFEY-GD--RTF--AEMG-EEKNEVSHRRRALE
+SFFEYLKSLK-------------------
+>REF-YP_001548788-NC_009975 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanococcus maripaludis C6} [Chromosome]
+M------------------------------------------KI-YFATGNQNKVDEAK
+IILKEV---DCE-IEQIEIPYAEVQG-RIEEVSAFGVLEVFEKF----------N--RPV
+IVEDSGFFIEKLNDFPGTYSKFVQESLGNEGILKLLEN--EN----N--RNAYFKTVIGY
+Y-DGD------------------------------------------------------N
+IKLFTGIVKGTVSMEIKDGGFGFAYDSIFIP-EGETKTF--AEMTTEEKSKISHRKRAFY
+ELKNYLE-NL-------------------
+>REF-YP_003535923-NC_013967 Ham1 family protein {Haloferax volcanii DS2} [Chromosome ]
+M-------------------------------------------L-RYVTTNAGKVREAL
+SYLD-----D-D-VTQLDFDYTEVQASDLGPIAAHGAREAYRYA----------D--EPV
+LVDDAGLFIDGFEGFPGPYSSYVEDTLGVEAVHRLAAA--EL----DEPRRASFRCVLAY
+C-DGEPFEASPNP--IDRDDRTVAAARGAE----QDAE-------ET---------EALP
+VKLFTGSVNGRIV-PPRGEG-GFGYDPIF---EHDGATF--AEMSAEEKNGISHRGRALA
+KFSTWYA-----ER---------------
+>REF-NP_341966-NC_002754 HAM1 protein {Sulfolobus solfataricus P2} [Chromosome ]
+M------------------------------------LRR-GVKI-GVLTNNENKFIELK
+EIAKNF---NIE-LEHLRGEKIEIQSDDLEEISRTAANLAYLIF----------R--RPL
+IVDDSGLFVQALQNFPGPYTNFVKNTIGLKGILKLLEG--IK----D--RSAYFMTALTF
+T-DGK------------------------------------------------------I
+IKTFIGIVKGAISEEIRGNL-GFGFDPIFIP-EGEKRTF--AEMSLEEKNRYSHRARAFA
+KFAEFLESYTEKE----------------
+>REF-YP_685526-NC_009464 nucleoside-triphosphatase (Ham1-like) {uncultured methanogenic archaeon RC-I} [Chromosome]
+M------------------------------------Q---KPTL-YFVTHNAGKFREAQ
+ALFREY----FN-LEQIDMTYPELQEDDLSKIAAYGARYCSVEL----------D--RPV
+IVEDSGLFIDALNGFPGPYSAYVQKTIGNKGILKLMEG--VS----A--RRAEFRSVVAY
+CAPGE------------------------------------------------------E
+PTVFTGIWWGDLLTEEVGTG-GFGYDPIFSY-----RRFPVGEMTVEQKNEVSHRRRALL
+EFRQWYENKLNAVR---------------
+>REF-YP_002429032-NC_011766 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Desulfurococcus kamchatkensis 1221n} [Chromosome]
+M----------------------------------------SVKL-LLLSGNRHKYLEIK
+DIAREY---GVN-VAPLEGLKIEIQDDDLSNIALTAALIGYSLL----------R--KPV
+LVEDAGLFIRALNGFPGPYSSYVFKTLGLNGVLKLMEG--IS----E--RDACFKSVAVA
+V-IHG------------------------------------------------------E
+IIRGEGEVCGYITTTPRGNK-GFGFDPVFAPREQPYRTF--GEMDVEEKNKYSHRAKAVK
+AVFEKIK------------------EKAG
+>REF-YP_004484705-NC_015562 nucleoside-triphosphatase rdgB {Methanotorris igneus Kol 5} [Chromosome ]
+M------------------------------------------KIIYFATGNPNKVKEAN
+VILKDL--EDIK-IEQIKMPYPELQG-TLEEVAEFGAKYVYEKI----------K--KPV
+IVEDSGFFVEALNGFPGTYSKYVQETIGNEGILKLLEN--KE----N--RNAYFKTVIGY
+C-DEN------------------------------------------------------G
+VKLFIGVVKGKVAEEIRSKGYGFAYDSIFIP-EGEDRTF--AEMTTEEKSQISHRKRAFE
+EFKKFLLDRI-------------------
+>REF-YP_003419958-NC_013769 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Sulfolobus islandicus L.D.8.5} [Chromosome ]
+M------------------------------------LRR-DVRI-GVVTSNENKFMELK
+ELAKSF---NIE-LEQLKGEKIEIQSDNLEEISKTAAYLAYLTF----------R--RPL
+IVDDSGLFIETLQNFPGPYTNFVKNTIGLKGILKLLED--LK----D--RSAYFMTVLTF
+T-DGK------------------------------------------------------I
+IKTFNGIVKGVISEEIRGNS-GFGFDPIFIP-EGEKRTF--AEMSLEEKNKYSHRARAFA
+KFADFLMSYLEKA----------------
+>REF-YP_004004468-NC_014658 ditpase {Methanothermus fervidus DSM 2088} [Chromosome ]
+M-----------------------------------------KKV-IFITSNLHKVSEAR
+KIFEEN---NIE-MEHRNVKYYEIQG-SLEEVASHAAKKLAEKL----------N--HPV
+IVEDAGLFIKALNGFPGPYSSYVQKTIGNKGILKLMEN--IE----D--RQAEFKSVVGY
+CEPGS------------------------------------------------------K
+PKIFVGVVKGNISTEEIGDK-GFAFDPIFYP-EGYKKTF--GELDPEEKNRISHRGKSFR
+KFVSWFKKQQKVIK---------------
+>REF-YP_004035538-NC_014729 ditpase {Halogeometricum borinquense DSM 11551} [Chromosome ]
+M-------------------------------------------L-HYVTTNAGKVREAL
+QYLA-----D---VEQLDYDYTEVQASDLGPIAAHGAREAYRHA----------G--EPV
+LVDDAGLFIDGFEGFPGPYSSFVEDTLGVETVYRLAES--EL----EEPRRASFDCVLAY
+C-DGEGFEATPDP--VDRDDRTVAAARGAE----QDDE-------ET---------EALP
+VKLFRGTVRGRIV-PPRGEG-GFGYDPIF---EHEGTTF--AEMSSEEKNAISHRGRALA
+KFGEWFA-----ERTE-------------
+>REF-NP_632627-NC_003901 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanosarcina mazei Go1} [Chromosome ]
+M-----------------------------------------HKI-VFVTGNKGKFAEVR
+DILKNF---GIE-AIQNKDGYPELQEDELEPIAANGAQYVANKL----------N--MPV
+MVDDSGIFINALNGFPGPYSRFVEDKLGNPKVLKLMEG--EK----D--RSAYFKTVIGY
+CEPGQ------------------------------------------------------E
+PLVFPGVVEGKIAYEERGTG-GFGYDPIFEY-NG--MTF--GELGDEEKNKVSHRRRAVD
+NFLEWFIGGA-------------------
+>REF-YP_001030092-NC_008942 hypothetical protein {Methanocorpusculum labreanum Z} [Chromosome ]
+M-------------------------------------------I-TVVTGNKNKAAEVA
+AFFD-----GIAEVSHIAFDCIEPQSDSIAEIAKEKAKQAYAAL----------K--IPL
+IVDDTGLFIEALTGFPGPYAAYVQDTLGNAGVLRLMEG--LS----D--RRAYFATSIAY
+I-DDA------------------------------------------------------G
+IEIFEGRVDGEITDIPRGTD-GFGYDPIF---SVQGRTL--AEMNMHEKNTVSHRARALL
+AFREWYISARSERNR--------------
+>REF-NP_376236-NC_003106 hypothetical protein {Sulfolobus tokodaii str. 7} [Chromosome ]
+M------------------------------------LK--SVEV-NVITSNENKFKELD
+SIAKKY---NIK-LKWINLPKFEVQSDSLEEIVRSSAVIAFNMI----------R--SPL
+IVEDSGLFIEALNNFPGPYTNYVRRTLGLKGILKLMEG--IQ----N--RKAYFMTALCY
+V-DEE------------------------------------------------------V
+IRVFTGKVVGKISESIRGDK-GFGFDPIFIP-DGDERTF--GEMNIEEKNKYSHRGKAFE
+EFIKFFLTYIS------------------
+>REF-YP_843990-NC_008553 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanosaeta thermophila PT} [Chromosome ]
+M-------------------------------------------I-RFVTSNRGKFIEAQ
+RILGG--------IVQADLGYTEIQADTLEEVVLFGLKELSTRL----------D--SPF
+IIEDAGLFVEALNGFPGVYSAYVQKTIGNSGILRLMDG--IE----N--RAASFRSVVGY
+SAPGM------------------------------------------------------E
+PVLFKGELRGVIGFEARGTG-GFGYDPIFEV-DG--RTL--AEMDLEEKNMISHRGRSMK
+ALKRWLESQ--------------------
+>REF-YP_003669611-NC_014205 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Staphylothermus hellenicus DSM 12710} [Chromosome ]
+M------------------------------------LNKQLEPI-YFITGNKHKLLEAK
+PIAEKY---GFI-IVQSNYPKHEIQDSNILNIARHAALNAYMNL----------K--KPV
+LVEDAGLFIDALKGFPGPYSSYVFKTIGITGILKLMEN--IV----D--RKACFKSAVAL
+I-YEP------------------------------------------------------F
+IISVLEKTCGIISREPRGEQ-GFGFDPIFIP-EGSNKTF--GEMSIDEKNKYSHRARSVE
+KAFSTLKQYFKNGIRFKNRL---------
+>REF-YP_001737849-NC_010482 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Candidatus Korarchaeum cryptofilum OPF8} [Chromosome]
+M---------------------------------------------IFASSNRHKYEEFR
+RMLSDL----ID-LKFLEVDYLEPQGEDTREIVVTSAKWLSNYI----------R--EPF
+FIEDSGLFIEALNGFPGPYSSYVFKKIGNEGVLKLMNG--VE----N--RRAFFISVIAL
+S-YGR------------------------------------------------------G
+IEVFEGRVQGTIAREVRGG--GWGFDPIFIP-NGSNKTY--GELG-DEKDRFSHRGASCR
+KLREFLMRFGSDRLP--------------
+>REF-NP_143746-NC_000961 putative deoxyribonucleotide triphosphate pyrophosphatase {Pyrococcus horikoshii OT3} [Chromosome ]
+M------------------------------------------KI-FFITSNPGKVREVA
+NFLGTF---GIE-IVQLKHEYPEIQAEKLEDVVDFGISWLKGKV----------P--EPF
+MIEDSGLFIESLKGFPGVYSSYVYRTIGLEGILKLMEG--AE----D--RRAYFKSVIGF
+YIDG-------------------------------------------------------K
+AYKFSGVTWGRISNEKRGTH-GFGYDPIFIP-EGSEKTF--AEMTIEEKNALSHRGKALK
+AFFEWLKVNLKY-----------------
+>REF-YP_004521220-NC_015574 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanobacterium sp. SWAN-1} [Chromosome ]
+M------------------------------------------KL-TFITGNQHKVKEAK
+GIFDKF---GIK-LEHADLGYPEIQG-DLVDVARYGAKDAAGRF----------G--QPV
+IVEDAGIFIKSLKWFPGPYSSYVQETLGNKGILKLMSD--VE----D--RYAEFRSVIGY
+CTPKA------------------------------------------------------E
+PKTFLGTVKGRIGYKERGKH-GFAYDPLFYP-EGYDKSF--GELTTQEKNDFSHRRQSLE
+QFAHWYKEL--------------------
+>REF-YP_004576196-NC_015636 Nucleoside-triphosphatase rdgB {Methanothermococcus okinawensis IH1} [Chromosome ]
+M------------------------------------------KI-YFATGNPNKIKEAN
+IILKDL--KNIS-VEHLKCPYPEIQG-TLEEVSEFGAKYVYEKI----------K--KPI
+IVEDSGFFIGALNGFPGTYSKYVQETLGNEGILKLLEDIEGE----N--RKAYFKTVIGY
+C-DEN------------------------------------------------------G
+VKLFKGVIEGKVAHEIRSKGYGFAYDSIFIP-DGEDRTF--AEMKTEEKSEISHRKRAFE
+EFKKFLYNKIIKTNDRGYYGIQNTSNRIH
+>REF-YP_003435706-NC_013849 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Ferroglobus placidus DSM 10642} [Chromosome ]
+M------------------------------------------KL-NFVTTNEGKYREVR
+GIAEEY---GIE-VSWLNYRYDEFQGESLEEVALKSAKYLANRI----------E--PMF
+VIEDSGLFVEALKGFPGVYSSYVFKTIGNEGILKLMEG--VE----N--RKAKFVAVVVF
+Y-DGS------------------------------------------------------E
+FHIFKGEVEGRIAEEIRGTH-GFGFDPIFEY-QG--KTF--AEMG-EEKNKVSHRRKAFQ
+SFFEWLTKNF-------------------
+>REF-YP_003893329-NC_014507 non-canonical purine NTP pyrophosphatase {Methanoplanus petrolearius DSM 11571} [Chromosome ]
+M------------------------------------------NL-KVVTGNPNKVKEVA
+AYFG-----EFVVVEHVKLDLPEYRGDDVGEIARGKAKVAYEAV----------G--EPL
+IVDDTGFYIRALNGFPGAYAAFVLDTIGMEGVLKLMES--KP----E--RSAYFETAIAY
+A-DEK------------------------------------------------------G
+IFIFKGRVEGEIMTSPRGKE-GFGYDPVF---SVGGKTL--AEIPLTEKSAISHRGRALE
+EFKKWFV-----ENRL-------------
+>REF-YP_920320-NC_008698 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Thermofilum pendens Hrk 5} [Chromosome ]
+M------------------------------------------RV-YVVTGNVHKVAELS
+LALKPF---GVE-LEPLRAEKLEVQSESLEKIALVAAEHLPP-L----------D--KPA
+IVEDAGLFVKALNGFPGPYSSYAYKTIGCRGLLKLMEG--VS----D--REAVFRSVIAL
+RMPDG------------------------------------------------------S
+IHLFKGEAAGVITEEERGTG-GFGFDPVFRP-RGSEKTF--AEMTTEEKNLYSHRAKAAR
+NLAEWLVRRAKGI----------------
+>REF-YP_004289327-NC_015216 non-canonical purine NTP pyrophosphatase rdgB/HAM1 family {Methanobacterium sp. AL-21} [Chromosome ]
+M------------------------------------------KI-TFITGNQHKVKEAR
+GIFDNF---GIE-LEHVDFGYPEIQG-DLVDVAKFGAKHVAVRL----------G--KPV
+IVEDAGIFIKSLKWFPGTYSSYVQDTLGNEGILKLMSD--NT----D--RYAEFRSAVGF
+CTPKT------------------------------------------------------E
+PEIFLGTVSGRIDNSELGEN-GFAYDPLFIP-EGYSESF--GELSTQEKNKFSHRRKSLE
+KFAVWYKDYVGD-----------------
+>REF-YP_004780819-NC_015931 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Pyrolobus fumarii 1A} [Chromosome]
+M----------------------------------------RLRL-YFVTSNWGKFEEAR
+MVMKEC---GVELVMEPRVPKVEVQSLDVSEVARWAAYTAYLAT----------G--RPV
+VVEDTGLYIDALGGFPGAMAAHVYKTIGVEGILKLMEN--VE----N--RRARFVTSVVA
+VIPP-------------------------------------------------------H
+IVEARGTVEGVITRESRGSG-GFGFDPIFQP-LGADKTF--AEMSIEEKNRYSHRARAFR
+ALCEQLKRLGLV-----------------
+>REF-YP_003357975-NC_013665 nucleoside-triphosphatase {Methanocella paludicola SANAE} [Chromosome ]
+M------------------------------------Q---RPTL-YFVTTNAGKLREAK
+DLFKDY----FE-VEQVNTTYPELQEDDLSKIAAYGARYCADSL----------N--REV
+IVEDSGLFVDALKGFPGPYSSFVQKTLGNKGILKLMEG--VE----G--RRAEFRSVVGY
+CAPGE------------------------------------------------------E
+PTTFTGIWWGDILHQETGTG-GFGYDPIFSY-----RKFPVGEMTVEQKNEVSHRRRSMI
+QFRDWYLSRIK------------------
+>REF-YP_184524-NC_006624 putative deoxyribonucleotide triphosphate pyrophosphatase {Thermococcus kodakarensis KOD1} [Chromosome ]
+M------------------------------------------RL-AFVTSNPGKVEEAR
+KYFEPL---GVE-VYQLKVSYPEIQADTLEEVAEYGAKWLAQRV----------D--GPF
+FLDDSGLFVEALKGFPGVYSAYVYKTIGYQGILKLLQG--EK----N--RKAHFKSVIAY
+W-DG-------------------------------------------------------E
+LHIFTGRVDGKIATEPRGSG-GFGFDPIFIP-EGFDRTF--AEMTTEEKNRISHRGRALR
+EFANWLKENLK------------------
+>REF-YP_004615579-NC_015676 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanosalsum zhilinae DSM 4017} [Chromosome ]
+M-----------------------------------------RKI-VFVTGNKGKYLEVK
+EIFSVK---NIE-VIQNTDGYPELQYDDLEPIAAYGAKWAAEQF----------K--MPV
+MVDDSGLFIDTLNGFPGPYSAFVEKHLGNLGILKLMEN--EK----N--RKAAFKSVIGY
+CEPGI------------------------------------------------------E
+STVFTGSVEGQIAHEERGNE-GFGFDPIFEY-KG--RTF--AEMGNEEKNLVSHRRRALD
+KFYEWLD----------------------
+>REF-YP_003727300-NC_014253 non-canonical purine NTP pyrophosphatase {Methanohalobium evestigatum Z-7303} [Chromosome ]
+M-----------------------------------------RKI-VFVTGNEDKYREVK
+EILEKK---DIK-IIQKDLEYPELQEDDLEPIAYYGAKWTADRL----------N--MPV
+IVDDSGIFIEALNGFPGPYSAFVEKHLGNQKVLKLMDD--ET----V--RDATFKSVIGY
+CEPEN------------------------------------------------------E
+PIVFTGKVEGKIAYSERGEG-GFGFDPIFEY-QG--KTF--AEIGDYEKNKVSHRMRALE
+KFYEWLD----------------------
+>REF-YP_023366-NC_005877 nucleoside-triphosphatase {Picrophilus torridus DSM 9790} [Chromosome ]
+M---------------------------------------------LFITSNRHKYEEAA
+EFLGNY---NID-IKWKNMKYEEIQGDTNKEISMDSCRKLMYKI----------K--DDF
+FIDDTGLYIDDLNGFPGPYASYVNKTLGNKNIIRLASG-----------SRAHFETVISL
+FYSG-------------------------------------------------------K
+IYQFSGILNGTISDHESGSM-NFGYDPIFIP-DGYDKSL--AELSISEKNRISHRSKALE
+IMVEFLKKQ--------------------
+>REF-YP_001048153-NC_009051 RdgB/HAM1 family non-canonical purine NTP pyrophosphatase {Methanoculleus marisnigri JR1} [Chromosome ]
+M------------------------------------------KV-AVVTSNANKAREVA
+AYFA-----GVLTIEHVALECPEFRHADVGEIARGKAEFAYRTL----------S--RPL
+IVDDTGLFVDALGGFPGPYAAYVHDTIGNAGVLKLMEG--VE----D--RSARFETAIAF
+A-RED------------------------------------------------------G
+IRVFRGVLPGTIV-APRGEE-GFGYDPIF---EYDGRTL--AEIPLAEKSRISHRARALE
+AFRAWVEREAGDDRTVNMSKNE-------
+>REF-YP_004423809-NC_015474 hypothetical protein {Pyrococcus sp. NA2} [Chromosome ]
+M------------------------------------------KI-FFITSNRGKVEEFS
+KFLEPL---GIE-IVQLNYGYPEIQSQSLEEVVRFGIEWLKDKV----------P--EPF
+IIEDSGLFIEHLNGFPGVYSAYVYKTIGLDGILKLMEG--VE----N--RRAYFKSVIGF
+YYKN-------------------------------------------------------R
+SHLFVGVTHGVISTEKRGTF-GFGYDPIFIP-EGSKKTF--AEMTIVEKNKLSHRGKALK
+EFYKWLKENLKY-----------------
+>REF-YP_003247952-NC_013407 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanocaldococcus vulcanius M7} [Chromosome]
+M------------------------------------------KI-YFATGNLNKIKEAK
+IILKDL---NVE-LERVNIEYPEIQG-SLEEVAEFGAKWVYNIL----------K--KPV
+IVEDSGFFVEVLDGFPGTYSKFVQETIGNEGILKLLED--KD----N--RNAYFKTVIGY
+C-DEN------------------------------------------------------G
+VKLFKGVVKGQVSREIRSKGYGFAYDSIFIP-EGENRTF--AEMTTEEKSKISHRKKAFE
+EFKKFLLSDLLKRKDK------------N
+>REF-YP_303842-NC_007355 putative deoxyribonucleotide triphosphate pyrophosphatase {Methanosarcina barkeri str. Fusaro} [Chromosome 1]
+M-----------------------------------------HKV-VFVTGNKGKFAEVR
+DILKTF---ELE-VVQDKNGYPELQEDDLEPIAAYGAQYVANKM----------N--MPV
+MVDDSGIFIKVLNGFPGPYSRFVEDRLGNPKVLKLMEG--ET----D--RTAYFKTVIGY
+CEPGK------------------------------------------------------E
+PLVFPGVVEGEIAYEERGTG-GFGYDPIFEY-QG--ITF--GELGDVEKNKVSHRRRAID
+SFLEWYKGKLEKT----------------

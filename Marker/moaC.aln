@@ -1,0 +1,990 @@
+>REF-YP_003727416-NC_014253 molybdenum cofactor biosynthesis protein C {Methanohalobium evestigatum Z-7303} [Chromosome ]
+-M------------------------AKEFTHTV-DDRVQMVDTSKKDSVSRQAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGKIILTEDTINN----------------------------------------IQSSSI
+E---KGNVLATARVAAIMAAKKTSDTI----PMCHPIPITGIDTNFD-I--NNNYITASV
+KVKSVGKTGVEMEALNGVSTALLTIWDMVKSAEK-D----------ETGNYPHTKIQDIE
+VVEK-TKSESI------
+>REF-NP_376357-NC_003106 moaC putative molybdenum cofactor biosynthesis protein MoaC {Sulfolobus tokodaii str. 7} [Chromosome ]
+-M----------------------------------TEAKIVDISSKDIVLREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+VEGYIKLRKETIEK----------------------------------------IKNKEV
+E---KGDVITVAKTAGILAAKKTPELI----PMCHPIPLEFVDVEIK-I--EEEGLRVIS
+TVKAHYKTGVEMEALTATSVALLTIWDMVKKYEK-D----------ENGQYPYTEIKSIR
+VINK-IKTYDDMK----
+>REF-YP_003816762-NC_014374 Probable molybdenum cofactor biosynthesis protein C {Acidilobus saccharovorans 345-15} [Chromosome ]
+----------------------------------------MVDVTNKPVVYREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGEIVLRPETVRR----------------------------------------IREGLV
+E---KGNVEAVASVAAIMAAKDSSKII----PLAHPIPITGVDVSFD-Y--TENSVRLRV
+TVKTKAETGVEMDALAGVMAGLLAIWDMVKAYEK-D----------EKGQYPVTAIRNVV
+VESK-FKGEA-------
+>REF-YP_503702-NC_007796 molybdenum cofactor biosynthesis protein C {Methanospirillum hungatei JF-1} [Chromosome ]
+-MPV-------------------------FTHLD-DDRARMVDVSAKGEVYRKAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGTITLRPDTLSA----------------------------------------IRDGTV
+V---KGNVLATARVAATLAIKDTPRLI----PMCHAIPVHGIDITFD-Y--TKTGITATV
+TVISAGKTGVEMEALVGVSTALLTIWDMVKSAEK-D----------EKGQYPVTGISDIR
+VLEK-VKQDL-------
+>REF-NP_275948-NC_000916 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanothermobacter thermautotrophicus str. Delta H} [Chromosome ]
+-M----------------------MIMKEFTHTD-EKGVRMVDVGSKPVVRRTAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGHILLREDTINL----------------------------------------IREKKI
+E---KGNVLATAQIAAIVAVKRTWEII----PLCHPLPLTGVDVEFD-L--DDDRITARV
+TVRCDGKTGVEMEAVTGVSVALLTIWDMVKSVEK-D----------DDGQYPETAISNIR
+VIKK-EKLEL-------
+>REF-YP_004742841-NC_015847 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus maripaludis X1} [Chromosome ]
+-M---------------------------LTHVD-ENGVKMVDVSNKKDVERICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AVGFIKLKKSTIEK----------------------------------------ITKKEL
+I---KGDVLTTAQVAGVMAVKNTSNII----PMCHPLPIESIKVNFE-I--FEDKIKAEA
+RVKATYKTGIEMESLTGVSVALLTIWDMVKAIEK-D----------EFGQYPNTQIYGIE
+VTEK-IKKE--------
+>REF-YP_002427906-NC_011766 molybdenum cofactor biosynthesis protein C {Desulfurococcus kamchatkensis 1221n} [Chromosome]
+----------------------------------------MADITGKEDVYREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGYIKLKPSTIEI----------------------------------------IKKGLV
+E---KGDVFSVSTIAAIMSVKETPRIL----PLTHNIPITNVKVDFE-V--LDDGIRVYI
+TVKTTARTGVEMEALTGAAIALLNIWDMVKKYEK-N----------EDGQYPYTVITDLR
+VVEK-KKGV--------
+>REF-YP_004291106-NC_015216 molybdenum cofactor biosynthesis protein C {Methanobacterium sp. AL-21} [Chromosome ]
+-M-----------------------DNQEFTHVT-QKGVRMVDVGDKAITKRSAK-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGRIYLQEFTIAK----------------------------------------IIKEEI
+K---KGNVLTTAQIAAISAVKSTHHLI----PLCHSLKITGVDVDFQ-V--DTEFIDVEV
+TVKCEGKTGVEMEALTGASVGLLTIWDMVKSVEK-D----------ENGQYPSTKISDIV
+VTEK-IKN---------
+>REF-YP_004243864-NC_015151 molybdopterin cofactor biosynthesis MoaC region {Vulcanisaeta moutnovskia 768-28} [Chromosome ]
+-M-----------------------------------TVRMIDITSKEPVYREAIATGFL
+RVDEDTMSDLMKVGISGLGNAAAIAKVTAINATKTAWKYIPLLHPVPITYIETRVHYEKN
+GIRMAVLARTRAQTGVEMDALFGLFTGLLAAWNTIKGCSRTCTPEWVTNFMGKQVQTCGS
+SRVDGMFDIRVVSKVKSEEGVNLSLSDFEDNTGGEPV------VTMFDVTTEPTYYGEAS
+AKGFIRLRDSTVEL----------------------------------------IRQGRV
+E---KGDVITVAKAASIMATKKAWEIL----PLVHLNYITYVNADVK-V--VEDGAEVSV
+DTRNVSNTGSAMEAVFAVGVGLLTIWDMIKKYEK-D----------ENGQYPYTMIKEIK
+VLKA-LKTPAV------
+>REF-YP_001539950-NC_009954 molybdopterin cofactor biosynthesis MoaC region {Caldivirga maquilingensis IC-167} [Chromosome]
+-M-----------------------------------SVRMIDVSGKESVYREAWVEGLI
+RLRPELAKVIGDSWFIGLGNLASSISVAAVVAVKRAWEFIPLLHPIPITNVEVELTHGYD
+YVGLRVGAKTVAQTGVEMDALFGALTGLVTAWNVIKARHCVCGPNGDCRVVEEGEVGGLS
+FSGVGEIKGIEGVRVIRKIKGGLSSGNGTEGTGSINVNNAPSLVTLFDASNEPTYIGEAE
+ASGFIKLKPSTVEL----------------------------------------IRSGGV
+E---KGDVLATAQLAAISMAKRAWELL----PLIHQNYLTHVAVGAE-V--KDNGVYVKV
+TTRNVSRTGSAMEALMATGAALLTIWDMVKKYEK-D----------ENGQYPDTEVSFIR
+LEKA-VKTPMQ------
+>REF-YP_004004245-NC_014658 gtp cyclohydrolase subunit moac {Methanothermus fervidus DSM 2088} [Chromosome ]
+-M----------------------------------KKVQMVEIREKPVVYRSAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGEIFLKEKTIKA----------------------------------------IKNNKI
+K---KGDVLTTAQIAAINAVKNTPSII----PLCHPIQITGVDLDFE-I--KKDKIKVNV
+KVTSEGKTGVEMEALTGVSAALLTIWDMVKSVEK-D----------EKGQYPTTKISNIK
+VVEK-RKEKK-------
+>REF-YP_003535398-NC_013967 moaC molybdenum cofactor biosynthesis protein C {Haloferax volcanii DS2} [Chromosome ]
+-MSDERAGSDSNE--------SADGDDRDLTHLDEEGNVQMVDVGAKPDSRRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGTIHLSAATVRA----------------------------------------IRDDEI
+G---KGDVLATARIGAIQAVKHTWETI----PMCHQIPVTNVDTEFE-V--ADESVALSV
+TVGTTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-N----------DDGQYPGTRISDVE
+VVTK-EKETLD------
+>REF-YP_001030779-NC_008942 GTP cyclohydrolase subunit MoaC {Methanocorpusculum labreanum Z} [Chromosome ]
+-MPV-------------------------FTHLNENNEVHMVDVTPKPDVSREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIYLRPETLAA----------------------------------------IAEGRV
+L---KGNVLATAQVAGTLAVKQTWALI----PMCHPLPVGGVTIWFE-Q--TDEYIEAFC
+RVKTYGKTGIEMEALTGVSLSLLTIWDMVKSAEK-D----------EAGQYPVTRIDGIS
+VIEK-IKGTPE------
+>REF-YP_003419532-NC_013769 molybdenum cofactor biosynthesis protein C {Sulfolobus islandicus L.D.8.5} [Chromosome ]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTIIKDIK
+VIDK-IKEKD-------
+>REF-NP_070975-NC_000917 moaC molybdenum cofactor biosynthesis protein MoaC {Archaeoglobus fulgidus DSM 4304} [Chromosome ]
+-M--------------------------ELTHIE-DGKVRMVDVSHKDDVDRIAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIRLRSSTIEA----------------------------------------IINKEV
+A---KGNVIAAANIAGVMAVKKTPELI----PMCHPIPITSVKFDFD-I--ESVGIRVKC
+TVKSKGKTGVEMEALTGVSVALLTIWDMVKSLEK-D----------ERGNYPKTLIEVIR
+VVEK-VKGGKE------
+>REF-NP_280147-NC_002607 moaC putative molybdenum cofactor biosynthesis protein MoaC {Halobacterium sp. NRC-1} [Chromosome ]
+-MPD--------------------GDDDALTHTTADGDAQMVDVGSKPDTARRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGDLHLAESTIDA----------------------------------------VRDDGI
+G---KGNVLATARVGAIQAVKHTWETI----PMCHQIPITNVDTTFD-V--RDDRVVLEV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------ADGQYPGTAIENVG
+VDTK-EKHHPE------
+>REF-YP_002840487-NC_012623 putative molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus Y.N.15.51} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTIIKDIK
+VIDK-IKEKD-------
+>REF-YP_004623091-NC_015680 putative molybdenum cofactor biosynthesis protein MoaC {Pyrococcus yayanosii CH1} [Chromosome ]
+-M----------------------K----LTHVD-ERGVKMVEVGHKPDVIRKAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLRAETVRL----------------------------------------IREGKV
+E---KGNVLAAAQIAAILAVKKTPELI----PLCHPIPLTGIDVTFE-F--GEDYIEVTC
+EVRAHYKTGVEMEALTGVTVALLTIWDMVKAVEK-D----------EHGQYPFTRIENIR
+VVEK-MKGE--------
+>REF-YP_003458182-NC_013887 molybdenum cofactor biosynthesis protein C {Methanocaldococcus sp. FS406-22} [Chromosome ]
+-M---------------------------LTHVD-DKGVKMVDISKKDDVERFCV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKPETIKL----------------------------------------IKEHKI
+K---KGNVLTTAQIAGILAVKKTYELI----PMCHPIPITSVNIEFE-I--FEDKIKAIC
+SVKTTYKTGIEMEALTGVSIALLTIWDMVKSAEK-D----------ENGQYKTAEIFGIR
+VVEK-IKK---------
+>REF-YP_004484486-NC_015562 molybdenum cofactor biosynthesis protein C {Methanotorris igneus Kol 5} [Chromosome ]
+-M---------------------------LTHID-EKGVKMVDISKKEDVERICV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKPSTIEL----------------------------------------IKRNEI
+V---KGDVLTTAQIAAMMGVKNTSNLI----PACHPLPITSVRVDFE-V--FDDKIKATV
+EVKTTYKTGIEMEALTGVSIALLTIWDMVKSVEK-D----------ENGQYPNTEIYGIR
+VVKK-VKNNI-------
+>REF-YP_002832120-NC_012589 molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus L.S.2.15} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTIIKDIK
+VIDK-IKEKD-------
+>REF-YP_001097057-NC_009135 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus maripaludis C5} [Chromosome ]
+-M---------------------------LTHVD-ENGVKMVDVSKKKDVERICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AIGFIKLKKSTIEK----------------------------------------ITKKEL
+I---KGDVLTTAQVAGVMAVKNTSNII----PMCHPLPIESIKVNFE-I--FDDKIKAEA
+RVKATYKTGIEMESLTGVSVALLTIWDMVKAIEK-D----------EFGQYPDTQIYGIE
+VVEK-IKKE--------
+>REF-YP_004338366-NC_015315 molybdenum cofactor biosynthesis protein MoaC {Thermoproteus uzoniensis 768-20} [Chromosome ]
+----------------------------------------MVDISAKGDVGRYAV-----
+-----------------ASAEASTSDAVSCVVAASLATKQAYRYVPLLHPVPLSASAECS
+GGAVKARAWTVWKTGVEMDALFGALVGAI-------------------------------
+------------------------------------------------------------
+AGGATYIKRLRVDTKVKGVEYSLEEPRGAIKANRPDLGYVVKAHGYIHLTSTRPIKAGSV
+E---KGDPICAARTIAPLNAKRLCELL----PV-ECVKLEYANSSIE-I--GDDSVAVEV
+VLKGR-DVSPSLEALFAAGSALLTIWDMLKKYEK-D----------ENGQYPNTYVE---
+--------------LGL
+>REF-YP_003649839-NC_014160 GTP cyclohydrolase subunit MoaC {Thermosphaera aggregans DSM 11486} [Chromosome ]
+-M-----------------------------------SVHMVDVSGKPDSQREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGFIKLKKSTIEL----------------------------------------IRSGKI
+E---KGNVLDVSSVSAILGVKKTIELL----PLTHNIPISNVKVDFN-I--EEEGIRVYV
+TVKTTAKTGVEMEALMGATAALLNIWDMVKKYEK-D----------EKGQYPETVITDVR
+VLSK-VKTPLG------
+>REF-YP_004577008-NC_015636 molybdenum cofactor biosynthesis protein C {Methanothermococcus okinawensis IH1} [Chromosome ]
+-M---------------------------LTHVD-KKGVKMVDVSNKKDVERICI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGFIRLKPSTIKA----------------------------------------ITKKEV
+I---KGDVLTTAQVAGIMAVKNTSNII----PMCHPLPITSINVDFT-V--HEDNIEVEV
+RVKTTYKTGIEMEALTGVSVALLTIWDMVKAIEK-D----------ENGQYQSTEIYGIK
+VIKK-IKNE--------
+>REF-YP_004761846-NC_015865 putative molybdenum cofactor biosynthesis protein MoaC {Thermococcus sp. 4557} [Chromosome ]
+-M----------------------GE---LTHVD-EKGVKMVEVGHKTEVFRKAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGRIKLKPETIEL----------------------------------------IKSGKT
+K---KGNVIATAQIAGILAVKKTPELI----PLCHPIPLTGVDISFE-F--GDDYIEATC
+EVRATYKTGVEMEALTGVTVALLTIWDMVKAVEK-D----------ENGQYPFTRIEGIH
+VVEK-VKGAG-------
+>REF-NP_393970-NC_002578 moaC molybdenum cofactor biosynthesis protein MoaC {Thermoplasma acidophilum DSM 1728} [Chromosome ]
+----------------------------------------MINISEKAISARTAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGRIHLRRSTIQA----------------------------------------IREKKV
+K---KGDVLEVSRVVGTQHAKNTFLQI----PYCHNIPIEGVDVDFN-V--GEDYVEVSC
+TLTTTYKTGIEMEAISCVSGALINIWDMVKYLEK-D----------ESGNYPETRIDGIH
+VVEK-RKTPV-------
+>REF-YP_002914638-NC_012726 molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus M.16.4} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTMIKDIK
+VIDK-IKEKD-------
+>REF-YP_003894154-NC_014507 molybdenum cofactor biosynthesis protein C {Methanoplanus petrolearius DSM 11571} [Chromosome ]
+-MTE-------------------------FTHIK-DDKAYMVDVTEKPDVGRVAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGKIYLREETVEA----------------------------------------IRRGDV
+V---KGNVLATARVAGIMAVKRTSDLI----PMCHPLPVGGVNIDFN-EIKGEPCIEAIC
+TVKTYGKTGVEMEALTGVSIALLTIWDMVKSAEK-D----------EDGQYPETGIEDIH
+VVEK-RKG---------
+>REF-YP_003128940-NC_013158 molybdenum cofactor biosynthesis protein MoaC {Halorhabdus utahensis DSM 12940} [Chromosome]
+-MGE------------------------EFTHVD-DGAADMVDISDKPASKRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGAIELSDSTIEA----------------------------------------IREDEI
+G---KGNVLATARVGAIQAVKHTWETI----PLCHQIPITNVTTDFT-V--GEDAVQLRV
+TVETIGQTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------DDGSYPETAIRDAT
+VVEKTVQQASESE----
+>REF-YP_004342502-NC_015320 molybdenum cofactor biosynthesis protein C {Archaeoglobus veneficus SNP6} [Chromosome ]
+-M-------------------------GEFTHIE-SGRARMVDISGKGDVVRIAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIRLKKETVKA----------------------------------------IVEDKV
+A---KGNVLNTANIAAVLAVKKTPELI----PMCHPIPITSVQVSFD-V--TDEGIKAEC
+TVKSVGKTGVEMEALTGVSVALLTIWDMVKSLEK-N----------EEGQYPTTAIENMR
+VVKK-VKESGK------
+>REF-YP_003176753-NC_013202 molybdenum cofactor biosynthesis protein C {Halomicrobium mukohataei DSM 12286} [Chromosome]
+-M-------------------------DEFSHVE-DDAAQMVDVGDKAVVDRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGRIDLEPSTAES----------------------------------------IETGAV
+V---KGNVLATARVAAIQAVKRTWDDI----PMCHPLAIDGVTVDFA-V--REDGVESTV
+EVSSTGQTGVEMEALNGVTRALLTVWDMVKSAEK-D----------ADGQYPDTRISDVR
+VEAK-VKGDS-------
+>REF-YP_004408841-NC_015435 putative molybdenum cofactor biosynthesis protein MoaC {Metallosphaera cuprina Ar-4} [Chromosome ]
+----------------------------------------MIDISEKRVVFREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFINLKPSTIKM----------------------------------------IREGKI
+E---KGDVITVAKTAGILAAKRTPEIL----PLCHPIPLEKVEIEVS-V--EDSGVRVRA
+TVLAHYKTGVEMEALTAVSGAILTIWDMVKKYEK-D----------ENGQYPSTKISEIK
+VINK-LKTM--------
+>REF-YP_004423331-NC_015474 putative molybdenum cofactor biosynthesis protein C {Pyrococcus sp. NA2} [Chromosome ]
+-M----------------------VEK--LTHVD-ERGVKMVEIGHKDVVFRRAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLRPKTVRL----------------------------------------IKEGKI
+E---KGNVLATAQIAGILAVKKTPEII----PLCHPIPLTGVDITFE-F--GEDYIEVTC
+EVRAYYKTGVEMEALTGVTVALLTIWDMVKAVEK-D----------EKGQYPFTRIEDIR
+VVEK-VKEPRSNRGSRT
+>REF-YP_003901903-NC_014537 molybdopterin cofactor biosynthesis-containing protein MoaC region {Vulcanisaeta distributa DSM 14429} [Chromosome ]
+-M-----------------------------------SVKMIDITSKEPVYREAIATGFL
+RVDEDTMGELMKTGVSGLGNAAAIAKVTAINATKTAWKYIPLLHPVPITYIEAKVRYEKN
+GIRMAVLARTKAQTGVEMDALFGLFTGLLAAWNTIKGCSRTCTPEWVTNFMGKQVQTCGS
+SRVDGMFDIKVVSKVKSEDGVSLSLSDFEDNTGGSPV------VTMFDVTTEPTYYGEAS
+ARGFIKLREGTIEL----------------------------------------IRQGKV
+E---KGDVVTVAKTASIMATKRTWEVL----PLVHLNYITYVNTDVK-V--VEDGVEITV
+DTRNVSNTGSAMEAVFAVGVGLLTVWDMVKKYEK-D----------ENGQYPYTVIREVK
+VLKA-LKTPAV------
+>REF-YP_001152318-NC_009376 molybdenum cofactor biosynthesis protein (moaC) {Pyrobaculum arsenaticum DSM 13514} [Chromosome]
+-M--------------------------------------IVDVSKKPDIIRYAR-----
+-------------------ASAGAEVEKCNTAAAVRAALNAGRYLPFLHPLPLRASAWCE
+NGRMYVEGFTEWQTGVEMDVLFGALVGLV-------------------------------
+------------------------------------------------------------
+GSGARKITKLVVESKLKHVAPALTR-AELVELPLARQGDLVASAYGKMVLINKNLVTNGV
+E---KGHPLYAAQTAAALNVKRFCEIVGGPCP-----TVQHFKIDIE----VSDHVEVRT
+LVKTR-DIAPAPEAMFAAGVALLTIWDMLKKYEK-N----------EEGKYPNTYIEVLF
+VE---------------
+>REF-YP_001054921-NC_009073 molybdenum cofactor biosynthesis protein (moaC) {Pyrobaculum calidifontis JCM 11548} [Chromosome ]
+-M--------------------------------------IVDVSKKLDVYRYAK-----
+-------------------ASVELGLSRCNTVVAAKGAAEAYRHLPFLHPVPLRAGATCR
+GGRLYVEGVAEWQTGVEMDVLFGALVGAV-------------------------------
+------------------------------------------------------------
+ASGAVEMRNMLVEAKVKG-SPVEIQ-GELQEAPFERRGDLSARAFGRLMLKSLELVKRPV
+E---KGHPLYAAQTAASLSSKRFCEIVGGVCP-----KIQHYKIDIE----VVDAVEVRV
+EVKAR-DVSPAPEALFSAGVALLTIWDMLKKYEK-D----------EAGQYPHTRITSIS
+LD---------------
+>REF-YP_003616623-NC_014122 molybdenum cofactor biosynthesis protein C {Methanocaldococcus infernus ME} [Chromosome ]
+-M---------------------------Y-----EKGVRMVDISEKKDVYRECI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKKETINI----------------------------------------IKEGKA
+K---KGDVLKVAQVAGIMAVKKTFELI----PMCHPIPITGVNVEFE-I--FEDKIKATC
+KVKTTYKTGVEMEALTGVSVALLTIWDMVKSYEKLD-------------NYKETRIYDIK
+VVEK-IKKD--------
+>REF-YP_001329540-NC_009637 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus maripaludis C7} [Chromosome]
+-M---------------------------LTHVD-ENGVKMVDVSKKKDVERICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AVGFIKLKKSTIEK----------------------------------------ITKQDV
+I---KGDVLTTAQVAGVMAVKNTSNII----PMCHPLPIESIKVNFE-I--FEDKIKAEA
+RVKATYKTGIEMESLTGVSVALLTIWDMVKAIEK-D----------EFGQYPDTQIYGIE
+VTEK-IKKE--------
+>REF-YP_135842-NC_006396 moaC molybdenum cofactor biosynthesis protein MoaC {Haloarcula marismortui ATCC 43049} [Chromosome I]
+-MSE------------------------EFTHVDEEGDAQMVDVGDKAESQRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGQIRLTESTLAA----------------------------------------IDADEV
+E---KGDVLATARIGAIQAVKHTWEMV----PMCHQIPITNVDIEFT-V--GDEAVEIVV
+AVETVGKTGCEMEALEGVTTGLNVVWDMVKANEK-D----------DDGEYPTTAIEDIR
+VVEK-TVDR--------
+>REF-YP_004782041-NC_015931 molybdenum cofactor biosynthesis protein C {Pyrolobus fumarii 1A} [Chromosome]
+-M----------------------------------SKVHMVDVTHKPVVYREAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGAIRLRPETIRA----------------------------------------IREGRI
+E---KGDVLTTAAIAGILAAKKTWDLI----PLCHPLPLTHVDVKCE-VS-GEDRVVCRA
+KVVTSAKTGVEMEALTAVSIALLTVWDMTKKLEK-D----------EEGQYPYTRIEYIR
+VVSK-KKGGEA------
+>REF-YP_004383997-NC_015416 moaC molybdenum cofactor biosynthesis protein C {Methanosaeta concilii GP6} [Chromosome ]
+----------------------------------------MVDITSKSLVYRKAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGSIRLKESTLQA----------------------------------------IRCGEI
+K---KGDPLATARLAAILAVKETPRLI----PLCHPIPITGLVVGLE-L--EVMRIRATV
+TVTSVGRTGVEMEALTGVSVALLNIWDMVKYLEK-D----------ETGNYPETEIEEIR
+VLEK-VKGE--------
+>REF-YP_023839-NC_005877 molybdenum cofactor biosynthesis protein C {Picrophilus torridus DSM 9790} [Chromosome ]
+----------------------------------------MIDISSKEIIKREAS-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGRIRLKSETLNA----------------------------------------IIENNV
+K---KGDVIETARIAGTMAVKNTAGVV----PYCHNVPLSSIDFDFK-V--LNDCIESIC
+TVKAIYRTGVEMEAIHGVMVSLLTIWDMVKYMEK-D----------DNGQYPETLISDVK
+VLYK-VKS---------
+>REF-YP_003737039-NC_014297 putative molybdenum cofactor biosynthesis protein MoaC {Halalkalicoccus jeotgali B3} [Chromosome ]
+-MSD-------------------PGDDHDLTHVDESGEARMVDVGEKSDTARRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGEIHLRESTIRA----------------------------------------IRENST
+K---KGDVLATARIGAIQAVKHTWETI----PMCHQIPITNVEVEFE-V--DEDHVRLEV
+GVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------SEGQYPGTRIEDVR
+VVRK-EKRALE------
+>REF-YP_003478666-NC_013922 molybdenum cofactor biosynthesis protein C {Natrialba magadii ATCC 43099} [Chromosome ]
+-MSETPISTDGGNGDDSGAETDADATAEDLTHTTDDGDVQMVDVGDKPDSKRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIRLQASTVDA----------------------------------------IREDEI
+G---KGDVLATARIGAVQAVKHTWETI----PMCHQIPITNVETDFS-L--AEDRVEFQV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAVEK-D----------DEGQYPETGIENVR
+VVQK-EKRQT-------
+>REF-NP_634230-NC_003901 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanosarcina mazei Go1} [Chromosome ]
+-M------------------------EKSFTHIE-AGRARMVDISEKNDVSRLAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIVLSAETLEK----------------------------------------IRTGTV
+E---KGNVFATARVAAVLAVKKTPETI----PMCHQIPITGIDVDFE-I--GEEAVSAVV
+EVRTVGKTGVEMEALTGVSSALLTVWDMVKSAEK-D----------EIGNYPHTLIRNIR
+VLEK-LKGKA-------
+>REF-YP_686778-NC_009464 moaC putative molybdenum cofactor biosynthesis protein MoaC {uncultured methanogenic archaeon RC-I} [Chromosome]
+-M-----------------------PAKDFTHVD-GDKVKMVDVGAKADVLRIAK-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AQGTIRLTKDTMAL----------------------------------------IKAGNV
+K---KGNVLATARVAGVMAVKRTWDLI----PLCHQIPVSGIDIDFE-V--GEETITAVV
+EVRSTGKTGVEMEALTGVSVALLTIWDMVKSAEK-D----------STGNYPETRITDIK
+VVHK-IKETPGKP----
+>REF-YP_002307098-NC_011529 putative molybdenum cofactor biosynthesis protein MoaC {Thermococcus onnurineus NA1} [Chromosome]
+-M----------------------KE---LTHVD-EKGVKMVEVGHKREVLRKAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLRPETIEL----------------------------------------IKAGKT
+K---KGNVIATAQIAGILAVKKTPELI----PLCHPIPLTGVDISFE-F--GEDYIEATC
+EVRATYKTGVEMEALMGVTLALLTIWDMVKAVEK-D----------EQGQYPFTRIEGIH
+VVEK-VKEEG-------
+>REF-YP_002837555-NC_012622 molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus Y.G.57.14} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTIIKDIK
+VIDK-IKEKD-------
+>REF-NP_248127-NC_000909 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanocaldococcus jannaschii DSM 2661} [Chromosome ]
+-M---------------------------LTHVD-DKGVKMVDISKKEDVERICV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKPETIKL----------------------------------------IKEQKI
+K---KGNVLTTAQIAGILAVKKTYELI----PMCHPLPITSVNVDFE-V--FEDKIKAIC
+SVKTTYKTGIEMEALTGVSIALLTIWDMVKSAEK-D----------EDGQYKTAEIFGIR
+VVEK-IKK---------
+>REF-NP_126061-NC_000868 moaC putative molybdenum cofactor biosynthesis protein MoaC {Pyrococcus abyssi GE5} [Chromosome ]
+-M----------------------VGR--LTHVD-EKGVKMVEIGHKDVVFRKAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLRPETIKL----------------------------------------IREGKI
+E---KGNVLATAQIAGILAVKKTPELI----PLCHPIPLTGVDITFE-F--GEDYIEATC
+EVRAYYKTGVEMEALTGVTVALLTIWDMVKAVEK-D----------EHGQYPYTRIEDVR
+VVEK-IKTYSTQ-----
+>REF-YP_566511-NC_007955 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcoides burtonii DSM 6242} [Chromosome ]
+-M-------------------------QEFSHIK-DDRAYMVDISNKDTVVRYAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGKIKLHDETVEK----------------------------------------IRSGDV
+E---KGNVLATARTAAILAVKRTPDLI----PMCHQIPITSVDVEFE-I--GKSDVTANV
+EVKSVGRTGVEMEALTGVSVALLTIWDMVKSAEK-D----------NTGNYPSTAIENIH
+VIRK-VKETITNQ----
+>REF-NP_579583-NC_003413 moaC putative molybdenum cofactor biosynthesis protein MoaC {Pyrococcus furiosus DSM 3638} [Chromosome ]
+-M----------------------K----LTHVD-EKGVKMVEVGHKKDMYRRAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIKLKPETIKL----------------------------------------IREGKI
+E---KGNVLAAAQIAGILAVKKTFDII----PLCHPIPLTGVDITFD-F--GEDYIEVTC
+EVRAIYKTGVEMEALTGVSVALLTIWDMVKAVEK-D----------EKGQYPYTKIEEIR
+VVEK-IKEERS------
+>REF-YP_002829424-NC_012588 molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus M.14.25} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTMIKDIK
+VIDK-IKEKD-------
+>REF-NP_147886-NC_000854 moaC putative molybdenum cofactor biosynthesis protein MoaC {Aeropyrum pernix K1} [Chromosome ]
+-M----------------------------------SGAGMVDITAKEPVRREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGFISLKRETVKA----------------------------------------IREGRV
+E---KGDVISVASVAAVLAVKETPRLI----PLTHPIPIEKVEPEVR-V--RDDGVEVRV
+RVATTAKTGVEMEALAGVTAALLTVWDMVKSLEK-D----------ETGNYPDTVITGVK
+VEVK-RKG---------
+>REF-NP_111268-NC_002689 moaC putative molybdenum cofactor biosynthesis protein MoaC {Thermoplasma volcanium GSS1} [Chromosome ]
+MI---------------------------------DFDGNMINISRKDVVARKAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AVGRIYLRKETITA----------------------------------------IKNNQV
+K---KGNVIEISRAVGTMYAKNTFLQI----PYCHNIPIEGVDVDFS-L--GENYVEVTC
+STTTSYKTGIEMEAINCVNGALLNIWDMVKYLEK-D----------ETGNYPETRIEGVH
+VIKK-TKSQE-------
+>REF-YP_003543020-NC_014002 GTP cyclohydrolase subunit MoaC {Methanohalophilus mahii DSM 5219} [Chromosome ]
+-M-------------------------GEFTHIK-DGHVHMVDVSEKSQVKRTAL-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGSIFLCKETIEE----------------------------------------IQKGDI
+E---KGNVLATARIAAIMAVKKTPELI----PMCHQIPITGIDMDFE-I--CTDRITVDL
+SVKSRGQTGVEMEAITGVSCALLAIWDMVKALEK-D----------ETGNYPHTRITDIE
+VIHK-AKES--------
+>REF-NP_143646-NC_000961 moaC putative molybdenum cofactor biosynthesis protein MoaC {Pyrococcus horikoshii OT3} [Chromosome ]
+-M----------------------VGG--LTHVD-EKGVKMVEIGYKDVVFRKAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIKLKPETVKL----------------------------------------IKEGKI
+E---KGNVLATAQIAGILAVKRTPELI----PLCHPIPITGVDITFD-F--GEDYIEVTC
+EVRAYYKTGVEMEALTGVTVALLAIWDMVKAVEK-D----------EKGQYPYTRIENVH
+VVEK-VKTHNSQ-----
+>REF-NP_558853-NC_003364 molybdenum cofactor biosynthesis protein (moaC) {Pyrobaculum aerophilum str. IM2} [Chromosome ]
+-M--------------------------------------IVDISKKPDVFRYAR-----
+-------------------ASANADVKKCNTAVAAKAATVASRYLPFLHPLPLSATAWCK
+DGKFYVEGIAHWQTGVEMDVLFGVLVGLL-------------------------------
+------------------------------------------------------------
+GSGAVKIENLRVEIKQKQTTPPIIENVNTSEAPITREGDLVASAYGRMKVVNLDIVKNPV
+E---KGHPIYAAQTAAALNAKRLCELLGGPCP-----SVQHFKIEII----TSDSVEVRT
+FIKAR-DITPAPEALFSAGVALLTIWDMIKKYEK-D----------ENGQYPYTYISELH
+LD---------------
+>REF-YP_004070787-NC_014804 MoaC-like molybdenum cofactor biosynthesis protein {Thermococcus barophilus MP} [Chromosome ]
+-M--------------------------KLTHVD-EKGVKMVEVGHKDVVFRKAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGKIRLKPETIKL----------------------------------------IQEGKT
+K---KGNVLAAAQIAGILAVKRTWEII----PLCHPIPLTGVDISFE-F--GEDYIEATC
+EVRAYYKTGVEMEALTGVSVALLTIWDMVKAVEK-D----------EKGQYPVTRIYDIR
+VVEK-IKGNYL------
+>REF-YP_327516-NC_007426 moaC molybdenum cofactor biosynthesis protein MoaC {Natronomonas pharaonis DSM 2160} [Chromosome ]
+-MSD----------------------DSELTHVTDDGDAQMVDVGEKPDTARRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGEITLQPSTVAA----------------------------------------IETNDV
+E---KGDVLAVARVGAIQAVKHTWETV----PMCHQIPITNVDTEFS-T--SETAVELTV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------ADGQYPDTGIDSVE
+VIEK-EKRAL-------
+>REF-NP_988186-NC_005791 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus maripaludis S2} [Chromosome ]
+-M---------------------------LTHVD-ENGVKMVDVSNKKDVERICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AVGFIKLKKSTIEK----------------------------------------ITKKEL
+I---KGDVLTTAQVAGVMAVKNTSNII----PMCHPLPIESIKVNFE-I--FEDKIKAEA
+RVKATYKTGIEMESLTGVSVALLTIWDMVKAIEK-D----------EFGQYPNTQIYGIE
+VTEK-IKKE--------
+>REF-YP_004807175-NC_015954 molybdenum cofactor biosynthesis protein C {halophilic archaeon DL31} [Chromosome ]
+-MSERP-------------EKAADTDDDELTHTTEQGDVQMVDVGKKPDTGRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGEIQLTESTIAA----------------------------------------VRADDV
+G---KGDVLATARVGAVQAVKHTWETI----PMCHQIPITNVETAFE-V--RDDRIELEV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-EVVSAAPETGVEASGYPGTRINDVK
+VVSK-EKREL-------
+>REF-YP_004597249-NC_015666 molybdenum cofactor biosynthesis protein C {Halopiger xanaduensis SH-6} [Chromosome ]
+-MSDDPTPAEGSN-PDPRADA-GDTDSKDLTHTTDEGDVQMVDVGDKPDSERRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIRLQASTVEA----------------------------------------IRDDQI
+G---KGDVLATARVGAVQAVKHTWETI----PMCHQIPITNVDTDFE-L--GEDRVELEV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAVEK-D----------DNGQYPETGIENVR
+VLEK-EKRRK-------
+>REF-YP_003247395-NC_013407 putative molybdenum cofactor biosynthesis protein MoaC {Methanocaldococcus vulcanius M7} [Chromosome]
+-M---------------------------LTHVD-EKGVKMVDISKKSNVGRICI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYINLKPETIKL----------------------------------------IKENKI
+K---KGNVLTTAQIAGILAVKKTQDLI----PMCHPLPITSINIDFE-I--FDNKIKAIC
+SVKTTYKTGIEMEALTGVSIALLTIWDMVKSAEK-D----------ENGNYNNTEIFGVR
+VVKK-VKLSSD------
+>REF-YP_002467526-NC_011832 molybdenum cofactor biosynthesis protein C {Methanosphaerula palustris E1-9c} [Chromosome]
+-MPE-------------------------FTHIN-GDKVQMVDITAKGEVKRMAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGTITLRSDTVAA----------------------------------------IRTGTV
+L---KGNVLATARIAATLAVKQTPQLI----PLCHQIPIGAITVDFT-D--TEVSITAEV
+TVTSYGRTGVEMEALTGVSVALLTIWDMVKSAEK-D----------ENGQYPVTGISDIR
+VIEK-IKG---------
+>REF-NP_613839-NC_003551 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanopyrus kandleri AV19} [Chromosome ]
+-M------------------------------TAGGRRMSMVDVTGKKEEIRIAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGFLRLTEDGVNA----------------------------------------VKSGES
+HPQGKGDPIEVAKVAAILAVKKTPELV----PHCHPIKITGVDVDVE-V--LEDGVKMSV
+RVKSEGKTGVEMDALTGLVVGLVTLWDMVKYAEK-D----------EEGQYPHTRIENVR
+VVEKIIKEKE-------
+>REF-YP_001737470-NC_010482 molybdenum cofactor biosynthesis protein C {Candidatus Korarchaeum cryptofilum OPF8} [Chromosome]
+----------------------------------------MIDITDKPPAYREAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLRKETIEK----------------------------------------IRAGEV
+K---KGDVLTVARVAAVQSVKETPKII----MLCHPIQVTSTDVDFR-L--GEDYIEVSV
+RVKAIAQTGVEMEALAAVSSALLNIWDMVKYLEK-D----------ESGNYPHTKIEEIF
+VERK-VKSVVDR-----
+>REF-YP_001322909-NC_009634 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus vannielii SB} [Chromosome]
+-M---------------------------LTHVD-ENGVKMVDVSIKKDVERSCT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AIGFIKLKPETIEK----------------------------------------INNKEI
+I---KGDVLTTAQVAGIMAVKNTSNII----PMCHPLPIASVKISFE-I--FKDNIKAEA
+TVKAIYKTGIEMESLTGVSVALLTILDMVKAIEK-D----------EFGQYPNTEIYGIK
+VTEK-TKGN--------
+>REF-YP_003400037-NC_013741 molybdenum cofactor biosynthesis protein C {Archaeoglobus profundus DSM 5631} [Chromosome]
+-M----------------------------------EKARMVDISEKKDVIRVAK-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFVRLKKSTVEA----------------------------------------IREGNV
+P---KGDVLTIANVAGILAVKKTPEII----PMCHPIPITSVSIEFE-I--LDEGVKAVC
+TVKSVGKTGVEMEALTGVTAALLTVWDMVKALEK-D----------ETGNYPHTAIEYIR
+VLEK-FKG---------
+>REF-YP_004519551-NC_015574 molybdenum cofactor biosynthesis protein C {Methanobacterium sp. SWAN-1} [Chromosome ]
+-M-----------------------VEKTFTHLT-EGGVHMVEVGDKPVVKRSAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGKINLKESTLDL----------------------------------------IKKEEI
+K---KGNVLTTAQIAAIGAVKSTHHLI----PLCHSLRITGVEVDFK-V--GSKSIEMNV
+SVKSVGKTGVEMEALTGVSVGLLTIWDMVKSVEK-D----------ENGQYPSTNISDII
+VVKK-KKN---------
+>REF-YP_843515-NC_008553 putative molybdenum cofactor biosynthesis protein MoaC {Methanosaeta thermophila PT} [Chromosome ]
+-MI--------------------------------RDNNGMVDITDKPPVRRTAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGLIKLRRSTIEA----------------------------------------IVSGRV
+S---KGDVLTTARISAINAVKETPRLI----PMCHNIPITGVDTEVS-L--EDSAVRVKV
+KVTSVGRTGVEMEALTGASVALLTIWDMVKSLEK-D----------EHGCYPDTSIEYIR
+VEEK-VKDL--------
+>REF-YP_002565898-NC_012029 molybdenum cofactor biosynthesis protein MoaC {Halorubrum lacusprofundi ATCC 49239} [Chromosome 1]
+-MSDDPEDGSTGE------------PTDELTHTDASGEVRMVDVGDKPDTSRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGEIRLTPSTIEA----------------------------------------VEADEV
+G---KGDVLATARVGAVQAVKHTWETI----PMCHQIPITNVDTDFS-V--GDDGIELTV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------DDGQYPDTGITDVG
+VVEK-EKRALGE-----
+>REF-YP_919725-NC_008698 molybdenum cofactor biosynthesis protein C {Thermofilum pendens Hrk 5} [Chromosome ]
+MM---------------------------------SVNVRMVDITGKAESERLAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGKIRLRRETIEK----------------------------------------IRRGEV
+P---KGDVLAVAKTAAIMAVKKTWEII----PLCHPIPITFVDVNFD-V--MEEELRVRV
+EVKTTAKTGVEMEALTGASVALLTVWDMVKSLEK-D----------QEGQYPYTEINSIR
+VVEK-VKRQL-------
+>REF-NP_616109-NC_003552 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanosarcina acetivorans C2A} [Chromosome ]
+-M---------------------IFVEKSFTHIE-ADRARMVDISEKNNVLRMAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIVLSAETMEK----------------------------------------IRTGTV
+E---KGNVFATARVAAVLAVKKTPETI----PMCHQIPITGIDVDLE-I--GKDSVSAVV
+EVRTVGKTGVEMEALTGVSVALLTVWDMVKSAEK-D----------ETGNYPHTLIRNIR
+VLEK-LKG---------
+>REF-YP_001404985-NC_009712 molybdenum cofactor biosynthesis protein C {Methanoregula boonei 6A8} [Chromosome]
+-MVE-------------------------FTHIS-DGRAQMVDISAKPDVVREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AQGRIYLRPATLAA----------------------------------------IREGSV
+V---KGNVLATARVAATLAVKDTPRII----PMCHTIPLGAVTVDFT-E--GDGYIEATV
+VTKSTGKTGVEMEALTGVSVALLTIWDMVKSAEK-D----------ENGQYPVTCIEGIR
+VVEK-KKGQ--------
+>REF-YP_003128458-NC_013156 putative molybdenum cofactor biosynthesis protein MoaC {Methanocaldococcus fervens AG86} [Chromosome]
+-M---------------------------LTHVD-DKGVKMVDISEKEDVERFCV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKPETIKL----------------------------------------IKEQKI
+K---KGNVLTTAQIAGILAVKKTYELI----PMCHPIPITSVNIDFE-V--FEDKIKAIC
+SVKTTYKTGIEMEALTGVSIALLTIWDMVKSAEK-D----------ENGQYKTAEIFGIR
+VVEK-VKK---------
+>REF-YP_003668830-NC_014205 molybdenum cofactor biosynthesis protein C {Staphylothermus hellenicus DSM 12710} [Chromosome ]
+----------------------------------------MIDITGKEIVYREAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGIIKLKPDTVRR----------------------------------------IREGRV
+E---KGDVLTVSRIAAIQAVKKTPDLI----PLCHNIPITHVDVDYEFI--DNDKIKVVV
+KVKTTAKTGVEMEALTGVSTALLNIWDMVKKYEK-D----------ENGQYPETWIEKIR
+VVSK-IKKKI-------
+>REF-YP_004457706-NC_015518 molybdenum cofactor biosynthesis protein C {Acidianus hospitalis W1} [Chromosome ]
+-M----------------------------------TEARMVDISEKQPVLRIAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGYIKLKKETIDK----------------------------------------IKRGEI
+E---KGDVIAVAKVAGIMAAKKTPEIL----PMCHPIPLESIAVDVE-L--EEDKVKVKT
+EVKAHYKTGVEMEALTATSVALLTIWDMVKKYEK-N----------EEGQYTTTQIDGIK
+VVNK-LKISSS------
+>REF-YP_303928-NC_007355 moaC putative molybdenum cofactor biosynthesis protein MoaC {Methanosarcina barkeri str. Fusaro} [Chromosome 1]
+-M------------------------EKQFTHIE-SGRAHMVDISEKREVPRLAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIILSRETIEK----------------------------------------IQTGNV
+E---KGNVLATARVAAVLAIKKTPEII----PMCHQIPITAIDVDFE-V--GKGMISAEI
+EVRTVGKTGVEMEALTGVSAALLTIWDMVKSVEK-D----------ESGNYPHTSIQNIR
+VLEK-LKG---------
+>REF-YP_001689256-NC_010364 moaC molybdenum cofactor biosynthesis protein MoaC {Halobacterium salinarum R1} [Chromosome]
+-MPD--------------------GDDDALTHTTADGDAQMVDVGSKPDTARRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGDLHLAESTIDA----------------------------------------VRDDGI
+G---KGNVLATARVGAIQAVKHTWETI----PMCHQIPITNVDTTFD-V--RDDRVVLEV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------ADGQYPGTAIENVG
+VDTK-EKHHPE------
+>REF-YP_001549637-NC_009975 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus maripaludis C6} [Chromosome]
+-M---------------------------LTHVD-ENGVKMVDVSKKKDVERICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AIGYIKLKKSTIEK----------------------------------------ITKKEL
+I---KGDVLTTAQVAGVLAVKNTSNII----PMCHPLPIESIKVNFE-I--FEDKIKAEA
+RVKATYKTGIEMESLTGVSVALLTIWDMVKAIEK-D----------EFGQYPDTQIYGIE
+VTEK-IKKE--------
+>REF-YP_001041579-NC_009033 GTP cyclohydrolase subunit MoaC {Staphylothermus marinus F1} [Chromosome ]
+-M-----------------------------------FVSMVDVSGKRVVFREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGVIRLRPETVRR----------------------------------------IREGRV
+E---KGDVLTVTSVAAIQAVKKASELL----PLCHNIPITYVGVDYEFI--GDDRIRVVV
+TVRTTAQTGVEMDALTGVSIALLNIWDMVKKYEK-D----------EKGQYPETWIEKIR
+VVSK-IKKE--------
+>REF-YP_001192112-NC_009440 molybdenum cofactor biosynthesis protein MoaC {Metallosphaera sedula DSM 5348} [Chromosome]
+-M----------------------------------KEAIMVDISNKEVVLREAL-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLRPETIQL----------------------------------------VREGKI
+E---KGDVITIAKTAGILAAKRTPDLL----PLCHPIPLEKVEMEVL-V--EDEGIRVRS
+KVMAHYKTGVEMEALTSVSVALLTIWDMVKKYEK-D----------ERGQYPSTTITDVK
+VINK-IKVS--------
+>REF-YP_002843350-NC_012632 molybdenum cofactor biosynthesis protein MoaC {Sulfolobus islandicus M.16.27} [Chromosome]
+-M---------------------------------SSEAKMVDISPKETILRVAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIRR----------------------------------------IMENEV
+E---KGNVIAVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENNGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTMIKDIK
+VIDK-IKEKD-------
+>REF-YP_001013100-NC_008818 molybdenum cofactor biosynthesis protein C {Hyperthermus butylicus DSM 5456} [Chromosome ]
+-M---------------------------------SRKPSMVDITAKNVIVREAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AYGRIKLRPETISR----------------------------------------ILEGKI
+E---KGDPLTVASIAGIQAAKLTPLLL----PMCHPIEITKVDVECR-VE-DNEHVGCRA
+YVKAVARTGVEMEALTAVTVALLNVWDMVKKYEK-D----------ERGLYPHTVIEEVK
+VTSK-VKHGS-------
+>REF-YP_004616964-NC_015676 molybdenum cofactor biosynthesis protein C {Methanosalsum zhilinae DSM 4017} [Chromosome ]
+-M------------------------TDNFTHIV-DGRVHMVDISDKNTVTRQAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGVIVLSRQTIDR----------------------------------------IRKGLV
+E---KGNVFSTARIAAILAVKRTPEII----PMCHQIPISSVDVDLT-I--EGETVRSTV
+EVRSNARTGVEMEALNGVSTALLTVWDMVKSAEK-D----------SSGNYPDTVINDIR
+VVRK-TKGNYEIRSQE-
+>REF-YP_003424422-NC_013790 moaC molybdenum cofactor biosynthesis protein C MoaC {Methanobrevibacter ruminantium M1} [Chromosome ]
+-M-----------------------GEKEFTHLT-ESGVHMVEVGAKAQQRRTAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGKIHLQKETIRM----------------------------------------IENAEI
+K---KGNVLTTAQIAGIQAVKKTSDLI----PLCHPLNLSGIDIEFE-V--EEEEITAIC
+ECRLTGQTGVEMEAITGVSVALLTIWDMTKAVEK-D----------ENGQYPNTRISDIK
+VLKK-EKI---------
+>REF-YP_004176757-NC_014961 GTP cyclohydrolase subunit MoaC {Desulfurococcus mucosus DSM 2162} [Chromosome ]
+-M-----------------------------------DVRMVDVTGKDEVYREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ATGFIRLKPSTIEA----------------------------------------VRKGLV
+E---KGDVLAASTIAAILGVKETPRVL----PLTHNIPITHVKVDFT-V--LDEGIRVHV
+TVKTTAKTGVEMEALMGVAAALLNIWDMVKKYEK-D----------EKGQYPDTLITDVR
+VVEK-RKGDYQ------
+>REF-YP_001273935-NC_009515 molybdenum cofactor biosynthesis protein C MoaC {Methanobrevibacter smithii ATCC 35061} [Chromosome]
+-M------------------------GKEFTHLT-DSGVHMVEVGQKPDQKRLAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGKIHLDKNTIEM----------------------------------------IQNEEI
+K---KGNVLTTAQIAGIQAVKNTSSII----PLCHPLNLTGIEIDFD-V--KSTEITATC
+SVKTLGKTGVEMEALTGVSACLLAIWDMVKAVEK-D----------ENGQYPDTRISDIC
+VIKK-EKI---------
+>REF-YP_003483667-NC_013926 molybdenum cofactor biosynthesis protein C {Aciduliprofundum boonei T469} [Chromosome ]
+-M-------------------------------------SMVDISEKKNVLRIAK-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGTLVLKSTTVDA----------------------------------------IKRGEI
+K---KGDVFETAKVAGMLAVKNTPRII----PHCHPIPVEFIDFNFR-V--YGNRIDVEC
+EVKAHYKTGVEMEALTGVSVALLTIWDMVKYLEK-D----------ENGQYPMTQILGIE
+VVEK-RKEE--------
+>REF-YP_001793450-NC_010525 molybdopterin cofactor biosynthesis protein with MoaC region {Thermoproteus neutrophilus V24Sta} [Chromosome]
+-M--------------------------------------IVDVSRKPDVYRYAV-----
+-------------------ASAEVAAERCNTSVAARAALQAYRYLPFLHPLPLRASAGCR
+GGKLYVEGAAEWQTGVEMDVLFGALVGSV-------------------------------
+------------------------------------------------------------
+ASGIETIRNLSVDVKKKGEAPPDLSAGPLQETPFARGGDLETSAYGEMVLRNVELAKGPV
+E---KGHPIYAAQTAAALNAKRLCELLGGPCP-----SIQHFKIDIE----AGSRVEATA
+TVKAR-DMSPAPEALFAVGVALLTIWDMVKKWEK-D----------EMGQYPATKIAVIT
+LRG--------------
+>REF-YP_004036898-NC_014729 GTP cyclohydrolase subunit moac {Halogeometricum borinquense DSM 11551} [Chromosome ]
+-MTDETPVGGADG-----DSEDGTGDERDLTHVDEEGNVQMVDVGSKPDTRRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGTIHLTESTVDA----------------------------------------IRDDQI
+G---KGDVLATARIGAIQAVKHTWETI----PMCHQIPITNVETTFD-V--ADERVTLTV
+TVETTGKTGCEMEALEGVTTGLNVVWDMVKAAEK-D----------DDGQYPDTQISDVQ
+VVSK-EKHQE-------
+>REF-YP_003859308-NC_014471 GTP cyclohydrolase subunit MoaC {Ignisphaera aggregans DSM 17230} [Chromosome ]
+-M-----------------------------------AIKMIDITDKDNIYREAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGCIRLRKETIER----------------------------------------VIRGEV
+E---KGDVFSATKIVAIQGAKQTSMLL----PFCHPIKITYVEPRIS-I--EGDRICVEV
+LVKAYERTGVEMEALTGVAIALLNIWDMVKKYEK-D----------EEGQYPYTVIEDIR
+VVKK-VKKLDEAINT--
+>REF-YP_658077-NC_008212 moaC molybdenum cofactor biosynthesis protein MoaC {Haloquadratum walsbyi DSM 16790} [Chromosome]
+-MTEDINTQTDTK----HSDNENQSPDTELTHVNADGDAQMVDVGAKPDTNRRAS-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGEIELTQTTVDA----------------------------------------VRDNEI
+G---KGDVLATARIGAIQAVKHTWETI----PMCHQIPITNVDTVFD-L--HETAVELRV
+TVETTGKTGCEMEALEGVTTGLNVIWDMVKAAEK-D----------DAGQYPKTAITNIE
+VVNK-QKQTET------
+>REF-YP_002994946-NC_012883 putative molybdenum cofactor biosynthesis protein MoaC {Thermococcus sibiricus MM 739} [Chromosome]
+-M----------------------VRKMELTHVN-EKGVKMVEVGQKEVVFRKAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIKLKPETIRL----------------------------------------IQEGKT
+K---KGNVIASAQIAGILAVKRTWEII----PLCHPIPLTGVDIAFE-F--GKDYIEATC
+EVRAYYKTGVEMEALTGVSVALLTIWDMVKAVEK-D----------EKGQYPFTRIEDIR
+VVEK-IKE---------
+>REF-YP_255561-NC_007181 moaC putative molybdenum cofactor biosynthesis protein MoaC {Sulfolobus acidocaldarius DSM 639} [Chromosome ]
+-M----------------------------------TEIRMIDISGKDIVLREAI-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKKDTIEK----------------------------------------ITKREI
+E---KGDVIATAKVAGILAAKKTHELL----PMCHPIPLEYINVEIE-I--ENDGLKVVS
+TVRAHYRTGVEMEALTATSIALLTIWDMVKKYEK-D----------EEGQYPLTEISKIR
+VVSK-IKSYG-------
+>REF-YP_003404002-NC_013743 molybdenum cofactor biosynthesis protein C {Haloterrigena turkmenica DSM 5511} [Chromosome]
+-MSEEPTPAEGSN-PDPRADAESDTDADDLTHTTDEGDVQMVDVGDKPDSERRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AAGEIRLQSSTIEA----------------------------------------IRDDQI
+G---KGDVLATARVGAIQAVKHTWETI----PMCHQIPITNVDTDFE-L--DEDRVELEV
+AVETTGKTGCEMEALEGVTTGLNVVWDMVKAVEK-D----------DDGQYPETGIENVR
+VVTK-EKHQK-------
+>REF-NP_342277-NC_002754 moaC putative molybdenum cofactor biosynthesis protein MoaC {Sulfolobus solfataricus P2} [Chromosome ]
+-M---------------------------------SSEAKMVDISQKETVLREAE-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKNDTIKR----------------------------------------IIENEI
+E---KGNVITVAKTAGIMAAKKTSELL----PLCHLIPLENVDIDIK-I--ENSGIRVRS
+KVKAHYKTGVEMEALVATSISLLTIWDMVKKYEK-D----------ENGKYPYTMIDDIK
+VIDK-IKEKD-------
+>REF-YP_003355784-NC_013665 moaC probable molybdenum cofactor biosynthesis protein C {Methanocella paludicola SANAE} [Chromosome ]
+-M-----------------------RSTDFTHVE-GDKVKMVDVGSKEEVVRIAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGTIHLTKETMAL----------------------------------------IKAGNV
+K---KGNVLAAARIAAIQAAKHTWETI----PLCHQIPITGIDVEFE-V--GDTDIKAIA
+EVRSVGKTGVEMEALCAVSTALLTIWDMVKAVEK-D----------ETGNYPETKITNIV
+VDKK-IKAKQ-------
+>REF-YP_003850108-NC_014408 moaC molybdenum cofactor biosynthesis protein C {Methanothermobacter marburgensis str. Marburg} [Chromosome ]
+-M-------------------------KGFTHTD-GKSVRMVDVGSKAVVRRTAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGHISLTEDTLKL----------------------------------------IRKKRI
+E---KGNVLVTAQIAAIAAVKRTWDLI----PLCHPLPVTGVDVEFD-V--TADGITARV
+TVRCDGKTGVEMEALTGVSVALLTIWDMVKSVEK-D----------EDGQYPETAISNIR
+VLKK-EKAELEEVVE--
+>REF-YP_001047591-NC_009051 molybdenum cofactor biosynthesis protein C {Methanoculleus marisnigri JR1} [Chromosome ]
+-MSE----------------SGEHGKTPVFTHIE-NDRAQMVDISAKSEVTREAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ASGRIYLRSETLRA----------------------------------------IREGTA
+V---KGNVLATARVAATLAVKDTPRLI----PMCHPIPLGGITIDFE-E--GDGYIEATA
+RVRSYGRTGVEMEALTGVSVALLTVWDMVKSAEK-D----------ENGQYPVTRMDAIR
+VVEK-RKGV--------
+>REF-YP_004796378-NC_015948 moaC putative molybdenum cofactor biosynthesis protein C {Haloarcula hispanica ATCC 33960} [Chromosome I]
+-MPE------------------------EFTHVDEDGDAQMVDVGDKAESQRRAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+ARGQIRLTESTLAA----------------------------------------IDADEV
+E---KGDVLTTARIGAIQAVKHTWETV----PMCHQIPITNVEVEFT-V--GDAAVEITV
+AVETVGKTGCEMEALEGVTTGLNVVWDMVKANEK-D----------EDGEYPATAIEDIR
+VVEK-TVDR--------
+>REF-YP_001325097-NC_009635 putative molybdenum cofactor biosynthesis protein MoaC {Methanococcus aeolicus Nankai-3} [Chromosome]
+-M---------------------------LTHVD-ENGVKMVDVSNKKDVGRICT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGYIKLKPSTIEK----------------------------------------IKEKEV
+I---KGDVLTTAQVAGVMAVKNTSNTI----PMCHPLPITSIKVNFE-L--YDDKIEAIV
+TVKTTYKTGIEMEALCGVSTALLTIWDMVKAIEK-D----------EAGQYPETEIYGIK
+VVEK-IKNE--------
+>REF-YP_930606-NC_008701 molybdenum cofactor biosynthesis protein (moaC) {Pyrobaculum islandicum DSM 4184} [Chromosome ]
+-M--------------------------------------IVDISRKPDVFRYAR-----
+-------------------ASAEVVVDRCNTAVAAHAARFAHRYLPFLHPLPLSVSASCK
+NGRLYVEGSTEWQTGVEMDVLFGVLVGAV-------------------------------
+------------------------------------------------------------
+SSGVETIKNIVVEVKTKGDGYATVDITQLEELPLVRNGDVVASAYGEMELKSLDLVKKPV
+D---KGHPIYAAQTAAALNVKRLCELMGGPCP-----SIQSFKIDID----VRDILTAVA
+TVKSR-DVPPGPEALFAVGVAFLTIWDMVKKWEK-D----------ERGQYPYTKIRVVS
+LR---------------
+>REF-YP_182767-NC_006624 moaC putative molybdenum cofactor biosynthesis protein MoaC {Thermococcus kodakarensis KOD1} [Chromosome ]
+-M----------------------KD---LTHVD-EKGVKMVEVGHKDVVFRKAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIRLKPETIEL----------------------------------------IKAGKT
+K---KGNVIAAAQIAGILAVKKTPELI----PLCHPIPLTGVDITFE-F--GDDYIEATC
+EVRAYYKTGVEMEALTGVSVALLTIWDMVKAVEK-D----------ENGQYPFTRIEDIR
+VVEK-VKGEE-------
+>REF-YP_001435785-NC_009776 molybdenum cofactor biosynthesis protein C {Ignicoccus hospitalis KIN4/I} [Chromosome]
+-M---------------------------------GPKRGMVDITEKDVVYREAT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGVIRLRKETLDR----------------------------------------IYQNAV
+E---KGNVLEVTGAVAVQGAKLTPQLL----PYCHPIRLTDVKVEFERV--DENRLKVRV
+TVKAVERTGVEMEALTAVSLALLNIWDMVKKYEK-D----------EEGQYPYTEIESIK
+VIEK-RKSQI-------
+>REF-YP_003707001-NC_014222 molybdenum cofactor biosynthesis protein C {Methanococcus voltae A3} [Chromosome ]
+-M-------------------ENIKNTQELTHVD-ENGVKIVDISKKNDVYRECT-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGLIKLKPSTIKA----------------------------------------IVKNEI
+A---KGDVLTTAQVAGTMAVKNTSNMI----PMCHPVPITSAKVRFE-VDEEDNTVEAIC
+KVKSTYKTGIEMEALTGVSVALLTVWDMVKAIEK-D----------ENGQYPNTNISNIM
+VVEK-IKRDIE------
+>REF-YP_002959397-NC_012804 moaC putative molybdenum cofactor biosynthesis protein MoaC {Thermococcus gammatolerans EJ3} [Chromosome]
+-M----------------------GDRMELTHVD-ERGVKMVEVGHKDVVFRKAV-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AKGRIKLKPETIEL----------------------------------------IKAGKT
+K---KGNVIATAQIAGILAVKKTPELI----PLCHPIPLTGVDITFE-F--GKDYIEATC
+EVRAYYKTGVEMEALTGVTVALLTIWDMVKAVEK-D----------ENGQYPVTRIEDVH
+VVEK-IKQK--------
+>REF-YP_003436183-NC_013849 molybdenum cofactor biosynthesis protein C {Ferroglobus placidus DSM 10642} [Chromosome ]
+-M---------------------------FSHIE-NGKVRMVDVSEKDVVLRIAR-----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+AEGFIKLKKETIEA----------------------------------------IKKGEV
+E---KGNVIATAVIAGTLAVKKTSELI----PMCHPIPITSVKFDYE-F--EEDGIKMTC
+EVKAFAKTGVEMEALTGVSVALLTVWDMVKSMEK-D----------ERGNYPETAIKNVR
+VVEK-VKVPDF------

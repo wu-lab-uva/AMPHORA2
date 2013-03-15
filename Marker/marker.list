@@ -1,0 +1,135 @@
+rplA	Bacteria	50S ribosomal subunit protein L1
+rplB	Bacteria	50S ribosomal subunit protein L2
+rplC	Bacteria	50S ribosomal subunit protein L3
+rplD	Bacteria	50S ribosomal subunit protein L4
+rplE	Bacteria	50S ribosomal subunit protein L5
+rplF	Bacteria	50S ribosomal subunit protein L6
+rplK	Bacteria	50S ribosomal subunit protein L11
+rplL	Bacteria	50S ribosomal subunit protein L7/L12
+rplM	Bacteria	50S ribosomal subunit protein L13
+rplN	Bacteria	50S ribosomal subunit protein L14
+rplP	Bacteria	50S ribosomal subunit protein L16
+rplS	Bacteria	50S ribosomal subunit protein L19
+rplT	Bacteria	50S ribosomal subunit protein L20
+rpmA	Bacteria	50S ribosomal subunit protein L27
+rpsB	Bacteria	30S ribosomal subunit protein S2
+rpsC	Bacteria	30S ribosomal subunit protein S3
+rpsE	Bacteria	30S ribosomal subunit protein S5
+rpsI	Bacteria	30S ribosomal subunit protein S9
+rpsJ	Bacteria	30S ribosomal subunit protein S10
+rpsK	Bacteria	30S ribosomal subunit protein S11
+rpsM	Bacteria	30S ribosomal subunit protein S13
+rpsS	Bacteria	30S ribosomal subunit protein S19
+tsf	Bacteria	protein chain elongation factor EF-Ts
+frr	Bacteria	ribosome releasing factor
+infC	Bacteria	protein chain initiation factor IF-3
+smpB	Bacteria	small protein B
+rpoB	Bacteria	RNA polymerase beta subunit
+nusA	Bacteria	transcription pausing L factor
+dnaG	Bacteria	DNA primase
+pgk	Bacteria	phosphoglycerate kinase
+pyrG	Bacteria	CTP synthetase
+adk	Archaea	adenylate kinase
+argS	Archaea	arginyl-tRNA synthetase
+cca	Archaea	tRNA CCA-pyrophosphorylase
+dnaG_archaea	Archaea	DNA primase
+dph2	Archaea	diphthamide biosynthesis protein
+dph5	Archaea	diphthine synthase
+fbpA	Archaea	Fibronectin-binding A domain protein
+fen1	Archaea	flap endonuclease-1
+flpA	Archaea	fibrillarin
+gltX	Archaea	glutamyl-tRNA synthetase
+glyS	Archaea	glycyl-tRNA synthetase
+gtp1	Archaea	small GTP-binding protein
+hisS	Archaea	histidyl-tRNA synthetase
+hypothetical1	Archaea	hypothetical protein
+hypothetical2	Archaea	hypothetical protein
+hypothetical3	Archaea	hypothetical protein
+infB	Archaea	translation initiation factor 2
+ksgA	Archaea	dimethyladenosine transferase
+ligT	Archaea	2'-5' RNA ligase
+miaB	Archaea	RNA modification enzyme MiaB family
+moaA	Archaea	molybdenum cofactor biosynthesis protein A
+moaC	Archaea	molybdenum cofactor biosynthesis protein C
+mvk	Archaea	mevalonate kinase
+ndk	Archaea	nucleoside diphosphate kinase
+nop56	Archaea	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+nusG	Archaea	transcription antitermination protein
+pdxT	Archaea	glutamine amidotransferase subunit
+pelA	Archaea	cell division protein pelota
+pgk_arachea	Archaea	phosphoglycerate kinase
+pheS	Archaea	phenylalanyl-tRNA synthetase subunit alpha
+pheT	Archaea	phenylalanyl-tRNA synthetase subunit beta
+pilT	Archaea	Pil-T protein domain containing protein
+prmA	Archaea	methyltransferase small
+proS	Archaea	prolyl-tRNA synthetase
+pth	Archaea	peptidyl-tRNA hydrolase
+pus	Archaea	putative pseudouridylate synthase
+pyrB	Archaea	aspartate carbamoyltransferase
+pyrG_archaea	Archaea	CTP synthetase
+pyrH	Archaea	uridylate kinase
+pyrI	Archaea	aspartate carbamoyltransferase regulatory subunit
+rdgB	Archaea	non-canonical purine NTP pyrophosphatase rdgB/HAM1 family
+rfcL	Archaea	replication factor C large subunit
+rnhB	Archaea	ribonuclease HII
+rpiA	Archaea	ribose-5-phosphate isomerase A
+rpl10e	Archaea	50S ribosomal protein L10e
+rpl11p	Archaea	50S ribosomal protein L11P
+rpl13p	Archaea	50S ribosomal protein L13P
+rpl14p	Archaea	50S ribosomal protein L14P
+rpl15e	Archaea	50S ribosomal protein L15e
+rpl18e	Archaea	50S ribosomal protein L18e
+rpl18p	Archaea	ribosomal L18p/L5e family
+rpl19e	Archaea	50S ribosomal protein L19e
+rpl1p	Archaea	ribosomal protein L1P
+rpl21e	Archaea	50S ribosomal protein L21e
+rpl22p	Archaea	50S ribosomal protein L22p
+rpl24p	Archaea	50S ribosomal protein L24P
+rpl2p	Archaea	50S ribosomal protein L2P
+rpl30p	Archaea	ribosomal protein L30P
+rpl32e	Archaea	50S ribosomal protein L32e
+rpl3p	Archaea	50S ribosomal protein L3P
+rpl4lp	Archaea	50S ribosomal protein L4P
+rpl5p	Archaea	50S ribosomal protein L5P
+rpl6p	Archaea	50S ribosomal protein L6P
+rpl7ae	Archaea	50S ribosomal protein L7Ae
+rplP0	Archaea	acidic ribosomal protein P0
+rpoA1	Archaea	DNA-directed RNA polymerase subunit A'
+rpoB_archaea1	Archaea	DNA-directed RNA polymerase subunit B domain 1
+rpoB_archaea2	Archaea	DNA-directed RNA polymerase subunit B domain 2
+rpoD	Archaea	DNA-directed RNA polymerase subunit D
+rpoE1	Archaea	DNA-directed RNA polymerase subunit E'
+rpp	Archaea	RNA-processing protein
+rps10p	Archaea	30S ribosomal protein S10P
+rps11p	Archaea	30S ribosomal protein S11P
+rps12p	Archaea	30S ribosomal protein S12
+rps13p	Archaea	ribosomal protein S13
+rps15p	Archaea	30S ribosomal protein S15P
+rps17p	Archaea	30S ribosomal protein S17P
+rps19e	Archaea	30S ribosomal protein S19e
+rps19p	Archaea	30S ribosomal protein S19P
+rps2p	Archaea	30S ribosomal protein S2
+rps28e	Archaea	30S ribosomal protein S28e
+rps3ae	Archaea	ribosomal protein S3Ae
+rps3p	Archaea	30S ribosomal protein S3
+rps4e	Archaea	ribosomal protein S4E
+rps4p	Archaea	30S ribosomal protein S4P
+rps5p	Archaea	30S ribosomal protein S5P
+rps6e	Archaea	30S ribosomal protein S6e
+rps7p	Archaea	30S ribosomal protein S7P
+rps8e	Archaea	30S ribosomal protein S8e
+rps8p	Archaea	30S ribosomal protein S8P
+rps9p	Archaea	SSU ribosomal protein s9p
+sbds	Archaea	Shwachman-Bodian-Diamond syndrome protein
+secY	Archaea	preprotein translocase subunit SecY
+taqD	Archaea	glycerol-3-phosphate cytidyltransferase
+tef2	Archaea	translation elongation factor 2
+tif2a	Archaea	Rtranslation initiation factor IF-2 subunit alpha
+tif2g	Archaea	translation initiation factor IF-2 subunit gamma
+tif5a	Archaea	translation initiation factor IF-5A
+tif6	Archaea	translation initiation factor 6
+trm1	Archaea	N(2) N(2)-dimethylguanosine tRNA methyltransferase
+trm	Archaea	tRNA 2'-O-methylase
+trmH	Archaea	RNA methyltransferase TrmH family group 1
+tRNAmeth	Archaea	tRNA(1-methyladenosine) methyltransferase-like methyltransferase
+tRNAmod	Archaea	tRNA-modifying enzyme

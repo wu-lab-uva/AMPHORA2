@@ -181,5 +181,5 @@ STACK: Bio::Root::Root::throw /lib/site_perl/5.16.3/Bio/Root/Root.pm:368
 STACK: Bio::DB::Taxonomy::flatfile::_db_connect /lib/site_perl/5.16.3/Bio/DB/Taxonomy/flatfile.pm:463
 STACK: Bio::DB::Taxonomy::flatfile::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy/flatfile.pm:144
 STACK: Bio::DB::Taxonomy::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy.pm:116
-STACK: /homes/kmhandley/bin/AMPHORA2/Scripts/Phylotyping.pl:58
+STACK: AMPHORA2_home/Scripts/Phylotyping.pl:58
 

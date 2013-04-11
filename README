@@ -172,3 +172,14 @@ NP_414711-NC_000913     rpsB    Bacteria(0.96)  Proteobacteria(0.96)    Gammapro
 
 The phylotyping results are tab-delimited. The numbers within the parentheses are the confidence scores of the assignment. 
 
+If you see the following error message when you run Phylotyping.pl, you can delete the 'name2id' file in the folder AMPHORA2_home/Taxonomy/ and run the script again.
+
+------------- EXCEPTION: Bio::Root::Exception -------------
+MSG: No such file or directory AMPHORA2_home/Taxonomy/names2id
+STACK: Error::throw
+STACK: Bio::Root::Root::throw /lib/site_perl/5.16.3/Bio/Root/Root.pm:368
+STACK: Bio::DB::Taxonomy::flatfile::_db_connect /lib/site_perl/5.16.3/Bio/DB/Taxonomy/flatfile.pm:463
+STACK: Bio::DB::Taxonomy::flatfile::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy/flatfile.pm:144
+STACK: Bio::DB::Taxonomy::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy.pm:116
+STACK: /homes/kmhandley/bin/AMPHORA2/Scripts/Phylotyping.pl:58
+

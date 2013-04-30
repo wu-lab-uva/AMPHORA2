@@ -127,6 +127,10 @@ sub read_mask {
 	
 sub align {
 	my $marker = shift;
+
+	# remove duplicated sequences in the alignment
+	remove_duplicate($marker);
+
 	system("hmmalign -o $$.slx --mapali $ref_dir/$marker.stock $ref_dir/$marker.hmm $dir/$marker.pep>/dev/null"); 	
 	my $in = new Bio::AlignIO('-file'=>"$$.slx");
 	my $alignment = $in->next_aln();
@@ -169,6 +173,19 @@ sub trim {
 		$alignment->add_seq($seq);
 	}
 }	
+
+sub remove_duplicate {
+	my $marker = shift;
+	my %unique =();
+	my $seqin = new Bio::SeqIO('-file'=>"$dir/$marker.pep");
+	while (my $seq = $seqin->next_seq) {
+		$unique{$seq->id()} = $seq;
+	}
+	my $seqout = new Bio::SeqIO('-file'=>">$dir/$marker.pep", '-format'=>'fasta');
+	for (keys %unique) {
+		$seqout->write_seq($unique{$_});
+	}
+}
 
 sub output {
 	my $marker = shift;

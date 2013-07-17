@@ -183,3 +183,24 @@ STACK: Bio::DB::Taxonomy::flatfile::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy/fl
 STACK: Bio::DB::Taxonomy::new /lib/site_perl/5.16.3/Bio/DB/Taxonomy.pm:116
 STACK: AMPHORA2_home/Scripts/Phylotyping.pl:58
 
+KNOWN ISSUES
+
+Bioperl
+AMPHORA2 has been tested on Bioperl 1.6.1. People have reported problems running AMPHORA2 on Bioperl 1.6.9. For example, the following error has been reported when running Phylotyping.pl:
+
+------------- EXCEPTION: Bio::Root::Exception -------------
+MSG: parse error: expected ; or ) or ,
+
+STACK: Error::throw
+STACK: Bio::Root::Root::throw 
+/usr/local/share/perl/5.14.2/Bio/Root/Root.pm:472
+STACK: Bio::TreeIO::NewickParser::parse_newick 
+/usr/local/share/perl/5.14.2/Bio/TreeIO/NewickParser.pm:195
+STACK: Bio::TreeIO::newick::next_tree 
+/usr/local/share/perl/5.14.2/Bio/TreeIO/newick.pm:143
+STACK: main::assign_phylotype 
+/usr/local/Bioinf/AMPHORA2/Scripts/Phylotyping.pl:154
+STACK: /usr/local/Bioinf/AMPHORA2/Scripts/Phylotyping.pl:70
+
+Downgrading Bioperl from 1.6.9 to 1.6.1 solves the problem.
+

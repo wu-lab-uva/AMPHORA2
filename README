@@ -202,5 +202,5 @@ STACK: main::assign_phylotype
 /usr/local/Bioinf/AMPHORA2/Scripts/Phylotyping.pl:154
 STACK: /usr/local/Bioinf/AMPHORA2/Scripts/Phylotyping.pl:70
 
-This is because Bioperl module Bio::TreeIO::NewickParser.pm in 1.6.9 is unable parse the RAxML output. You can either downgrade Bioperl from 1.6.9 to 1.6.1 to solve the problem or modify the module as suggested by Bill Nelson (http://wcnjournalclub.blogspot.com/2014/02/getting-amphora2-to-work-with-bioperl.html). 
+This is because Bioperl module Bio::TreeIO::NewickParser.pm in 1.6.9 is unable to parse the RAxML output. To solve the problem, you can either downgrade Bioperl from 1.6.9 to 1.6.1 or modify the module as suggested by Bill Nelson (http://wcnjournalclub.blogspot.com/2014/02/getting-amphora2-to-work-with-bioperl.html). 
 

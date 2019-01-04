@@ -7,7 +7,7 @@ my $path = `pwd`;
 #Check if HMMER3 is installed
 my $hmm_config = `hmmsearch -h`;
 
-if($hmm_config =~ /HMMER 3\.0/){
+if($hmm_config =~ /HMMER 3\./){
 	print "HMMER3 is installed.\n";
 }
 else{

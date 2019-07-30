@@ -49,6 +49,7 @@ my $cutoff = 0.4;
 my $ref_dir = "$AMPHORA_home/Marker";
 my $format = 'phylip';
 my $alignment;
+my $alignment_length = 0;
 
 my (%markerlist, %imprint, %mask, @output_seq) = ();
 
@@ -140,6 +141,7 @@ sub align {
 		my ($ID) = ($seq->id() =~ /^(\S+)/);
 		$seq->id($ID);
 		my $sequence = $seq->seq();
+		$alignment_length = $seq->length();
 		$sequence =~ s/\./-/g;
 		$seq->seq($sequence);
 		if (exists $imprint{$ID}) {
@@ -199,8 +201,7 @@ sub output {
 	$alignout->write_aln($alignment);
 
 	open (OUT, ">$dir/$marker.mask") || die "Can't write $dir/$marker.mask\n";
-	my @tmp = sort {$b <=> $a} keys %mask;
-	for (1 .. $tmp[0]) {
+	for (0 .. ($alignment_length-1)) {
 		if (exists $mask{$_}) {
 			print OUT int($mask{$_}*10)," ";
 		}

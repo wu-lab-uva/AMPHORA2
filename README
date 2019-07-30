@@ -111,7 +111,7 @@ Options:
 Example:
 1a. Identify phylogenetic markers from the E. coli proteome. 
 
-	Perl MarkerScanner.pl –Bacteria TestData/ecoli.pep
+	perl MarkerScanner.pl –Bacteria TestData/ecoli.pep
 
 1b. Identify phylogenetic markers from the E. coli genome assembly
 	

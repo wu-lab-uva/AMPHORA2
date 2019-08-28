@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 # AMPHORA (version 2.0) An Automated Phylogenomic Inference Pipeline for Bacterial and Archaeal Sequences. 
 # Copyright 2011 by Martin Wu
  
